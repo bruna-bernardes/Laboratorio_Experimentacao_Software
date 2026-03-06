@@ -1,4 +1,5 @@
 id,nameWithOwner,url,stargazerCount,createdAt,pushedAt,primaryLanguage
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=,codecrafters-io/build-your-own-x,https://github.com/codecrafters-io/build-your-own-x,472885,2018-05-09T12:03:18Z,2026-02-21T09:34:54Z,{'name': 'Markdown'}
 MDEwOlJlcG9zaXRvcnkyMTczNzQ2NQ==,sindresorhus/awesome,https://github.com/sindresorhus/awesome,443098,2014-07-11T13:42:37Z,2026-03-04T16:56:28Z,
 MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==,freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,437844,2014-12-24T17:49:19Z,2026-03-06T18:15:08Z,{'name': 'TypeScript'}
@@ -20,10 +21,34 @@ MDEwOlJlcG9zaXRvcnkxMzgzOTMxMzk=,trimstray/the-book-of-secret-knowledge,https://
 MDEwOlJlcG9zaXRvcnkxOTQxNTA2NA==,ossu/computer-science,https://github.com/ossu/computer-science,202176,2014-05-04T00:18:39Z,2026-03-04T01:29:26Z,{'name': 'HTML'}
 MDEwOlJlcG9zaXRvcnkxMjY1NzcyNjA=,trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,195748,2018-03-24T07:47:04Z,2026-02-18T09:20:06Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,194016,2015-11-07T01:19:20Z,2026-03-06T20:44:43Z,{'name': 'C++'}
+=======
+MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=,codecrafters-io/build-your-own-x,https://github.com/codecrafters-io/build-your-own-x,472884,2018-05-09T12:03:18Z,2026-02-21T09:34:54Z,{'name': 'Markdown'}
+MDEwOlJlcG9zaXRvcnkyMTczNzQ2NQ==,sindresorhus/awesome,https://github.com/sindresorhus/awesome,443097,2014-07-11T13:42:37Z,2026-03-04T16:56:28Z,
+MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==,freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,437844,2014-12-24T17:49:19Z,2026-03-06T18:15:08Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk1NDM0Njc5OQ==,public-apis/public-apis,https://github.com/public-apis/public-apis,404756,2016-03-20T23:49:42Z,2026-02-19T15:14:35Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==,EbookFoundation/free-programming-books,https://github.com/EbookFoundation/free-programming-books,383678,2013-10-11T06:50:37Z,2026-03-06T17:40:11Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==,kamranahmedse/developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,350324,2017-03-15T13:45:52Z,2026-03-06T15:06:44Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk2MDQ5MzEwMQ==,jwasham/coding-interview-university,https://github.com/jwasham/coding-interview-university,337639,2016-06-06T02:34:12Z,2025-08-28T14:42:47Z,
+MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==,donnemartin/system-design-primer,https://github.com/donnemartin/system-design-primer,337611,2017-02-26T16:15:28Z,2025-11-03T12:06:22Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==,vinta/awesome-python,https://github.com/vinta/awesome-python,285895,2014-06-27T21:00:06Z,2026-03-04T17:17:10Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkzNjYzMzM3MA==,awesome-selfhosted/awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,277959,2015-06-01T02:33:17Z,2026-02-27T19:02:23Z,
+MDEwOlJlcG9zaXRvcnkxNzc3MzY1MzM=,996icu/996.ICU,https://github.com/996icu/996.ICU,275667,2019-03-26T07:31:14Z,2025-08-22T06:01:29Z,
+R_kgDOQb6kRw,openclaw/openclaw,https://github.com/openclaw/openclaw,270718,2025-11-24T10:16:47Z,2026-03-06T20:47:54Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk4ODAxMTkwOA==,practical-tutorials/project-based-learning,https://github.com/practical-tutorials/project-based-learning,260382,2017-04-12T05:07:46Z,2024-08-15T05:33:54Z,
+MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==,facebook/react,https://github.com/facebook/react,243683,2013-05-24T16:15:54Z,2026-03-05T15:52:24Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnkyMzI1Mjk4,torvalds/linux,https://github.com/torvalds/linux,221203,2011-09-04T22:48:12Z,2026-03-06T18:36:22Z,{'name': 'C'}
+MDEwOlJlcG9zaXRvcnk2MzQ3NjMzNw==,TheAlgorithms/Python,https://github.com/TheAlgorithms/Python,218396,2016-07-16T09:44:01Z,2026-03-02T18:33:49Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMTczMDM0Mg==,vuejs/vue,https://github.com/vuejs/vue,209962,2013-07-29T03:24:51Z,2024-10-10T07:24:15Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxMzgzOTMxMzk=,trimstray/the-book-of-secret-knowledge,https://github.com/trimstray/the-book-of-secret-knowledge,208930,2018-06-23T10:43:14Z,2024-11-19T14:00:38Z,
+MDEwOlJlcG9zaXRvcnkxOTQxNTA2NA==,ossu/computer-science,https://github.com/ossu/computer-science,202176,2014-05-04T00:18:39Z,2026-03-04T01:29:26Z,{'name': 'HTML'}
+MDEwOlJlcG9zaXRvcnkxMjY1NzcyNjA=,trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,195748,2018-03-24T07:47:04Z,2026-02-18T09:20:06Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,194015,2015-11-07T01:19:20Z,2026-03-06T20:44:43Z,{'name': 'C++'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyOTExMzc=,ohmyzsh/ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,185150,2009-08-28T18:15:37Z,2026-03-06T11:09:18Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnkxNDQ0MDI3MA==,getify/You-Dont-Know-JS,https://github.com/getify/You-Dont-Know-JS,184465,2013-11-16T02:37:24Z,2026-02-15T04:36:44Z,
 MDEwOlJlcG9zaXRvcnkxMjEzOTU1MTA=,CyC2018/CS-Notes,https://github.com/CyC2018/CS-Notes,183827,2018-02-13T14:56:24Z,2024-08-21T09:40:10Z,
 MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==,microsoft/vscode,https://github.com/microsoft/vscode,182364,2015-09-03T20:23:38Z,2026-03-06T20:44:42Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 R_kgDOJKSTjA,Significant-Gravitas/AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,182225,2023-03-16T09:21:07Z,2026-03-06T20:48:07Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxMjM0NTg1NTE=,jackfrued/Python-100-Days,https://github.com/jackfrued/Python-100-Days,179331,2018-03-01T16:05:52Z,2026-02-25T03:39:28Z,{'name': 'Jupyter Notebook'}
 MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=,n8n-io/n8n,https://github.com/n8n-io/n8n,177908,2019-06-22T09:24:21Z,2026-03-06T20:53:14Z,{'name': 'TypeScript'}
@@ -39,6 +64,23 @@ MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=,huggingface/transformers,https://github.com/hug
 MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=,Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,154083,2018-05-07T13:27:00Z,2026-03-04T12:27:07Z,{'name': 'Java'}
 R_kgDOMCtNDQ,DigitalPlatDev/FreeDomain,https://github.com/DigitalPlatDev/FreeDomain,150998,2024-05-30T13:23:00Z,2026-03-02T19:54:24Z,{'name': 'HTML'}
 R_kgDOIj6G7A,f/prompts.chat,https://github.com/f/prompts.chat,150361,2022-12-05T13:54:13Z,2026-03-06T06:30:20Z,{'name': 'HTML'}
+=======
+R_kgDOJKSTjA,Significant-Gravitas/AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,182225,2023-03-16T09:21:07Z,2026-03-06T19:27:09Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMjM0NTg1NTE=,jackfrued/Python-100-Days,https://github.com/jackfrued/Python-100-Days,179331,2018-03-01T16:05:52Z,2026-02-25T03:39:28Z,{'name': 'Jupyter Notebook'}
+MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=,n8n-io/n8n,https://github.com/n8n-io/n8n,177908,2019-06-22T09:24:21Z,2026-03-06T20:39:31Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==,flutter/flutter,https://github.com/flutter/flutter,175451,2015-03-06T22:54:58Z,2026-03-06T20:34:46Z,{'name': 'Dart'}
+MDEwOlJlcG9zaXRvcnkyMTI2MjQ0,twbs/bootstrap,https://github.com/twbs/bootstrap,174028,2011-07-29T21:19:00Z,2026-03-06T17:07:17Z,{'name': 'MDX'}
+MDEwOlJlcG9zaXRvcnkxMDYyODk3,github/gitignore,https://github.com/github/gitignore,172865,2010-11-08T20:17:14Z,2026-02-12T17:50:51Z,
+MDEwOlJlcG9zaXRvcnkyMzM0NzIxOTk=,massgravel/Microsoft-Activation-Scripts,https://github.com/massgravel/Microsoft-Activation-Scripts,167898,2020-01-12T23:03:34Z,2026-02-22T00:26:42Z,{'name': 'Batchfile'}
+MDEwOlJlcG9zaXRvcnkyMTU0MDc1OQ==,avelino/awesome-go,https://github.com/avelino/awesome-go,166718,2014-07-06T13:42:15Z,2026-03-06T01:02:41Z,{'name': 'Go'}
+R_kgDOJ0Z1Pg,ollama/ollama,https://github.com/ollama/ollama,164286,2023-06-26T19:39:32Z,2026-03-06T01:57:30Z,{'name': 'Go'}
+R_kgDOH3JoLw,AUTOMATIC1111/stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui,161523,2022-08-22T14:05:26Z,2026-03-02T07:00:53Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkzNTk1NTY2Ng==,jlevy/the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line,160120,2015-05-20T15:11:03Z,2024-06-25T18:13:44Z,
+MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=,huggingface/transformers,https://github.com/huggingface/transformers,157495,2018-10-29T13:56:00Z,2026-03-06T20:05:36Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=,Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,154082,2018-05-07T13:27:00Z,2026-03-04T12:27:07Z,{'name': 'Java'}
+R_kgDOMCtNDQ,DigitalPlatDev/FreeDomain,https://github.com/DigitalPlatDev/FreeDomain,150998,2024-05-30T13:23:00Z,2026-03-02T19:54:24Z,{'name': 'HTML'}
+R_kgDOIj6G7A,f/prompts.chat,https://github.com/f/prompts.chat,150362,2022-12-05T13:54:13Z,2026-03-06T06:30:20Z,{'name': 'HTML'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkzMDcyNjAyMDU=,yt-dlp/yt-dlp,https://github.com/yt-dlp/yt-dlp,149911,2020-10-26T04:22:55Z,2026-03-03T16:54:37Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk2NDk4NDky,airbnb/javascript,https://github.com/airbnb/javascript,148101,2012-11-01T23:13:50Z,2026-02-24T14:05:16Z,{'name': 'JavaScript'}
 R_kgDOI7jmAw,langflow-ai/langflow,https://github.com/langflow-ai/langflow,145324,2023-02-08T22:28:03Z,2026-03-06T18:52:22Z,{'name': 'Python'}
@@ -48,6 +90,7 @@ MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==,vercel/next.js,https://github.com/vercel/next.j
 MDEwOlJlcG9zaXRvcnk2MjYwNzIyNw==,yangshun/tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,138014,2016-07-05T05:00:48Z,2026-01-26T00:36:45Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMTE1ODM1OTM=,Genymobile/scrcpy,https://github.com/Genymobile/scrcpy,136584,2017-11-21T18:00:27Z,2026-02-25T23:25:37Z,{'name': 'C'}
 MDEwOlJlcG9zaXRvcnkyNDE1NzYyNzA=,labuladong/fucking-algorithm,https://github.com/labuladong/fucking-algorithm,132936,2020-02-19T09:01:23Z,2026-02-28T10:07:31Z,{'name': 'Markdown'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==,golang/go,https://github.com/golang/go,132922,2014-08-19T04:33:40Z,2026-03-06T20:54:23Z,{'name': 'Go'}
 R_kgDOJVxJug,langgenius/dify,https://github.com/langgenius/dify,131477,2023-04-12T07:40:24Z,2026-03-06T14:05:20Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxODQ0NTYyNTE=,microsoft/PowerToys,https://github.com/microsoft/PowerToys,130267,2019-05-01T17:44:02Z,2026-03-06T20:54:34Z,{'name': 'C#'}
@@ -68,6 +111,28 @@ MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=,iptv-org/iptv,https://github.com/iptv-org/iptv,
 MDEwOlJlcG9zaXRvcnk5NDMxNDk=,d3/d3,https://github.com/d3/d3,112472,2010-09-27T17:22:42Z,2025-12-02T17:48:19Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnk1NzYyMDE=,mrdoob/three.js,https://github.com/mrdoob/three.js,111201,2010-03-23T18:58:01Z,2026-03-06T14:41:42Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk3MjQ3MTI=,rust-lang/rust,https://github.com/rust-lang/rust,110970,2010-06-16T20:39:03Z,2026-03-06T19:28:00Z,{'name': 'Rust'}
+=======
+MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==,golang/go,https://github.com/golang/go,132921,2014-08-19T04:33:40Z,2026-03-06T20:26:41Z,{'name': 'Go'}
+R_kgDOJVxJug,langgenius/dify,https://github.com/langgenius/dify,131477,2023-04-12T07:40:24Z,2026-03-06T14:05:20Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxODQ0NTYyNTE=,microsoft/PowerToys,https://github.com/microsoft/PowerToys,130266,2019-05-01T17:44:02Z,2026-03-06T20:37:02Z,{'name': 'C#'}
+R_kgDOODsgVw,x1xhlol/system-prompts-and-models-of-ai-tools,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools,128958,2025-03-05T16:38:29Z,2026-03-05T15:28:06Z,
+R_kgDOIPDwlg,langchain-ai/langchain,https://github.com/langchain-ai/langchain,128477,2022-10-17T02:58:36Z,2026-03-06T20:39:31Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMTI1MDcwODY=,Chalarangelo/30-seconds-of-code,https://github.com/Chalarangelo/30-seconds-of-code,126969,2017-11-29T17:35:03Z,2026-03-04T23:12:29Z,{'name': 'JavaScript'}
+R_kgDOKdDCcw,open-webui/open-webui,https://github.com/open-webui/open-webui,125991,2023-10-06T22:08:27Z,2026-03-06T20:46:31Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==,facebook/react-native,https://github.com/facebook/react-native,125507,2015-01-09T18:10:16Z,2026-03-06T19:27:12Z,{'name': 'C++'}
+R_kgDOIXtSqw,krahets/hello-algo,https://github.com/krahets/hello-algo,122716,2022-11-04T11:08:34Z,2026-01-23T10:40:44Z,{'name': 'Java'}
+MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,120962,2014-06-06T22:56:04Z,2026-03-06T19:42:36Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnk5Mzg0MjY3,electron/electron,https://github.com/electron/electron,120341,2013-04-12T01:47:36Z,2026-03-06T20:47:57Z,{'name': 'C++'}
+MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==,ripienaar/free-for-dev,https://github.com/ripienaar/free-for-dev,118729,2015-03-18T21:06:26Z,2026-03-04T10:34:00Z,{'name': 'HTML'}
+MDEwOlJlcG9zaXRvcnkyMzEyODM0NTI=,excalidraw/excalidraw,https://github.com/excalidraw/excalidraw,118147,2020-01-02T01:04:43Z,2026-03-06T19:45:00Z,{'name': 'TypeScript'}
+R_kgDOOiiGLw,anomalyco/opencode,https://github.com/anomalyco/opencode,117312,2025-04-30T20:08:00Z,2026-03-06T20:47:51Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxNDA5ODA2OQ==,justjavac/free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,116412,2013-11-04T01:59:19Z,2024-07-15T08:55:20Z,
+MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==,nodejs/node,https://github.com/nodejs/node,116109,2014-11-26T19:57:11Z,2026-03-06T16:44:36Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=,iptv-org/iptv,https://github.com/iptv-org/iptv,112491,2018-11-14T22:00:57Z,2026-03-06T12:51:10Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk5NDMxNDk=,d3/d3,https://github.com/d3/d3,112472,2010-09-27T17:22:42Z,2025-12-02T17:48:19Z,{'name': 'Shell'}
+MDEwOlJlcG9zaXRvcnk1NzYyMDE=,mrdoob/three.js,https://github.com/mrdoob/three.js,111201,2010-03-23T18:58:01Z,2026-03-06T14:41:42Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnk3MjQ3MTI=,rust-lang/rust,https://github.com/rust-lang/rust,110969,2010-06-16T20:39:03Z,2026-03-06T19:28:00Z,{'name': 'Rust'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyOTkzNTQyMDc=,rustdesk/rustdesk,https://github.com/rustdesk/rustdesk,108766,2020-09-28T15:36:08Z,2026-03-05T15:10:40Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==,axios/axios,https://github.com/axios/axios,108588,2014-08-18T22:30:27Z,2026-03-06T19:45:22Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==,microsoft/TypeScript,https://github.com/microsoft/TypeScript,108034,2014-06-17T15:28:39Z,2026-03-06T17:56:53Z,{'name': 'TypeScript'}
@@ -89,6 +154,7 @@ R_kgDOKwVKzA,clash-verge-rev/clash-verge-rev,https://github.com/clash-verge-rev/
 MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==,angular/angular,https://github.com/angular/angular,100078,2014-09-18T16:12:01Z,2026-03-06T20:13:19Z,{'name': 'TypeScript'}
 R_kgDOL0nxgA,Shubhamsaboo/awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,100019,2024-04-29T05:30:25Z,2026-03-02T07:16:17Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk2MzUzOTA1NQ==,jaywcjlove/awesome-mac,https://github.com/jaywcjlove/awesome-mac,99598,2016-07-17T15:33:47Z,2026-03-06T02:16:57Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=,supabase/supabase,https://github.com/supabase/supabase,98626,2019-10-12T05:56:49Z,2026-03-06T20:38:32Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkyNDM5NTA0MDg=,Anduin2017/HowToCook,https://github.com/Anduin2017/HowToCook,98561,2020-02-29T10:43:49Z,2026-03-03T17:40:28Z,{'name': 'Dockerfile'}
 MDEwOlJlcG9zaXRvcnkxMDEyOTY4ODE=,mtdvio/every-programmer-should-know,https://github.com/mtdvio/every-programmer-should-know,98190,2017-08-24T13:18:26Z,2025-12-29T19:37:02Z,
@@ -99,13 +165,30 @@ MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==,ant-design/ant-design,https://github.com/ant-de
 MDEwOlJlcG9zaXRvcnkxNjQwODk5Mg==,neovim/neovim,https://github.com/neovim/neovim,96995,2014-01-31T13:39:22Z,2026-03-06T18:34:47Z,{'name': 'Vim Script'}
 R_kgDOJH_K4A,ggml-org/llama.cpp,https://github.com/ggml-org/llama.cpp,96965,2023-03-10T18:58:00Z,2026-03-06T20:25:41Z,{'name': 'C++'}
 R_kgDOObWEYA,google-gemini/gemini-cli,https://github.com/google-gemini/gemini-cli,96694,2025-04-17T17:04:31Z,2026-03-06T20:49:25Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=,supabase/supabase,https://github.com/supabase/supabase,98625,2019-10-12T05:56:49Z,2026-03-06T20:38:32Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkyNDM5NTA0MDg=,Anduin2017/HowToCook,https://github.com/Anduin2017/HowToCook,98561,2020-02-29T10:43:49Z,2026-03-03T17:40:28Z,{'name': 'Dockerfile'}
+MDEwOlJlcG9zaXRvcnkxMDEyOTY4ODE=,mtdvio/every-programmer-should-know,https://github.com/mtdvio/every-programmer-should-know,98190,2017-08-24T13:18:26Z,2025-12-29T19:37:02Z,
+MDEwOlJlcG9zaXRvcnkxOTk1NzAwNzE=,2dust/v2rayN,https://github.com/2dust/v2rayN,98043,2019-07-30T03:47:24Z,2026-03-05T18:44:40Z,{'name': 'C#'}
+MDEwOlJlcG9zaXRvcnkyMzA4MzE1Ng==,mui/material-ui,https://github.com/mui/material-ui,98013,2014-08-18T19:11:54Z,2026-03-06T09:02:54Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==,pytorch/pytorch,https://github.com/pytorch/pytorch,98003,2016-08-13T05:26:41Z,2026-03-06T20:45:00Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==,ant-design/ant-design,https://github.com/ant-design/ant-design,97680,2015-04-24T15:37:24Z,2026-03-06T17:09:08Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxNjQwODk5Mg==,neovim/neovim,https://github.com/neovim/neovim,96995,2014-01-31T13:39:22Z,2026-03-06T18:34:47Z,{'name': 'Vim Script'}
+R_kgDOJH_K4A,ggml-org/llama.cpp,https://github.com/ggml-org/llama.cpp,96964,2023-03-10T18:58:00Z,2026-03-06T20:25:41Z,{'name': 'C++'}
+R_kgDOObWEYA,google-gemini/gemini-cli,https://github.com/google-gemini/gemini-cli,96694,2025-04-17T17:04:31Z,2026-03-06T20:47:46Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNjA5MTkxMTk=,fastapi/fastapi,https://github.com/fastapi/fastapi,95958,2018-12-08T08:21:47Z,2026-03-06T17:54:41Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkzMzYxNDMwNA==,nvbn/thefuck,https://github.com/nvbn/thefuck,95616,2015-04-08T15:08:04Z,2024-07-19T14:56:13Z,{'name': 'Python'}
 R_kgDOIAstBQ,openai/whisper,https://github.com/openai/whisper,95543,2022-09-16T20:02:54Z,2025-12-15T10:18:21Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkzMTE1MjU3OTg=,microsoft/Web-Dev-For-Beginners,https://github.com/microsoft/Web-Dev-For-Beginners,95389,2020-11-10T02:44:00Z,2026-03-06T18:53:58Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk3NDc5MTM2Ng==,ryanmcdermott/clean-code-javascript,https://github.com/ryanmcdermott/clean-code-javascript,94313,2016-11-25T22:25:41Z,2024-07-29T07:24:37Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 R_kgDOGyI-8A,immich-app/immich,https://github.com/immich-app/immich,94153,2022-02-03T15:56:27Z,2026-03-06T20:19:27Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMDYwMTczNDM=,tailwindlabs/tailwindcss,https://github.com/tailwindlabs/tailwindcss,93930,2017-10-06T14:59:14Z,2026-03-04T19:55:40Z,{'name': 'TypeScript'}
+=======
+R_kgDOGyI-8A,immich-app/immich,https://github.com/immich-app/immich,94152,2022-02-03T15:56:27Z,2026-03-06T20:19:27Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxMDYwMTczNDM=,tailwindlabs/tailwindcss,https://github.com/tailwindlabs/tailwindcss,93929,2017-10-06T14:59:14Z,2026-03-04T19:55:40Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyMjc5MDQ4OA==,iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,93799,2014-08-09T16:45:18Z,2026-03-01T21:28:10Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnk5MDc5NjY2Mw==,puppeteer/puppeteer,https://github.com/puppeteer/puppeteer,93729,2017-05-09T22:16:13Z,2026-03-05T14:35:28Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk2MTIyMzA=,nvm-sh/nvm,https://github.com/nvm-sh/nvm,92071,2010-04-15T17:47:47Z,2026-02-20T05:44:06Z,{'name': 'Shell'}
@@ -121,11 +204,19 @@ MDEwOlJlcG9zaXRvcnkzNTc3Mjg5Njk=,oven-sh/bun,https://github.com/oven-sh/bun,8792
 R_kgDOJH-jmg,ChatGPTNextWeb/NextChat,https://github.com/ChatGPTNextWeb/NextChat,87442,2023-03-10T18:27:54Z,2025-12-02T17:05:02Z,{'name': 'TypeScript'}
 R_kgDOJ-2MVA,rasbt/LLMs-from-scratch,https://github.com/rasbt/LLMs-from-scratch,87299,2023-07-23T18:15:57Z,2026-03-04T14:47:06Z,{'name': 'Jupyter Notebook'}
 MDEwOlJlcG9zaXRvcnk0MTY0NDgy,django/django,https://github.com/django/django,86993,2012-04-28T02:47:18Z,2026-03-06T12:02:21Z,{'name': 'Python'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxMTE4MDY4Nw==,gohugoio/hugo,https://github.com/gohugoio/hugo,86938,2013-07-04T15:26:26Z,2026-03-06T11:23:28Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkyNjA2NjcyNw==,mermaid-js/mermaid,https://github.com/mermaid-js/mermaid,86523,2014-11-01T23:52:32Z,2026-03-06T15:14:42Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk1MTA4MDUx,opencv/opencv,https://github.com/opencv/opencv,86465,2012-07-19T09:40:17Z,2026-03-06T12:55:02Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnk3NDI5MzMyMQ==,sveltejs/svelte,https://github.com/sveltejs/svelte,86014,2016-11-20T18:13:05Z,2026-03-06T20:44:55Z,{'name': 'JavaScript'}
 R_kgDOP0wfhg,anthropics/skills,https://github.com/anthropics/skills,85896,2025-09-22T15:53:31Z,2026-03-06T20:06:23Z,{'name': 'Python'}
+=======
+MDEwOlJlcG9zaXRvcnkxMTE4MDY4Nw==,gohugoio/hugo,https://github.com/gohugoio/hugo,86937,2013-07-04T15:26:26Z,2026-03-06T11:23:28Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnkyNjA2NjcyNw==,mermaid-js/mermaid,https://github.com/mermaid-js/mermaid,86523,2014-11-01T23:52:32Z,2026-03-06T15:14:42Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk1MTA4MDUx,opencv/opencv,https://github.com/opencv/opencv,86465,2012-07-19T09:40:17Z,2026-03-06T12:55:02Z,{'name': 'C++'}
+MDEwOlJlcG9zaXRvcnk3NDI5MzMyMQ==,sveltejs/svelte,https://github.com/sveltejs/svelte,86013,2016-11-20T18:13:05Z,2026-03-06T20:44:55Z,{'name': 'JavaScript'}
+R_kgDOP0wfhg,anthropics/skills,https://github.com/anthropics/skills,85894,2025-09-22T15:53:31Z,2026-03-06T20:06:23Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNTI4NzAzNzI=,ruanyf/weekly,https://github.com/ruanyf/weekly,85292,2018-10-13T12:36:07Z,2026-03-06T03:44:55Z,
 MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==,home-assistant/core,https://github.com/home-assistant/core,85174,2013-09-17T07:29:48Z,2026-03-06T20:37:24Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkzMjY4OTg2Mw==,3b1b/manim,https://github.com/3b1b/manim,85001,2015-03-22T18:50:58Z,2026-02-13T02:32:17Z,{'name': 'Python'}
@@ -141,8 +232,13 @@ R_kgDONWz9pg,punkpeye/awesome-mcp-servers,https://github.com/punkpeye/awesome-mc
 MDEwOlJlcG9zaXRvcnkyMTI2MzkwNzE=,bregman-arie/devops-exercises,https://github.com/bregman-arie/devops-exercises,81404,2019-10-03T17:31:21Z,2025-12-27T14:22:30Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk0NzAxODIzOQ==,DopplerHQ/awesome-interview-questions,https://github.com/DopplerHQ/awesome-interview-questions,81279,2015-11-28T09:48:17Z,2024-07-29T14:21:23Z,
 MDEwOlJlcG9zaXRvcnkyNjUwMDc4Nw==,tonsky/FiraCode,https://github.com/tonsky/FiraCode,81247,2014-11-11T19:32:38Z,2026-03-04T12:57:05Z,{'name': 'Clojure'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxNDcxMjg1MA==,syncthing/syncthing,https://github.com/syncthing/syncthing,80562,2013-11-26T09:48:21Z,2026-03-05T01:32:43Z,{'name': 'Go'}
 R_kgDOKbIFZQ,astral-sh/uv,https://github.com/astral-sh/uv,80391,2023-10-02T20:24:11Z,2026-03-06T20:49:30Z,{'name': 'Rust'}
+=======
+MDEwOlJlcG9zaXRvcnkxNDcxMjg1MA==,syncthing/syncthing,https://github.com/syncthing/syncthing,80561,2013-11-26T09:48:21Z,2026-03-05T01:32:43Z,{'name': 'Go'}
+R_kgDOKbIFZQ,astral-sh/uv,https://github.com/astral-sh/uv,80390,2023-10-02T20:24:11Z,2026-03-06T20:45:09Z,{'name': 'Rust'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDONRaG_w,modelcontextprotocol/servers,https://github.com/modelcontextprotocol/servers,80357,2024-11-19T01:10:17Z,2026-02-28T21:17:22Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk2Mjk2Nzkw,spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,80183,2012-10-19T15:02:57Z,2026-03-06T18:10:53Z,{'name': 'Java'}
 R_kgDOKVORZg,ByteByteGoHq/system-design-101,https://github.com/ByteByteGoHq/system-design-101,80129,2023-09-18T20:52:03Z,2025-04-04T17:30:30Z,
@@ -150,6 +246,7 @@ R_kgDOKXoMww,hacksider/Deep-Live-Cam,https://github.com/hacksider/Deep-Live-Cam,
 R_kgDONIn9tw,browser-use/browser-use,https://github.com/browser-use/browser-use,79782,2024-10-31T16:00:56Z,2026-03-06T16:53:25Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxNDU1NTM2NzI=,fighting41love/funNLP,https://github.com/fighting41love/funNLP,79227,2018-08-21T11:20:39Z,2024-05-10T07:38:24Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxNTE4MzQwNjI=,doocs/advanced-java,https://github.com/doocs/advanced-java,78886,2018-10-06T11:38:30Z,2026-01-21T23:54:19Z,{'name': 'Java'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNzgzMzUyNzM=,anuraghazra/github-readme-stats,https://github.com/anuraghazra/github-readme-stats,78637,2020-07-09T10:34:22Z,2026-03-02T20:14:48Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyNTc0ODU0MjI=,vitejs/vite,https://github.com/vitejs/vite,78631,2020-04-21T05:03:57Z,2026-03-06T15:01:50Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMzgwNzYwNg==,junegunn/fzf,https://github.com/junegunn/fzf,78346,2013-10-23T16:04:23Z,2026-03-06T16:02:34Z,{'name': 'Go'}
@@ -163,6 +260,21 @@ MDEwOlJlcG9zaXRvcnkxNzI5NTM4NDU=,coder/code-server,https://github.com/coder/code
 MDEwOlJlcG9zaXRvcnk3MTU4MzYwMg==,Developer-Y/cs-video-courses,https://github.com/Developer-Y/cs-video-courses,76476,2016-10-21T17:02:11Z,2026-02-21T17:00:14Z,
 MDEwOlJlcG9zaXRvcnkzNDcwNDcx,FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome,76397,2012-02-17T14:19:43Z,2026-02-10T18:21:21Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk1MDc3NzU=,elastic/elasticsearch,https://github.com/elastic/elasticsearch,76286,2010-02-08T13:20:56Z,2026-03-06T20:53:33Z,{'name': 'Java'}
+=======
+MDEwOlJlcG9zaXRvcnkyNzgzMzUyNzM=,anuraghazra/github-readme-stats,https://github.com/anuraghazra/github-readme-stats,78638,2020-07-09T10:34:22Z,2026-03-02T20:14:48Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnkyNTc0ODU0MjI=,vitejs/vite,https://github.com/vitejs/vite,78631,2020-04-21T05:03:57Z,2026-03-06T15:01:50Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxMzgwNzYwNg==,junegunn/fzf,https://github.com/junegunn/fzf,78346,2013-10-23T16:04:23Z,2026-03-06T16:02:34Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnkyMDM1ODc3NDQ=,hoppscotch/hoppscotch,https://github.com/hoppscotch/hoppscotch,78188,2019-08-21T13:15:24Z,2026-03-06T07:36:11Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==,netdata/netdata,https://github.com/netdata/netdata,77968,2013-06-17T18:39:10Z,2026-03-06T12:01:57Z,{'name': 'C'}
+MDEwOlJlcG9zaXRvcnk1MTExNzgzNw==,tensorflow/models,https://github.com/tensorflow/models,77691,2016-02-05T01:15:20Z,2026-03-06T12:59:53Z,{'name': 'Python'}
+R_kgDOJPPS-Q,nomic-ai/gpt4all,https://github.com/nomic-ai/gpt4all,77200,2023-03-27T18:49:32Z,2025-05-27T20:05:19Z,{'name': 'C++'}
+MDEwOlJlcG9zaXRvcnkxNjA2NDAwOTQ=,MisterBooo/LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,76722,2018-12-06T08:01:22Z,2023-08-14T12:14:01Z,{'name': 'Java'}
+MDEwOlJlcG9zaXRvcnkzNDA1NDc1MjA=,zed-industries/zed,https://github.com/zed-industries/zed,76527,2021-02-20T03:01:06Z,2026-03-06T20:24:43Z,{'name': 'Rust'}
+MDEwOlJlcG9zaXRvcnkxNzI5NTM4NDU=,coder/code-server,https://github.com/coder/code-server,76508,2019-02-27T16:50:41Z,2026-03-06T12:59:10Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk3MTU4MzYwMg==,Developer-Y/cs-video-courses,https://github.com/Developer-Y/cs-video-courses,76476,2016-10-21T17:02:11Z,2026-02-21T17:00:14Z,
+MDEwOlJlcG9zaXRvcnkzNDcwNDcx,FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome,76397,2012-02-17T14:19:43Z,2026-02-10T18:21:21Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnk1MDc3NzU=,elastic/elasticsearch,https://github.com/elastic/elasticsearch,76286,2010-02-08T13:20:56Z,2026-03-06T20:42:16Z,{'name': 'Java'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOJwwGvg,mlabonne/llm-course,https://github.com/mlabonne/llm-course,76146,2023-06-17T22:16:25Z,2026-02-05T13:09:26Z,
 R_kgDOIoAhgw,localsend/localsend,https://github.com/localsend/localsend,76062,2022-12-16T00:46:07Z,2026-03-06T15:10:00Z,{'name': 'Dart'}
 MDEwOlJlcG9zaXRvcnkxMDExMzgzMTU=,d2l-ai/d2l-zh,https://github.com/d2l-ai/d2l-zh,76011,2017-08-23T04:40:24Z,2024-07-30T09:32:19Z,{'name': 'Python'}
@@ -178,13 +290,22 @@ R_kgDOK4sStA,infiniflow/ragflow,https://github.com/infiniflow/ragflow,74292,2023
 R_kgDOJj7mSA,unionlabs/union,https://github.com/unionlabs/union,74261,2023-05-16T22:33:39Z,2026-02-24T17:42:27Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxMzQwMTcyODY=,jesseduffield/lazygit,https://github.com/jesseduffield/lazygit,73633,2018-05-19T00:53:06Z,2026-03-02T09:49:08Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk0NDU3MTcxOA==,vuejs/awesome-vue,https://github.com/vuejs/awesome-vue,73627,2015-10-20T00:16:14Z,2026-03-06T15:30:20Z,
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxNjI5OTg0Nzk=,sherlock-project/sherlock,https://github.com/sherlock-project/sherlock,73424,2018-12-24T14:30:48Z,2026-03-06T05:26:13Z,{'name': 'Python'}
+=======
+MDEwOlJlcG9zaXRvcnkxNjI5OTg0Nzk=,sherlock-project/sherlock,https://github.com/sherlock-project/sherlock,73423,2018-12-24T14:30:48Z,2026-03-06T05:26:13Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNTYwMTg=,redis/redis,https://github.com/redis/redis,73308,2009-03-21T22:32:25Z,2026-03-06T11:11:38Z,{'name': 'C'}
 MDEwOlJlcG9zaXRvcnkyNjg5ODg3OQ==,awesomedata/awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets,73288,2014-11-20T06:20:50Z,2026-03-04T15:40:37Z,
 R_kgDOJlox8w,lobehub/lobehub,https://github.com/lobehub/lobehub,73198,2023-05-21T07:19:12Z,2026-03-06T17:14:01Z,{'name': 'TypeScript'}
 R_kgDOJPJM2Q,twitter/the-algorithm,https://github.com/twitter/the-algorithm,72847,2023-03-27T14:57:57Z,2025-09-08T18:40:54Z,{'name': 'Scala'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyMjg4NzA5NA==,tesseract-ocr/tesseract,https://github.com/tesseract-ocr/tesseract,72734,2014-08-12T18:04:59Z,2026-02-28T12:13:30Z,{'name': 'C++'}
 R_kgDOP_gcWw,obra/superpowers,https://github.com/obra/superpowers,72646,2025-10-09T19:45:18Z,2026-02-21T19:43:05Z,{'name': 'Shell'}
+=======
+MDEwOlJlcG9zaXRvcnkyMjg4NzA5NA==,tesseract-ocr/tesseract,https://github.com/tesseract-ocr/tesseract,72733,2014-08-12T18:04:59Z,2026-02-28T12:13:30Z,{'name': 'C++'}
+R_kgDOP_gcWw,obra/superpowers,https://github.com/obra/superpowers,72644,2025-10-09T19:45:18Z,2026-02-21T19:43:05Z,{'name': 'Shell'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOHzIiIA,CompVis/stable-diffusion,https://github.com/CompVis/stable-diffusion,72635,2022-08-10T14:36:44Z,2024-06-18T01:53:49Z,{'name': 'Jupyter Notebook'}
 MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==,grafana/grafana,https://github.com/grafana/grafana,72520,2013-12-11T15:59:56Z,2026-03-06T20:46:38Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMDcxMTE0MjE=,thedaviddias/Front-End-Checklist,https://github.com/thedaviddias/Front-End-Checklist,72318,2017-10-16T10:12:36Z,2026-02-04T01:08:06Z,
@@ -205,14 +326,22 @@ MDEwOlJlcG9zaXRvcnkzOTQ2NDAxOA==,apache/superset,https://github.com/apache/super
 MDEwOlJlcG9zaXRvcnkyMzM1NzU4OA==,protocolbuffers/protobuf,https://github.com/protocolbuffers/protobuf,70807,2014-08-26T15:52:15Z,2026-03-06T19:51:36Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnkxMzIzMzE1OA==,obsproject/obs-studio,https://github.com/obsproject/obs-studio,70749,2013-10-01T02:40:31Z,2026-03-05T23:09:35Z,{'name': 'C'}
 MDEwOlJlcG9zaXRvcnkxODYxNDU4,hakimel/reveal.js,https://github.com/hakimel/reveal.js,70674,2011-06-07T18:54:22Z,2026-03-04T21:00:48Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyOTIwNzYyMQ==,caddyserver/caddy,https://github.com/caddyserver/caddy,70622,2015-01-13T19:45:03Z,2026-03-06T02:18:52Z,{'name': 'Go'}
+=======
+MDEwOlJlcG9zaXRvcnkyOTIwNzYyMQ==,caddyserver/caddy,https://github.com/caddyserver/caddy,70621,2015-01-13T19:45:03Z,2026-03-06T02:18:52Z,{'name': 'Go'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOJL0ZtQ,binary-husky/gpt_academic,https://github.com/binary-husky/gpt_academic,70174,2023-03-20T09:05:13Z,2026-01-25T12:33:10Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMTkzNTAzMQ==,fffaraz/awesome-cpp,https://github.com/fffaraz/awesome-cpp,70051,2014-07-17T08:51:11Z,2026-03-06T08:06:50Z,
 MDEwOlJlcG9zaXRvcnk0NDgzODk0OQ==,swiftlang/swift,https://github.com/swiftlang/swift,69852,2015-10-23T21:15:07Z,2026-03-06T20:22:06Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnk3NzIxMzEyMA==,Eugeny/tabby,https://github.com/Eugeny/tabby,69333,2016-12-23T09:06:10Z,2026-02-28T18:04:51Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzNDgyNTg4,danielmiessler/SecLists,https://github.com/danielmiessler/SecLists,69279,2012-02-19T01:30:18Z,2026-03-06T11:13:01Z,{'name': 'PHP'}
 MDEwOlJlcG9zaXRvcnkxNjM4ODMyNzk=,nektos/act,https://github.com/nektos/act,69176,2019-01-02T19:53:43Z,2026-03-05T03:26:50Z,{'name': 'Go'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxMTU0Nzg4MjA=,binhnguyennus/awesome-scalability,https://github.com/binhnguyennus/awesome-scalability,69063,2017-12-27T03:46:40Z,2026-01-04T03:51:47Z,
+=======
+MDEwOlJlcG9zaXRvcnkxMTU0Nzg4MjA=,binhnguyennus/awesome-scalability,https://github.com/binhnguyennus/awesome-scalability,69062,2017-12-27T03:46:40Z,2026-01-04T03:51:47Z,
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyMzcxNTk=,expressjs/express,https://github.com/expressjs/express,68868,2009-06-26T18:56:01Z,2026-03-01T13:55:02Z,{'name': 'JavaScript'}
 R_kgDOI4f-vw,base/node,https://github.com/base/node,68708,2023-02-01T13:55:02Z,2026-03-05T23:38:50Z,{'name': 'Go'}
 R_kgDOLfkiww,OpenHands/OpenHands,https://github.com/OpenHands/OpenHands,68674,2024-03-13T03:33:31Z,2026-03-06T20:32:36Z,{'name': 'Python'}
@@ -236,27 +365,47 @@ MDEwOlJlcG9zaXRvcnk2MzQ3NzY2MA==,TheAlgorithms/Java,https://github.com/TheAlgori
 MDEwOlJlcG9zaXRvcnk4MTk3NTM3Mg==,kdn251/interviews,https://github.com/kdn251/interviews,64974,2017-02-14T18:19:25Z,2025-05-12T12:56:04Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnkyNjE3ODc3NTg=,bradtraversy/design-resources-for-developers,https://github.com/bradtraversy/design-resources-for-developers,64964,2020-05-06T14:40:35Z,2026-01-31T20:50:16Z,
 MDEwOlJlcG9zaXRvcnkxMjA1MzgzMDQ=,kelseyhightower/nocode,https://github.com/kelseyhightower/nocode,64935,2018-02-06T23:54:00Z,2024-08-07T03:19:12Z,{'name': 'Dockerfile'}
+<<<<<<< HEAD
 R_kgDOJ182Uw,FoundationAgents/MetaGPT,https://github.com/FoundationAgents/MetaGPT,64825,2023-06-30T09:04:55Z,2026-01-21T10:12:33Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==,chrislgarry/Apollo-11,https://github.com/chrislgarry/Apollo-11,64639,2014-04-03T15:45:02Z,2026-01-22T06:10:28Z,{'name': 'Assembly'}
 MDEwOlJlcG9zaXRvcnk3MTk0ODQ5OA==,localstack/localstack,https://github.com/localstack/localstack,64568,2016-10-25T23:48:03Z,2026-03-06T12:12:36Z,{'name': 'Python'}
 R_kgDOHvxvHg,toeverything/AFFiNE,https://github.com/toeverything/AFFiNE,64212,2022-07-31T18:45:21Z,2026-03-06T20:42:14Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk5NDkxMTE0NQ==,facebook/docusaurus,https://github.com/facebook/docusaurus,64013,2017-06-20T16:13:53Z,2026-03-06T20:51:29Z,{'name': 'TypeScript'}
+=======
+R_kgDOJ182Uw,FoundationAgents/MetaGPT,https://github.com/FoundationAgents/MetaGPT,64824,2023-06-30T09:04:55Z,2026-01-21T10:12:33Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==,chrislgarry/Apollo-11,https://github.com/chrislgarry/Apollo-11,64639,2014-04-03T15:45:02Z,2026-01-22T06:10:28Z,{'name': 'Assembly'}
+MDEwOlJlcG9zaXRvcnk3MTk0ODQ5OA==,localstack/localstack,https://github.com/localstack/localstack,64568,2016-10-25T23:48:03Z,2026-03-06T12:12:36Z,{'name': 'Python'}
+R_kgDOHvxvHg,toeverything/AFFiNE,https://github.com/toeverything/AFFiNE,64211,2022-07-31T18:45:21Z,2026-03-06T20:42:14Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk5NDkxMTE0NQ==,facebook/docusaurus,https://github.com/facebook/docusaurus,64012,2017-06-20T16:13:53Z,2026-03-06T19:03:39Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkzMzAxNTU4Mw==,keras-team/keras,https://github.com/keras-team/keras,63912,2015-03-28T00:35:42Z,2026-03-06T20:03:04Z,{'name': 'Python'}
 R_kgDOOYsS4Q,openai/codex,https://github.com/openai/codex,63532,2025-04-13T05:37:54Z,2026-03-06T20:46:11Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnk2ODM4OTIx,prometheus/prometheus,https://github.com/prometheus/prometheus,63073,2012-11-24T11:14:12Z,2026-03-06T20:08:43Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk1NTc5ODA=,socketio/socket.io,https://github.com/socketio/socket.io,62930,2010-03-11T18:24:48Z,2026-03-06T14:25:09Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 R_kgDOQ77-1A,affaan-m/everything-claude-code,https://github.com/affaan-m/everything-claude-code,62862,2026-01-18T00:51:51Z,2026-03-05T23:36:36Z,{'name': 'JavaScript'}
+=======
+R_kgDOQ77-1A,affaan-m/everything-claude-code,https://github.com/affaan-m/everything-claude-code,62853,2026-01-18T00:51:51Z,2026-03-05T23:36:36Z,{'name': 'JavaScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk1MTk4MDQ1NQ==,alacritty/alacritty,https://github.com/alacritty/alacritty,62820,2016-02-18T05:02:30Z,2026-03-05T05:14:21Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxMzM0MzY5,resume/resume.github.com,https://github.com/resume/resume.github.com,62811,2011-02-06T13:39:55Z,2023-02-15T06:38:51Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzMjMwNDg3MDI=,OpenBB-finance/OpenBB,https://github.com/OpenBB-finance/OpenBB,62636,2020-12-20T10:46:38Z,2026-03-06T18:48:55Z,{'name': 'Python'}
 R_kgDOJ7brVg,openinterpreter/open-interpreter,https://github.com/openinterpreter/open-interpreter,62562,2023-07-14T07:10:44Z,2026-02-09T09:19:51Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOLOlZBA,daytonaio/daytona,https://github.com/daytonaio/daytona,62451,2024-02-06T08:21:20Z,2026-03-06T17:55:09Z,{'name': 'TypeScript'}
+=======
+R_kgDOLOlZBA,daytonaio/daytona,https://github.com/daytonaio/daytona,62452,2024-02-06T08:21:20Z,2026-03-06T17:55:09Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMDg3NjE2NDU=,nocodb/nocodb,https://github.com/nocodb/nocodb,62363,2017-10-29T18:51:48Z,2026-03-06T18:22:27Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk0MjQ4OTgyOQ==,rust-lang/rustlings,https://github.com/rust-lang/rustlings,62066,2015-09-15T02:25:18Z,2026-02-26T17:02:11Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnk0MjQwODgwNA==,traefik/traefik,https://github.com/traefik/traefik,62058,2015-09-13T19:04:02Z,2026-03-06T16:16:05Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkzMzI2MzExOA==,gorhill/uBlock,https://github.com/gorhill/uBlock,61929,2015-04-01T17:51:11Z,2026-03-06T16:39:23Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzMzExMDcwMTg=,FuelLabs/sway,https://github.com/FuelLabs/sway,61913,2021-01-19T20:54:33Z,2026-03-06T17:39:54Z,{'name': 'Rust'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNzU3NDQxOA==,ryanoasis/nerd-fonts,https://github.com/ryanoasis/nerd-fonts,61890,2014-12-05T04:31:17Z,2026-02-07T18:04:48Z,{'name': 'CSS'}
+=======
+MDEwOlJlcG9zaXRvcnkyNzU3NDQxOA==,ryanoasis/nerd-fonts,https://github.com/ryanoasis/nerd-fonts,61889,2014-12-05T04:31:17Z,2026-02-07T18:04:48Z,{'name': 'CSS'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkzOTU1NjQ3,lodash/lodash,https://github.com/lodash/lodash,61581,2012-04-07T04:11:46Z,2026-02-23T06:14:25Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxNTAxOTk2Mg==,tldr-pages/tldr,https://github.com/tldr-pages/tldr,61556,2013-12-08T07:34:43Z,2026-03-06T19:50:00Z,{'name': 'Markdown'}
 R_kgDOL5OWWw,unclecode/crawl4ai,https://github.com/unclecode/crawl4ai,61458,2024-05-09T09:48:50Z,2026-03-06T07:44:23Z,{'name': 'Python'}
@@ -277,7 +426,11 @@ MDEwOlJlcG9zaXRvcnkxMTQ4NzUz,spring-projects/spring-framework,https://github.com
 MDEwOlJlcG9zaXRvcnk5MjQ0Mzk4MA==,jgraph/drawio-desktop,https://github.com/jgraph/drawio-desktop,59688,2017-05-25T20:58:42Z,2026-03-06T13:56:37Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzNjUwMg==,git/git,https://github.com/git/git,59516,2008-07-23T14:21:26Z,2026-03-05T22:39:42Z,{'name': 'C'}
 MDEwOlJlcG9zaXRvcnkxODg2NjA2NjM=,CorentinJ/Real-Time-Voice-Cloning,https://github.com/CorentinJ/Real-Time-Voice-Cloning,59505,2019-05-26T08:56:15Z,2025-12-15T12:47:13Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOIgud1w,pathwaycom/pathway,https://github.com/pathwaycom/pathway,59493,2022-11-27T13:01:14Z,2026-03-05T06:23:10Z,{'name': 'Python'}
+=======
+R_kgDOIgud1w,pathwaycom/pathway,https://github.com/pathwaycom/pathway,59494,2022-11-27T13:01:14Z,2026-03-05T06:23:10Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk3NjAwNDA5,shadowsocks/shadowsocks-windows,https://github.com/shadowsocks/shadowsocks-windows,59269,2013-01-14T07:54:16Z,2025-01-01T08:09:55Z,{'name': 'C#'}
 R_kgDOI9q_QQ,meta-llama/llama,https://github.com/meta-llama/llama,59197,2023-02-14T09:29:12Z,2025-01-26T21:42:26Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk5MDUyODgzMA==,Solido/awesome-flutter,https://github.com/Solido/awesome-flutter,59183,2017-05-07T11:45:27Z,2026-02-11T17:28:05Z,{'name': 'Dart'}
@@ -293,7 +446,11 @@ MDEwOlJlcG9zaXRvcnkxMzA0NjQ5NjE=,sharkdp/bat,https://github.com/sharkdp/bat,5754
 R_kgDOGgFgVA,usememos/memos,https://github.com/usememos/memos,57531,2021-12-08T15:30:18Z,2026-03-05T14:03:47Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk0ODY1NTA=,h5bp/html5-boilerplate,https://github.com/h5bp/html5-boilerplate,57396,2010-01-24T18:03:24Z,2026-03-01T07:14:08Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyOTA4ODI3ODc=,FuelLabs/fuel-core,https://github.com/FuelLabs/fuel-core,57337,2020-08-27T21:12:14Z,2026-03-06T16:59:10Z,{'name': 'Rust'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkzNDgwNjAyMjc=,withastro/astro,https://github.com/withastro/astro,57317,2021-03-15T17:19:47Z,2026-03-06T18:17:46Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkzNDgwNjAyMjc=,withastro/astro,https://github.com/withastro/astro,57315,2021-03-15T17:19:47Z,2026-03-06T18:17:46Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxODAzMjg3MTU=,pmndrs/zustand,https://github.com/pmndrs/zustand,57265,2019-04-09T09:10:06Z,2026-03-02T16:41:07Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMzg4Mzk5Nzk=,scutan90/DeepLearning-500-questions,https://github.com/scutan90/DeepLearning-500-questions,57182,2018-06-27T06:36:45Z,2024-06-26T12:10:14Z,{'name': 'JavaScript'}
 R_kgDOJd0Akg,zylon-ai/private-gpt,https://github.com/zylon-ai/private-gpt,57154,2023-05-02T09:15:31Z,2026-02-26T09:56:49Z,{'name': 'Python'}
@@ -302,15 +459,24 @@ MDEwOlJlcG9zaXRvcnk1NDgzMzMw,soimort/you-get,https://github.com/soimort/you-get,
 R_kgDOHm9BJA,pocketbase/pocketbase,https://github.com/pocketbase/pocketbase,56582,2022-07-05T06:06:21Z,2026-03-06T08:01:03Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxMjE4OTg3MTc=,dani-garcia/vaultwarden,https://github.com/dani-garcia/vaultwarden,56399,2018-02-17T22:40:20Z,2026-03-04T05:58:40Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxOTg3MjQ1Ng==,remix-run/react-router,https://github.com/remix-run/react-router,56282,2014-05-16T22:22:51Z,2026-03-05T07:21:45Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxMzA2ODgwMTE=,meilisearch/meilisearch,https://github.com/meilisearch/meilisearch,56202,2018-04-23T11:45:28Z,2026-03-06T17:53:00Z,{'name': 'Rust'}
 R_kgDOJ9PZqA,pathwaycom/llm-app,https://github.com/pathwaycom/llm-app,56193,2023-07-19T08:43:37Z,2026-01-07T11:59:38Z,{'name': 'Jupyter Notebook'}
+=======
+MDEwOlJlcG9zaXRvcnkxMzA2ODgwMTE=,meilisearch/meilisearch,https://github.com/meilisearch/meilisearch,56201,2018-04-23T11:45:28Z,2026-03-06T17:53:00Z,{'name': 'Rust'}
+R_kgDOJ9PZqA,pathwaycom/llm-app,https://github.com/pathwaycom/llm-app,56194,2023-07-19T08:43:37Z,2026-01-07T11:59:38Z,{'name': 'Jupyter Notebook'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk4Mzg0NDcyMA==,ageitgey/face_recognition,https://github.com/ageitgey/face_recognition,56179,2017-03-03T21:52:39Z,2024-08-21T06:22:36Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMTkzODI0Mw==,rust-unofficial/awesome-rust,https://github.com/rust-unofficial/awesome-rust,56012,2014-07-17T10:45:10Z,2026-03-06T08:54:45Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkyMDYxOTAzNg==,pi-hole/pi-hole,https://github.com/pi-hole/pi-hole,55998,2014-06-08T15:02:55Z,2026-03-02T17:25:30Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnkzNjA0MDg5NA==,gatsbyjs/gatsby,https://github.com/gatsbyjs/gatsby,55945,2015-05-21T22:43:05Z,2026-03-05T22:14:13Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxNzgwMzIzNg==,rclone/rclone,https://github.com/rclone/rclone,55882,2014-03-16T16:19:57Z,2026-03-06T20:44:07Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxMjc0MDc5NTc=,azl397985856/leetcode,https://github.com/azl397985856/leetcode,55819,2018-03-30T09:13:51Z,2025-07-16T09:42:17Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 R_kgDOJrGO5A,Mintplex-Labs/anything-llm,https://github.com/Mintplex-Labs/anything-llm,55766,2023-06-04T02:29:14Z,2026-03-06T19:36:31Z,{'name': 'JavaScript'}
+=======
+R_kgDOJrGO5A,Mintplex-Labs/anything-llm,https://github.com/Mintplex-Labs/anything-llm,55765,2023-06-04T02:29:14Z,2026-03-06T19:36:31Z,{'name': 'JavaScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyMjA4MDkzOTM=,Textualize/rich,https://github.com/Textualize/rich,55700,2019-11-10T15:28:09Z,2026-02-26T09:52:16Z,{'name': 'Python'}
 R_kgDOLZpAvQ,opendatalab/MinerU,https://github.com/opendatalab/MinerU,55618,2024-02-29T08:52:34Z,2026-03-05T18:25:09Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyODQyODcyOQ==,wasabeef/awesome-android-ui,https://github.com/wasabeef/awesome-android-ui,55570,2014-12-24T01:45:03Z,2024-07-06T09:06:23Z,
@@ -347,17 +513,29 @@ MDEwOlJlcG9zaXRvcnkxNjYzNDY4,mozilla/pdf.js,https://github.com/mozilla/pdf.js,52
 MDEwOlJlcG9zaXRvcnk2ODcyMDg2Nw==,firstcontributions/first-contributions,https://github.com/firstcontributions/first-contributions,52865,2016-09-20T14:35:09Z,2026-03-06T20:28:56Z,
 MDEwOlJlcG9zaXRvcnkzMTE2ODMzOTA=,WerWolv/ImHex,https://github.com/WerWolv/ImHex,52797,2020-11-10T14:27:00Z,2026-03-04T00:43:49Z,{'name': 'C++'}
 R_kgDOOpypRA,Zie619/n8n-workflows,https://github.com/Zie619/n8n-workflows,52562,2025-05-14T08:43:59Z,2026-02-11T15:41:17Z,{'name': 'Python'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkzNDMyMjY2,JetBrains/kotlin,https://github.com/JetBrains/kotlin,52426,2012-02-13T17:29:58Z,2026-03-06T20:53:37Z,{'name': 'Kotlin'}
+=======
+MDEwOlJlcG9zaXRvcnkzNDMyMjY2,JetBrains/kotlin,https://github.com/JetBrains/kotlin,52426,2012-02-13T17:29:58Z,2026-03-06T20:47:25Z,{'name': 'Kotlin'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMjI1NjM3Ng==,ionic-team/ionic-framework,https://github.com/ionic-team/ionic-framework,52386,2013-08-20T23:06:02Z,2026-03-06T18:04:35Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkyODQwMDgwODc=,cloudcommunity/Free-Certifications,https://github.com/cloudcommunity/Free-Certifications,52345,2020-07-31T10:26:19Z,2025-07-22T03:37:50Z,
 MDEwOlJlcG9zaXRvcnkyNjkzMzYxNDg=,sickcodes/Docker-OSX,https://github.com/sickcodes/Docker-OSX,52231,2020-06-04T11:01:37Z,2025-11-11T05:23:57Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnk5ODUyOTE4,TryGhost/Ghost,https://github.com/TryGhost/Ghost,51974,2013-05-04T11:09:13Z,2026-03-06T19:13:49Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyMTA3MDI0Mjc=,typst/typst,https://github.com/typst/typst,51834,2019-09-24T21:41:56Z,2026-03-05T16:46:50Z,{'name': 'Rust'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxODY3MzMwOTU=,2dust/v2rayNG,https://github.com/2dust/v2rayNG,51761,2019-05-15T02:15:31Z,2026-03-03T08:19:48Z,{'name': 'Kotlin'}
 MDEwOlJlcG9zaXRvcnk0OTYwOTU4MQ==,PowerShell/PowerShell,https://github.com/PowerShell/PowerShell,51750,2016-01-13T23:41:35Z,2026-03-06T07:33:05Z,{'name': 'C#'}
 MDEwOlJlcG9zaXRvcnk3NTEwNDEyMw==,prettier/prettier,https://github.com/prettier/prettier,51736,2016-11-29T17:13:37Z,2026-03-06T18:51:32Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxMTIyNTAxNA==,etcd-io/etcd,https://github.com/etcd-io/etcd,51619,2013-07-06T21:57:21Z,2026-03-06T20:11:02Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk0NDgwNDIxNg==,termux/termux-app,https://github.com/termux/termux-app,51561,2015-10-23T09:42:46Z,2026-02-26T19:43:08Z,{'name': 'Java'}
+=======
+MDEwOlJlcG9zaXRvcnkxODY3MzMwOTU=,2dust/v2rayNG,https://github.com/2dust/v2rayNG,51760,2019-05-15T02:15:31Z,2026-03-03T08:19:48Z,{'name': 'Kotlin'}
+MDEwOlJlcG9zaXRvcnk0OTYwOTU4MQ==,PowerShell/PowerShell,https://github.com/PowerShell/PowerShell,51750,2016-01-13T23:41:35Z,2026-03-06T07:33:05Z,{'name': 'C#'}
+MDEwOlJlcG9zaXRvcnk3NTEwNDEyMw==,prettier/prettier,https://github.com/prettier/prettier,51736,2016-11-29T17:13:37Z,2026-03-06T18:51:32Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnkxMTIyNTAxNA==,etcd-io/etcd,https://github.com/etcd-io/etcd,51619,2013-07-06T21:57:21Z,2026-03-06T20:11:02Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnk0NDgwNDIxNg==,termux/termux-app,https://github.com/termux/termux-app,51560,2015-10-23T09:42:46Z,2026-02-26T19:43:08Z,{'name': 'Java'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOLhdsRA,xai-org/grok-1,https://github.com/xai-org/grok-1,51530,2024-03-17T08:53:38Z,2024-08-30T04:17:25Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMDMwMDE3Nw==,google/guava,https://github.com/google/guava,51484,2014-05-29T16:23:17Z,2026-03-06T20:41:59Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnkyMTcwMDY5OQ==,vsouza/awesome-ios,https://github.com/vsouza/awesome-ios,51467,2014-07-10T16:03:45Z,2025-09-29T17:35:43Z,{'name': 'Swift'}
@@ -366,12 +544,21 @@ MDEwOlJlcG9zaXRvcnkzMzI4ODA2ODk=,coollabsio/coolify,https://github.com/coollabsi
 MDEwOlJlcG9zaXRvcnk5MzA5MDkz,Semantic-Org/Semantic-UI,https://github.com/Semantic-Org/Semantic-UI,51138,2013-04-08T23:32:04Z,2024-11-27T21:01:48Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk2NzE4Njk2OA==,chinese-poetry/chinese-poetry,https://github.com/chinese-poetry/chinese-poetry,51032,2016-09-02T03:32:25Z,2025-04-02T09:42:19Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk2MDkzMzE2,DefinitelyTyped/DefinitelyTyped,https://github.com/DefinitelyTyped/DefinitelyTyped,51014,2012-10-05T16:39:45Z,2026-03-06T15:59:37Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxNjIyNzk4MjI=,agalwood/Motrix,https://github.com/agalwood/Motrix,50990,2018-12-18T11:45:05Z,2024-07-11T12:09:20Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxNTQ1MjkxOQ==,ethereum/go-ethereum,https://github.com/ethereum/go-ethereum,50895,2013-12-26T13:05:46Z,2026-03-06T20:50:30Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk2ODk1NzkyMA==,justjavac/awesome-wechat-weapp,https://github.com/justjavac/awesome-wechat-weapp,50580,2016-09-22T20:04:48Z,2025-11-19T06:06:13Z,
 MDEwOlJlcG9zaXRvcnk0NTcyMzM3Nw==,charlax/professional-programming,https://github.com/charlax/professional-programming,50527,2015-11-07T05:07:52Z,2026-03-04T21:57:40Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk4NTAzMTQ0Mg==,poteto/hiring-without-whiteboards,https://github.com/poteto/hiring-without-whiteboards,50471,2017-03-15T05:09:01Z,2026-02-27T02:58:49Z,{'name': 'JavaScript'}
 R_kgDOJQ_29Q,FlowiseAI/Flowise,https://github.com/FlowiseAI/Flowise,50448,2023-03-31T12:23:09Z,2026-03-06T19:59:30Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkxNjIyNzk4MjI=,agalwood/Motrix,https://github.com/agalwood/Motrix,50989,2018-12-18T11:45:05Z,2024-07-11T12:09:20Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnkxNTQ1MjkxOQ==,ethereum/go-ethereum,https://github.com/ethereum/go-ethereum,50895,2013-12-26T13:05:46Z,2026-03-06T18:03:06Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnk2ODk1NzkyMA==,justjavac/awesome-wechat-weapp,https://github.com/justjavac/awesome-wechat-weapp,50580,2016-09-22T20:04:48Z,2025-11-19T06:06:13Z,
+MDEwOlJlcG9zaXRvcnk0NTcyMzM3Nw==,charlax/professional-programming,https://github.com/charlax/professional-programming,50526,2015-11-07T05:07:52Z,2026-03-04T21:57:40Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnk4NTAzMTQ0Mg==,poteto/hiring-without-whiteboards,https://github.com/poteto/hiring-without-whiteboards,50471,2017-03-15T05:09:01Z,2026-02-27T02:58:49Z,{'name': 'JavaScript'}
+R_kgDOJQ_29Q,FlowiseAI/Flowise,https://github.com/FlowiseAI/Flowise,50447,2023-03-31T12:23:09Z,2026-03-06T19:59:30Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOLEttLA,dockur/windows,https://github.com/dockur/windows,50246,2024-01-14T13:09:40Z,2026-03-05T21:49:18Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnk1MDI2NDI5Ng==,jgthms/bulma,https://github.com/jgthms/bulma,50058,2016-01-23T23:48:34Z,2026-03-01T20:13:02Z,{'name': 'CSS'}
 R_kgDOLeediw,harry0703/MoneyPrinterTurbo,https://github.com/harry0703/MoneyPrinterTurbo,50026,2024-03-11T02:57:34Z,2025-12-14T04:02:56Z,{'name': 'Python'}
@@ -398,17 +585,29 @@ MDEwOlJlcG9zaXRvcnk1ODgzNjUzNA==,algorithm-visualizer/algorithm-visualizer,https
 R_kgDOOhDnFA,sansan0/TrendRadar,https://github.com/sansan0/TrendRadar,48120,2025-04-28T11:42:16Z,2026-03-01T03:21:07Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk4NTgxMjc=,pandas-dev/pandas,https://github.com/pandas-dev/pandas,48072,2010-08-24T01:37:33Z,2026-03-06T17:28:42Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxNDI0NDcw,moment/moment,https://github.com/moment/moment,48055,2011-03-01T02:46:06Z,2024-08-14T17:12:19Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 R_kgDOOPWeNQ,upstash/context7,https://github.com/upstash/context7,47951,2025-03-26T23:40:39Z,2026-03-06T14:58:21Z,{'name': 'TypeScript'}
+=======
+R_kgDOOPWeNQ,upstash/context7,https://github.com/upstash/context7,47950,2025-03-26T23:40:39Z,2026-03-06T14:58:21Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNzcyODE2NA==,hashicorp/terraform,https://github.com/hashicorp/terraform,47891,2014-03-13T22:25:48Z,2026-03-06T20:19:00Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkzMzc5MTc0Mw==,x64dbg/x64dbg,https://github.com/x64dbg/x64dbg,47835,2015-04-11T20:48:23Z,2026-02-25T01:33:02Z,{'name': 'C++'}
 R_kgDOKFVBpg,lllyasviel/Fooocus,https://github.com/lllyasviel/Fooocus,47812,2023-08-09T18:43:40Z,2025-12-01T19:17:07Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyODE5NzUzMTA=,type-challenges/type-challenges,https://github.com/type-challenges/type-challenges,47779,2020-07-23T14:33:11Z,2026-03-01T06:19:21Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnk2NTc1MDI0MQ==,expo/expo,https://github.com/expo/expo,47744,2016-08-15T17:14:25Z,2026-03-06T20:50:32Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnk2NTc1MDI0MQ==,expo/expo,https://github.com/expo/expo,47744,2016-08-15T17:14:25Z,2026-03-06T19:37:43Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMDkzNDMwOTg=,serhii-londar/open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps,47715,2017-11-03T02:35:33Z,2026-02-23T00:00:38Z,
 MDEwOlJlcG9zaXRvcnk2MjgxMjI2MQ==,kelseyhightower/kubernetes-the-hard-way,https://github.com/kelseyhightower/kubernetes-the-hard-way,47656,2016-07-07T14:15:27Z,2025-04-10T06:11:47Z,
 MDEwOlJlcG9zaXRvcnk4MjIyNzU4NQ==,kamranahmedse/design-patterns-for-humans,https://github.com/kamranahmedse/design-patterns-for-humans,47607,2017-02-16T21:24:39Z,2024-12-02T04:54:48Z,
 MDEwOlJlcG9zaXRvcnk0MDQxNjIzNg==,minimaxir/big-list-of-naughty-strings,https://github.com/minimaxir/big-list-of-naughty-strings,47605,2015-08-08T20:57:20Z,2024-04-18T03:26:59Z,{'name': 'Python'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNTUzNzg4MTY=,bigskysoftware/htmx,https://github.com/bigskysoftware/htmx,47560,2020-04-13T16:17:51Z,2026-03-04T14:54:33Z,{'name': 'JavaScript'}
+=======
+MDEwOlJlcG9zaXRvcnkyNTUzNzg4MTY=,bigskysoftware/htmx,https://github.com/bigskysoftware/htmx,47559,2020-04-13T16:17:51Z,2026-03-04T14:54:33Z,{'name': 'JavaScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNjc1MjYyMA==,gogs/gogs,https://github.com/gogs/gogs,47549,2014-02-12T01:57:08Z,2026-03-04T17:52:09Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk4ODU5NDc0,skylot/jadx,https://github.com/skylot/jadx,47534,2013-03-18T17:08:21Z,2026-03-04T20:08:00Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnkxMTE3NzkyOA==,karan/Projects,https://github.com/karan/Projects,47451,2013-07-04T13:37:27Z,2024-08-14T19:06:05Z,
@@ -430,16 +629,28 @@ MDEwOlJlcG9zaXRvcnkxNTYxNTcwNTU=,GokuMohandas/Made-With-ML,https://github.com/Go
 MDEwOlJlcG9zaXRvcnk3NTY5NTc4,discourse/discourse,https://github.com/discourse/discourse,46509,2013-01-12T00:25:55Z,2026-03-06T20:44:17Z,{'name': 'Ruby'}
 R_kgDOIN1WiA,tw93/Pake,https://github.com/tw93/Pake,46490,2022-10-14T09:32:57Z,2026-03-04T06:59:53Z,{'name': 'Rust'}
 R_kgDOO_yqIA,OpenCut-app/OpenCut,https://github.com/OpenCut-app/OpenCut,46396,2025-06-22T08:02:17Z,2026-03-04T16:18:35Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkzMDIwMzkzNQ==,metabase/metabase,https://github.com/metabase/metabase,46317,2015-02-02T19:25:47Z,2026-03-06T20:54:18Z,{'name': 'Clojure'}
 R_kgDONWoU0w,virattt/ai-hedge-fund,https://github.com/virattt/ai-hedge-fund,46308,2024-11-29T16:30:01Z,2026-02-02T20:45:33Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxMzYwNjIyNDA=,DovAmir/awesome-design-patterns,https://github.com/DovAmir/awesome-design-patterns,46296,2018-06-04T17:47:48Z,2024-10-25T19:57:00Z,
 R_kgDOIdx9Rg,makeplane/plane,https://github.com/makeplane/plane,46280,2022-11-19T12:55:01Z,2026-03-06T09:14:08Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkzMDIwMzkzNQ==,metabase/metabase,https://github.com/metabase/metabase,46317,2015-02-02T19:25:47Z,2026-03-06T20:47:06Z,{'name': 'Clojure'}
+R_kgDONWoU0w,virattt/ai-hedge-fund,https://github.com/virattt/ai-hedge-fund,46307,2024-11-29T16:30:01Z,2026-02-02T20:45:33Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMzYwNjIyNDA=,DovAmir/awesome-design-patterns,https://github.com/DovAmir/awesome-design-patterns,46296,2018-06-04T17:47:48Z,2024-10-25T19:57:00Z,
+R_kgDOIdx9Rg,makeplane/plane,https://github.com/makeplane/plane,46279,2022-11-19T12:55:01Z,2026-03-06T09:14:08Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk2MDI0NjM1OQ==,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,46211,2016-06-02T08:28:18Z,2026-03-06T20:09:46Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnk5ODAyOTU5Mg==,ziishaned/learn-regex,https://github.com/ziishaned/learn-regex,46161,2017-07-22T12:21:03Z,2025-08-25T23:17:54Z,
 R_kgDOIpvk-w,oobabooga/text-generation-webui,https://github.com/oobabooga/text-generation-webui,46158,2022-12-21T04:17:37Z,2026-03-06T04:02:10Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMjk3NjQ0NjU=,Asabeneh/30-Days-Of-JavaScript,https://github.com/Asabeneh/30-Days-Of-JavaScript,46155,2019-12-23T14:07:40Z,2025-12-06T11:12:48Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 R_kgDOHy0BzQ,astral-sh/ruff,https://github.com/astral-sh/ruff,46139,2022-08-09T17:17:44Z,2026-03-06T20:54:04Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxMDg2NTQzNg==,dypsilon/frontend-dev-bookmarks,https://github.com/dypsilon/frontend-dev-bookmarks,46138,2013-06-22T13:23:55Z,2024-05-21T10:56:58Z,
+=======
+R_kgDOHy0BzQ,astral-sh/ruff,https://github.com/astral-sh/ruff,46139,2022-08-09T17:17:44Z,2026-03-06T20:33:20Z,{'name': 'Rust'}
+MDEwOlJlcG9zaXRvcnkxMDg2NTQzNg==,dypsilon/frontend-dev-bookmarks,https://github.com/dypsilon/frontend-dev-bookmarks,46137,2013-06-22T13:23:55Z,2024-05-21T10:56:58Z,
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk0ODYxMDY2Mg==,acmesh-official/acme.sh,https://github.com/acmesh-official/acme.sh,45864,2015-12-26T12:56:33Z,2026-03-04T07:17:02Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnkzNDQxOTA0Nzg=,microsoft/AI-For-Beginners,https://github.com/microsoft/AI-For-Beginners,45861,2021-03-03T16:27:36Z,2026-03-04T23:52:35Z,{'name': 'Jupyter Notebook'}
 MDEwOlJlcG9zaXRvcnk2MDYzMDg0NA==,microsoft/monaco-editor,https://github.com/microsoft/monaco-editor,45684,2016-06-07T16:56:31Z,2026-03-06T16:53:58Z,{'name': 'JavaScript'}
@@ -452,12 +663,20 @@ MDEwOlJlcG9zaXRvcnkxMTAwNTg4NTY=,LeCoupa/awesome-cheatsheets,https://github.com/
 MDEwOlJlcG9zaXRvcnkxNTkxNTI5MDQ=,jeecgboot/JeecgBoot,https://github.com/jeecgboot/JeecgBoot,45348,2018-11-26T10:40:00Z,2026-03-05T08:59:39Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnkxNTQyODQ4MA==,ColorlibHQ/AdminLTE,https://github.com/ColorlibHQ/AdminLTE,45317,2013-12-25T02:52:40Z,2026-03-05T00:21:03Z,{'name': 'CSS'}
 MDEwOlJlcG9zaXRvcnkxNTA2Mjg2OQ==,jestjs/jest,https://github.com/jestjs/jest,45317,2013-12-10T00:18:04Z,2026-03-05T18:13:42Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 R_kgDOKlrpgA,crewAIInc/crewAI,https://github.com/crewAIInc/crewAI,45306,2023-10-27T03:26:59Z,2026-03-06T17:56:09Z,{'name': 'Python'}
+=======
+R_kgDOKlrpgA,crewAIInc/crewAI,https://github.com/crewAIInc/crewAI,45307,2023-10-27T03:26:59Z,2026-03-06T17:56:09Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyNDI2ODEyNw==,coreybutler/nvm-windows,https://github.com/coreybutler/nvm-windows,45257,2014-09-20T16:37:28Z,2026-02-26T18:00:10Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkzNjQ0NzQzMzU=,google/zx,https://github.com/google/zx,45250,2021-05-05T05:50:01Z,2026-03-02T21:55:12Z,{'name': 'JavaScript'}
 R_kgDOJtVdAQ,NanmiCoder/MediaCrawler,https://github.com/NanmiCoder/MediaCrawler,44954,2023-06-09T12:14:34Z,2026-03-03T15:34:12Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMzQ3OTg2NzU=,bevyengine/bevy,https://github.com/bevyengine/bevy,44909,2020-01-18T21:13:55Z,2026-03-06T19:04:22Z,{'name': 'Rust'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkzNTg2NjY5NA==,RocketChat/Rocket.Chat,https://github.com/RocketChat/Rocket.Chat,44831,2015-05-19T07:36:09Z,2026-03-06T20:51:18Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkzNTg2NjY5NA==,RocketChat/Rocket.Chat,https://github.com/RocketChat/Rocket.Chat,44831,2015-05-19T07:36:09Z,2026-03-06T20:45:43Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk0MTA1ODA1NA==,isocpp/CppCoreGuidelines,https://github.com/isocpp/CppCoreGuidelines,44817,2015-08-19T20:22:52Z,2026-03-05T21:28:33Z,{'name': 'CSS'}
 MDEwOlJlcG9zaXRvcnkzMjE0NDA2,meteor/meteor,https://github.com/meteor/meteor,44778,2012-01-19T01:58:17Z,2026-03-06T20:11:57Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzMzg3MTk5NjI=,KRTirtho/spotube,https://github.com/KRTirtho/spotube,44770,2021-02-14T03:17:58Z,2026-02-24T13:15:09Z,{'name': 'Dart'}
@@ -470,8 +689,13 @@ MDEwOlJlcG9zaXRvcnk5MzExMzU=,Leaflet/Leaflet,https://github.com/Leaflet/Leaflet,
 MDEwOlJlcG9zaXRvcnkxODc5NjE5MDc=,gedoor/legado,https://github.com/gedoor/legado,44589,2019-05-22T04:18:58Z,2026-03-04T03:13:33Z,{'name': 'Kotlin'}
 MDEwOlJlcG9zaXRvcnkxNzQwMzgwMzE=,react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form,44562,2019-03-05T23:47:10Z,2026-02-28T01:00:23Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzMzg4NDg5MQ==,apache/airflow,https://github.com/apache/airflow,44519,2015-04-13T18:04:58Z,2026-03-06T19:03:32Z,{'name': 'Python'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNzcyOTg4MA==,grpc/grpc,https://github.com/grpc/grpc,44447,2014-12-08T18:58:53Z,2026-03-06T20:52:29Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnk4MDI3NjM5MQ==,GitSquared/edex-ui,https://github.com/GitSquared/edex-ui,44384,2017-01-28T09:35:02Z,2021-10-19T22:38:47Z,{'name': 'JavaScript'}
+=======
+MDEwOlJlcG9zaXRvcnkyNzcyOTg4MA==,grpc/grpc,https://github.com/grpc/grpc,44447,2014-12-08T18:58:53Z,2026-03-06T13:50:21Z,{'name': 'C++'}
+MDEwOlJlcG9zaXRvcnk4MDI3NjM5MQ==,GitSquared/edex-ui,https://github.com/GitSquared/edex-ui,44383,2017-01-28T09:35:02Z,2021-10-19T22:38:47Z,{'name': 'JavaScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk1NjI1NDY0,pyenv/pyenv,https://github.com/pyenv/pyenv,44368,2012-08-31T06:57:52Z,2026-03-04T07:02:44Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnkxMzU2MTQwNjk=,sudheerj/reactjs-interview-questions,https://github.com/sudheerj/reactjs-interview-questions,44324,2018-05-31T17:17:01Z,2026-02-24T14:53:00Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyNDAyMTUzMTQ=,docker/awesome-compose,https://github.com/docker/awesome-compose,44257,2020-02-13T08:51:42Z,2026-03-05T09:59:09Z,{'name': 'HTML'}
@@ -494,10 +718,17 @@ MDEwOlJlcG9zaXRvcnkxMjU3NDM0NA==,spf13/cobra,https://github.com/spf13/cobra,4339
 MDEwOlJlcG9zaXRvcnk0MDI4NjAxNzU=,FuelLabs/fuels-ts,https://github.com/FuelLabs/fuels-ts,43353,2021-09-03T18:11:03Z,2026-02-01T19:26:39Z,{'name': 'TypeScript'}
 R_kgDOJLVrdQ,mudler/LocalAI,https://github.com/mudler/LocalAI,43343,2023-03-18T22:58:02Z,2026-03-06T20:48:05Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk5ODc3MTExMA==,zhongyang219/TrafficMonitor,https://github.com/zhongyang219/TrafficMonitor,43317,2017-07-30T02:51:17Z,2026-02-12T13:01:25Z,{'name': 'C++'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnk4NzMzMjg=,getsentry/sentry,https://github.com/getsentry/sentry,43288,2010-08-30T22:06:41Z,2026-03-06T20:54:50Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyNjg0MjQ3Mzk=,helix-editor/helix,https://github.com/helix-editor/helix,43264,2020-06-01T04:26:56Z,2026-03-04T19:51:37Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkyMDg3Mjg3NzI=,milvus-io/milvus,https://github.com/milvus-io/milvus,43172,2019-09-16T06:43:43Z,2026-03-06T15:29:37Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxMDE4NzA4Mg==,Unitech/pm2,https://github.com/Unitech/pm2,42974,2013-05-21T03:25:25Z,2026-02-08T16:20:40Z,{'name': 'JavaScript'}
+=======
+MDEwOlJlcG9zaXRvcnk4NzMzMjg=,getsentry/sentry,https://github.com/getsentry/sentry,43288,2010-08-30T22:06:41Z,2026-03-06T20:47:04Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkyNjg0MjQ3Mzk=,helix-editor/helix,https://github.com/helix-editor/helix,43264,2020-06-01T04:26:56Z,2026-03-04T19:51:37Z,{'name': 'Rust'}
+MDEwOlJlcG9zaXRvcnkyMDg3Mjg3NzI=,milvus-io/milvus,https://github.com/milvus-io/milvus,43172,2019-09-16T06:43:43Z,2026-03-06T15:29:37Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnkxMDE4NzA4Mg==,Unitech/pm2,https://github.com/Unitech/pm2,42973,2013-05-21T03:25:25Z,2026-02-08T16:20:40Z,{'name': 'JavaScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxODg3MDAyNzQ=,9001/copyparty,https://github.com/9001/copyparty,42973,2019-05-26T15:28:33Z,2026-03-04T06:29:44Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMTI2MTMwNDk=,cli/cli,https://github.com/cli/cli,42939,2019-10-03T15:24:53Z,2026-03-06T19:01:07Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxNzE2NTY1OA==,apache/spark,https://github.com/apache/spark,42935,2014-02-25T08:00:08Z,2026-03-06T18:10:40Z,{'name': 'Scala'}
@@ -515,9 +746,15 @@ MDEwOlJlcG9zaXRvcnkxMjc3NjkyMzE=,DIYgod/RSSHub,https://github.com/DIYgod/RSSHub,
 R_kgDOHE14iw,hiroi-sora/Umi-OCR,https://github.com/hiroi-sora/Umi-OCR,42412,2022-03-28T04:01:46Z,2025-11-20T14:58:13Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyMjQ1ODI1OQ==,Alamofire/Alamofire,https://github.com/Alamofire/Alamofire,42355,2014-07-31T05:56:19Z,2026-02-12T02:31:52Z,{'name': 'Swift'}
 MDEwOlJlcG9zaXRvcnkxNjQxNDA3NTY=,files-community/Files,https://github.com/files-community/Files,42279,2019-01-04T18:19:14Z,2026-03-06T06:22:12Z,{'name': 'C#'}
+<<<<<<< HEAD
 R_kgDOMNlpaQ,exo-explore/exo,https://github.com/exo-explore/exo,42151,2024-06-24T18:36:22Z,2026-03-06T19:23:54Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk4MzExOTQzMQ==,apachecn/ailearning,https://github.com/apachecn/ailearning,42088,2017-02-25T08:53:02Z,2024-11-12T16:21:55Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkyNDU3MDQ2MDg=,colinhacks/zod,https://github.com/colinhacks/zod,42058,2020-03-07T20:59:08Z,2026-02-15T14:20:41Z,{'name': 'TypeScript'}
+=======
+R_kgDOMNlpaQ,exo-explore/exo,https://github.com/exo-explore/exo,42150,2024-06-24T18:36:22Z,2026-03-06T19:23:54Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnk4MzExOTQzMQ==,apachecn/ailearning,https://github.com/apachecn/ailearning,42088,2017-02-25T08:53:02Z,2024-11-12T16:21:55Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkyNDU3MDQ2MDg=,colinhacks/zod,https://github.com/colinhacks/zod,42057,2020-03-07T20:59:08Z,2026-02-15T14:20:41Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyMzc3OTEwNzc=,mingrammer/diagrams,https://github.com/mingrammer/diagrams,42055,2020-02-02T15:23:24Z,2026-02-07T11:02:07Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk5MDc5MzQxOA==,sharkdp/fd,https://github.com/sharkdp/fd,41949,2017-05-09T21:27:10Z,2026-03-06T17:43:08Z,{'name': 'Rust'}
 R_kgDOHx-ACA,zhayujie/chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat,41945,2022-08-07T08:33:41Z,2026-03-06T10:42:19Z,{'name': 'Python'}
@@ -535,21 +772,38 @@ MDEwOlJlcG9zaXRvcnk0OTk3MDY0Mg==,yarnpkg/yarn,https://github.com/yarnpkg/yarn,41
 R_kgDOIFKaXA,usebruno/bruno,https://github.com/usebruno/bruno,41465,2022-09-27T20:51:45Z,2026-03-06T18:53:02Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxNDA2ODc0MzA=,dcloudio/uni-app,https://github.com/dcloudio/uni-app,41447,2018-07-12T08:52:39Z,2026-03-06T14:24:30Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxMjUyNjYzMjg=,psf/black,https://github.com/psf/black,41418,2018-03-14T19:54:45Z,2026-03-06T17:42:04Z,{'name': 'Python'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNjYyMzExNDk=,logseq/logseq,https://github.com/logseq/logseq,41408,2020-05-23T00:06:06Z,2026-03-06T13:00:10Z,{'name': 'Clojure'}
 R_kgDOQEIuxA,ComposioHQ/awesome-claude-skills,https://github.com/ComposioHQ/awesome-claude-skills,41404,2025-10-17T07:15:01Z,2026-02-19T06:22:06Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxMzcxNDczODY=,dylanaraps/pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible,41402,2018-06-13T01:39:33Z,2023-11-28T03:26:23Z,{'name': 'Shell'}
 R_kgDOGStmJA,hpcaitech/ColossalAI,https://github.com/hpcaitech/ColossalAI,41364,2021-10-28T16:19:44Z,2026-03-02T17:44:19Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk1OTIzMjE1,hexojs/hexo,https://github.com/hexojs/hexo,41281,2012-09-23T15:17:08Z,2026-03-03T23:52:29Z,{'name': 'TypeScript'}
 R_kgDOH0x3oA,karanpratapsingh/system-design,https://github.com/karanpratapsingh/system-design,41233,2022-08-15T18:59:54Z,2025-12-15T00:13:31Z,
+=======
+MDEwOlJlcG9zaXRvcnkyNjYyMzExNDk=,logseq/logseq,https://github.com/logseq/logseq,41407,2020-05-23T00:06:06Z,2026-03-06T13:00:10Z,{'name': 'Clojure'}
+R_kgDOQEIuxA,ComposioHQ/awesome-claude-skills,https://github.com/ComposioHQ/awesome-claude-skills,41405,2025-10-17T07:15:01Z,2026-02-19T06:22:06Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxMzcxNDczODY=,dylanaraps/pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible,41402,2018-06-13T01:39:33Z,2023-11-28T03:26:23Z,{'name': 'Shell'}
+R_kgDOGStmJA,hpcaitech/ColossalAI,https://github.com/hpcaitech/ColossalAI,41364,2021-10-28T16:19:44Z,2026-03-02T17:44:19Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnk1OTIzMjE1,hexojs/hexo,https://github.com/hexojs/hexo,41281,2012-09-23T15:17:08Z,2026-03-03T23:52:29Z,{'name': 'TypeScript'}
+R_kgDOH0x3oA,karanpratapsingh/system-design,https://github.com/karanpratapsingh/system-design,41232,2022-08-15T18:59:54Z,2025-12-15T00:13:31Z,
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOJI72qw,zai-org/ChatGLM-6B,https://github.com/zai-org/ChatGLM-6B,41226,2023-03-13T12:00:18Z,2024-06-27T04:05:25Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk5MTI1MzY5OA==,ccxt/ccxt,https://github.com/ccxt/ccxt,41221,2017-05-14T15:41:56Z,2026-03-06T15:44:10Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk3NzE4OTA0Mw==,bailicangdu/vue2-elm,https://github.com/bailicangdu/vue2-elm,41164,2016-12-23T01:49:20Z,2025-04-11T12:52:02Z,{'name': 'Vue'}
 MDEwOlJlcG9zaXRvcnkyNzQ0Mjk2Nw==,fastlane/fastlane,https://github.com/fastlane/fastlane,41127,2014-12-02T17:00:38Z,2026-03-04T16:41:23Z,{'name': 'Ruby'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnk1NjkwNDE=,curl/curl,https://github.com/curl/curl,41083,2010-03-18T22:32:22Z,2026-03-06T14:36:04Z,{'name': 'C'}
 R_kgDOIPQ9gA,juspay/hyperswitch,https://github.com/juspay/hyperswitch,41054,2022-10-17T11:18:28Z,2026-03-06T16:07:49Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnk5MDU2MzU4NQ==,chubin/cheat.sh,https://github.com/chubin/cheat.sh,41053,2017-05-07T21:40:56Z,2025-12-23T18:48:24Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk2NTc5NDI5Mg==,styled-components/styled-components,https://github.com/styled-components/styled-components,41026,2016-08-16T06:41:32Z,2026-02-19T20:40:32Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzMjcwODk4NzA=,payloadcms/payload,https://github.com/payloadcms/payload,41022,2021-01-05T18:49:45Z,2026-03-06T20:50:17Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnk1NjkwNDE=,curl/curl,https://github.com/curl/curl,41082,2010-03-18T22:32:22Z,2026-03-06T14:36:04Z,{'name': 'C'}
+R_kgDOIPQ9gA,juspay/hyperswitch,https://github.com/juspay/hyperswitch,41054,2022-10-17T11:18:28Z,2026-03-06T16:07:49Z,{'name': 'Rust'}
+MDEwOlJlcG9zaXRvcnk5MDU2MzU4NQ==,chubin/cheat.sh,https://github.com/chubin/cheat.sh,41053,2017-05-07T21:40:56Z,2025-12-23T18:48:24Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnk2NTc5NDI5Mg==,styled-components/styled-components,https://github.com/styled-components/styled-components,41026,2016-08-16T06:41:32Z,2026-02-19T20:40:32Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkzMjcwODk4NzA=,payloadcms/payload,https://github.com/payloadcms/payload,41022,2021-01-05T18:49:45Z,2026-03-06T20:45:09Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk2Nzk2MjY0OA==,vuetifyjs/vuetify,https://github.com/vuetifyjs/vuetify,40982,2016-09-12T00:39:35Z,2026-03-06T12:31:28Z,{'name': 'TypeScript'}
 R_kgDOL_2xwg,CherryHQ/cherry-studio,https://github.com/CherryHQ/cherry-studio,40895,2024-05-24T01:56:26Z,2026-03-06T13:30:24Z,{'name': 'TypeScript'}
 R_kgDOKIBx0g,janhq/jan,https://github.com/janhq/jan,40867,2023-08-17T02:17:10Z,2026-03-06T14:23:02Z,{'name': 'TypeScript'}
@@ -565,7 +819,11 @@ MDEwOlJlcG9zaXRvcnkzMTY4MzY4MTY=,saadeghi/daisyui,https://github.com/saadeghi/da
 MDEwOlJlcG9zaXRvcnkyMDI4OTA3Nzg=,chakra-ui/chakra-ui,https://github.com/chakra-ui/chakra-ui,40352,2019-08-17T14:27:54Z,2026-03-06T20:15:39Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkyMzMxMzAwODk=,charmbracelet/bubbletea,https://github.com/charmbracelet/bubbletea,40329,2020-01-10T21:04:03Z,2026-03-06T17:24:50Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnk2MjE1NjQwMw==,QSCTech/zju-icicles,https://github.com/QSCTech/zju-icicles,40310,2016-06-28T16:17:32Z,2026-01-20T11:01:02Z,{'name': 'HTML'}
+<<<<<<< HEAD
 R_kgDOIicM-w,twentyhq/twenty,https://github.com/twentyhq/twenty,40262,2022-12-01T13:04:40Z,2026-03-06T20:51:08Z,{'name': 'TypeScript'}
+=======
+R_kgDOIicM-w,twentyhq/twenty,https://github.com/twentyhq/twenty,40262,2022-12-01T13:04:40Z,2026-03-06T20:47:00Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxOTMyOTIwNjE=,zbezj/HEU_KMS_Activator,https://github.com/zbezj/HEU_KMS_Activator,40212,2019-06-23T00:49:35Z,2025-11-11T12:34:09Z,
 MDEwOlJlcG9zaXRvcnkxMTE2NTQy,aria2/aria2,https://github.com/aria2/aria2,40207,2010-11-27T09:41:48Z,2025-11-24T07:07:56Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnkzNzc0MzI4,wg/wrk,https://github.com/wg/wrk,40116,2012-03-20T11:12:28Z,2023-12-30T10:33:51Z,{'name': 'C'}
@@ -584,11 +842,19 @@ MDEwOlJlcG9zaXRvcnk2NjcwMDY=,videojs/video.js,https://github.com/videojs/video.j
 MDEwOlJlcG9zaXRvcnk3MDkwNTQ3OA==,floodsung/Deep-Learning-Papers-Reading-Roadmap,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,39481,2016-10-14T11:49:48Z,2022-11-27T13:18:32Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxMTkxNjA1NTM=,photoprism/photoprism,https://github.com/photoprism/photoprism,39423,2018-01-27T12:00:15Z,2026-03-06T18:11:39Z,{'name': 'Go'}
 R_kgDOJLWfsQ,lm-sys/FastChat,https://github.com/lm-sys/FastChat,39421,2023-03-19T00:18:02Z,2025-06-02T15:22:03Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOOY4eVg,bmad-code-org/BMAD-METHOD,https://github.com/bmad-code-org/BMAD-METHOD,39384,2025-04-13T14:54:25Z,2026-03-06T15:59:16Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyMzQyMzEzNzE=,gofiber/fiber,https://github.com/gofiber/fiber,39339,2020-01-16T03:59:20Z,2026-03-06T13:10:04Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkyNzU5OTM4ODU=,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,39337,2020-06-30T04:07:36Z,2026-03-06T20:03:48Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk4MTIyNzAwNQ==,facebookresearch/faiss,https://github.com/facebookresearch/faiss,39283,2017-02-07T16:07:05Z,2026-03-06T17:49:04Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnkxNzAzMjY5Mjk=,goabstract/Awesome-Design-Tools,https://github.com/goabstract/Awesome-Design-Tools,39194,2019-02-12T13:55:30Z,2024-07-28T19:57:31Z,{'name': 'JavaScript'}
+=======
+R_kgDOOY4eVg,bmad-code-org/BMAD-METHOD,https://github.com/bmad-code-org/BMAD-METHOD,39383,2025-04-13T14:54:25Z,2026-03-06T15:59:16Z,{'name': 'JavaScript'}
+MDEwOlJlcG9zaXRvcnkyMzQyMzEzNzE=,gofiber/fiber,https://github.com/gofiber/fiber,39339,2020-01-16T03:59:20Z,2026-03-06T13:10:04Z,{'name': 'Go'}
+MDEwOlJlcG9zaXRvcnkyNzU5OTM4ODU=,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,39337,2020-06-30T04:07:36Z,2026-03-06T20:03:48Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnk4MTIyNzAwNQ==,facebookresearch/faiss,https://github.com/facebookresearch/faiss,39283,2017-02-07T16:07:05Z,2026-03-06T17:49:04Z,{'name': 'C++'}
+MDEwOlJlcG9zaXRvcnkxNzAzMjY5Mjk=,goabstract/Awesome-Design-Tools,https://github.com/goabstract/Awesome-Design-Tools,39193,2019-02-12T13:55:30Z,2024-07-28T19:57:31Z,{'name': 'JavaScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk5MzkzNzU5,phaserjs/phaser,https://github.com/phaserjs/phaser,39132,2013-04-12T12:27:51Z,2026-03-06T05:57:17Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyMzk3NDE0OQ==,Dogfalo/materialize,https://github.com/Dogfalo/materialize,39126,2014-09-12T19:35:38Z,2025-08-10T02:17:57Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzNTk2OTA2MQ==,google/styleguide,https://github.com/google/styleguide,39070,2015-05-20T19:18:59Z,2025-11-13T17:00:06Z,{'name': 'HTML'}
@@ -596,19 +862,32 @@ MDEwOlJlcG9zaXRvcnk2NzMxNDMy,koalaman/shellcheck,https://github.com/koalaman/she
 R_kgDOJUCpQQ,suno-ai/bark,https://github.com/suno-ai/bark,39038,2023-04-07T19:34:48Z,2024-08-19T07:45:36Z,{'name': 'Jupyter Notebook'}
 R_kgDOHoRNyA,imputnet/cobalt,https://github.com/imputnet/cobalt,39015,2022-07-08T18:12:55Z,2026-01-24T21:06:59Z,{'name': 'Svelte'}
 R_kgDOJibVLQ,QuivrHQ/quivr,https://github.com/QuivrHQ/quivr,38973,2023-05-12T23:53:30Z,2025-07-09T12:55:23Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOGQOHdA,DataTalksClub/data-engineering-zoomcamp,https://github.com/DataTalksClub/data-engineering-zoomcamp,38901,2021-10-21T09:32:50Z,2026-03-05T20:40:10Z,{'name': 'Jupyter Notebook'}
+=======
+R_kgDOGQOHdA,DataTalksClub/data-engineering-zoomcamp,https://github.com/DataTalksClub/data-engineering-zoomcamp,38900,2021-10-21T09:32:50Z,2026-03-05T20:40:10Z,{'name': 'Jupyter Notebook'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyMzQwNTc1OA==,google/leveldb,https://github.com/google/leveldb,38876,2014-08-27T21:17:52Z,2025-01-30T17:33:01Z,{'name': 'C++'}
 R_kgDOMBVqQg,2noise/ChatTTS,https://github.com/2noise/ChatTTS,38874,2024-05-27T18:26:49Z,2026-01-18T05:30:01Z,{'name': 'Python'}
 R_kgDOJF_VYg,chatboxai/chatbox,https://github.com/chatboxai/chatbox,38803,2023-03-06T12:22:15Z,2026-02-13T15:51:08Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk3MjM0MzY1Nw==,mifi/lossless-cut,https://github.com/mifi/lossless-cut,38795,2016-10-30T10:49:56Z,2026-03-01T16:04:32Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNzQ0OTU0MjU=,remotion-dev/remotion,https://github.com/remotion-dev/remotion,38751,2020-06-23T19:49:10Z,2026-03-06T20:01:19Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkyNzQ0OTU0MjU=,remotion-dev/remotion,https://github.com/remotion-dev/remotion,38750,2020-06-23T19:49:10Z,2026-03-06T20:01:19Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk0MDAyMTU5NjQ=,novuhq/novu,https://github.com/novuhq/novu,38649,2021-08-26T15:22:44Z,2026-03-06T20:03:35Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxNDMzMjgzMTU=,mindsdb/mindsdb,https://github.com/mindsdb/mindsdb,38645,2018-08-02T17:56:45Z,2026-03-06T16:26:51Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxODYwMjQyOTg=,nushell/nushell,https://github.com/nushell/nushell,38639,2019-05-10T16:59:42Z,2026-03-06T15:48:04Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxMzg0MDI0MQ==,freeCodeCamp/devdocs,https://github.com/freeCodeCamp/devdocs,38583,2013-10-24T18:16:07Z,2026-03-06T01:53:08Z,{'name': 'Ruby'}
 MDEwOlJlcG9zaXRvcnkzMDY1NDU0,impress/impress.js,https://github.com/impress/impress.js,38517,2011-12-28T22:23:19Z,2026-01-24T15:42:36Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 R_kgDOP1JGWw,tw93/Mole,https://github.com/tw93/Mole,38489,2025-09-23T06:38:40Z,2026-03-06T12:35:20Z,{'name': 'Shell'}
 R_kgDOHSAURg,agno-agi/agno,https://github.com/agno-agi/agno,38486,2022-05-04T15:23:02Z,2026-03-06T15:08:30Z,{'name': 'Python'}
+=======
+R_kgDOHSAURg,agno-agi/agno,https://github.com/agno-agi/agno,38486,2022-05-04T15:23:02Z,2026-03-06T15:08:30Z,{'name': 'Python'}
+R_kgDOP1JGWw,tw93/Mole,https://github.com/tw93/Mole,38486,2025-09-23T06:38:40Z,2026-03-06T12:35:20Z,{'name': 'Shell'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk0MjI4MzI4Nw==,preactjs/preact,https://github.com/preactjs/preact,38453,2015-09-11T02:40:18Z,2026-03-04T16:16:59Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyODc0NjM4MzA=,microsoft/qlib,https://github.com/microsoft/qlib,38333,2020-08-14T06:46:00Z,2026-02-12T13:07:19Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkzOTg0MDkzMg==,google/googletest,https://github.com/google/googletest,38304,2015-07-28T15:07:53Z,2026-03-05T18:11:37Z,{'name': 'C++'}
@@ -617,13 +896,22 @@ MDEwOlJlcG9zaXRvcnkxMTg4NjEyNzY=,gto76/python-cheatsheet,https://github.com/gto7
 MDEwOlJlcG9zaXRvcnkxOTE0ODk0OQ==,PhilJay/MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,38227,2014-04-25T14:29:47Z,2025-06-05T07:06:39Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnkxMjA0MjU3Nzk=,lapce/lapce,https://github.com/lapce/lapce,38111,2018-02-06T08:41:06Z,2026-03-05T00:51:23Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnk3NDE3NTgwNQ==,istio/istio,https://github.com/istio/istio,38082,2016-11-18T23:57:21Z,2026-03-06T20:34:01Z,{'name': 'Go'}
+<<<<<<< HEAD
 R_kgDOKALCgQ,BerriAI/litellm,https://github.com/BerriAI/litellm,38070,2023-07-27T00:09:52Z,2026-03-06T20:49:21Z,{'name': 'Python'}
+=======
+R_kgDOKALCgQ,BerriAI/litellm,https://github.com/BerriAI/litellm,38070,2023-07-27T00:09:52Z,2026-03-06T20:34:45Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMjYxNzg2ODM=,halo-dev/halo,https://github.com/halo-dev/halo,38041,2018-03-21T12:56:52Z,2026-03-06T03:41:29Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnk1Njg5OTI4NA==,Kong/insomnia,https://github.com/Kong/insomnia,38009,2016-04-23T03:54:26Z,2026-03-06T10:01:40Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMDEzOTQzMzU=,ant-design/ant-design-pro,https://github.com/ant-design/ant-design-pro,37985,2017-08-25T10:40:44Z,2026-03-05T06:16:16Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzNzk1ODM1OA==,naptha/tesseract.js,https://github.com/naptha/tesseract.js,37899,2015-06-24T02:49:52Z,2026-02-28T02:55:17Z,{'name': 'JavaScript'}
+<<<<<<< HEAD
 R_kgDOQfttOw,nextlevelbuilder/ui-ux-pro-max-skill,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,37845,2025-11-30T11:36:31Z,2026-03-02T04:14:35Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxNzYyMDM0Nw==,dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,37769,2014-03-11T06:09:42Z,2026-03-06T20:54:07Z,{'name': 'C#'}
+=======
+R_kgDOQfttOw,nextlevelbuilder/ui-ux-pro-max-skill,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,37843,2025-11-30T11:36:31Z,2026-03-02T04:14:35Z,{'name': 'Python'}
+MDEwOlJlcG9zaXRvcnkxNzYyMDM0Nw==,dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,37769,2014-03-11T06:09:42Z,2026-03-06T20:12:30Z,{'name': 'C#'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk5NzI0OTQwNg==,denysdovhan/wtfjs,https://github.com/denysdovhan/wtfjs,37737,2017-07-14T15:42:12Z,2025-03-18T13:55:28Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyMjkzMTU4,rapid7/metasploit-framework,https://github.com/rapid7/metasploit-framework,37659,2011-08-30T06:13:20Z,2026-03-05T17:33:28Z,{'name': 'Ruby'}
 MDEwOlJlcG9zaXRvcnkzNTQ0NDI0,httpie/cli,https://github.com/httpie/cli,37646,2012-02-25T12:39:13Z,2024-12-17T17:30:35Z,{'name': 'Python'}
@@ -645,11 +933,19 @@ MDEwOlJlcG9zaXRvcnk5NzU0OTgz,eugenp/tutorials,https://github.com/eugenp/tutorial
 MDEwOlJlcG9zaXRvcnkxMjg2MjQ0NTM=,NervJS/taro,https://github.com/NervJS/taro,37333,2018-04-08T09:32:26Z,2026-03-06T12:48:43Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzMTUyMjA0MQ==,vnpy/vnpy,https://github.com/vnpy/vnpy,37309,2015-03-02T03:36:58Z,2026-01-14T23:58:50Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkzNzM4Mjg1OA==,kilimchoi/engineering-blogs,https://github.com/kilimchoi/engineering-blogs,37283,2015-06-13T18:25:17Z,2024-08-21T13:01:11Z,{'name': 'Ruby'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnk3NTgyMTQzMg==,llvm/llvm-project,https://github.com/llvm/llvm-project,37248,2016-12-07T09:39:33Z,2026-03-06T20:52:24Z,{'name': 'LLVM'}
 R_kgDOGHuIZQ,spacedriveapp/spacedrive,https://github.com/spacedriveapp/spacedrive,37246,2021-09-27T05:09:04Z,2026-02-07T10:59:38Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnk3NTgzMDk2OA==,exacity/deeplearningbook-chinese,https://github.com/exacity/deeplearningbook-chinese,37204,2016-12-07T11:46:51Z,2019-12-03T04:25:44Z,{'name': 'TeX'}
 MDEwOlJlcG9zaXRvcnkxOTExMTM3Mzk=,0voice/interview_internal_reference,https://github.com/0voice/interview_internal_reference,37197,2019-06-10T06:54:19Z,2025-10-22T09:39:06Z,{'name': 'Python'}
 R_kgDOG1Zs1w,paperless-ngx/paperless-ngx,https://github.com/paperless-ngx/paperless-ngx,37177,2022-02-12T21:56:52Z,2026-03-06T20:50:46Z,{'name': 'Python'}
+=======
+MDEwOlJlcG9zaXRvcnk3NTgyMTQzMg==,llvm/llvm-project,https://github.com/llvm/llvm-project,37248,2016-12-07T09:39:33Z,2026-03-06T20:45:49Z,{'name': 'LLVM'}
+R_kgDOGHuIZQ,spacedriveapp/spacedrive,https://github.com/spacedriveapp/spacedrive,37246,2021-09-27T05:09:04Z,2026-02-07T10:59:38Z,{'name': 'Rust'}
+MDEwOlJlcG9zaXRvcnk3NTgzMDk2OA==,exacity/deeplearningbook-chinese,https://github.com/exacity/deeplearningbook-chinese,37204,2016-12-07T11:46:51Z,2019-12-03T04:25:44Z,{'name': 'TeX'}
+MDEwOlJlcG9zaXRvcnkxOTExMTM3Mzk=,0voice/interview_internal_reference,https://github.com/0voice/interview_internal_reference,37197,2019-06-10T06:54:19Z,2025-10-22T09:39:06Z,{'name': 'Python'}
+R_kgDOG1Zs1w,paperless-ngx/paperless-ngx,https://github.com/paperless-ngx/paperless-ngx,37177,2022-02-12T21:56:52Z,2026-03-06T20:38:25Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNTA0NTc1MQ==,docker/compose,https://github.com/docker/compose,37136,2013-12-09T11:40:58Z,2026-03-06T13:08:46Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxNDY2MzM1ODk=,alibaba/arthas,https://github.com/alibaba/arthas,37127,2018-08-29T17:15:57Z,2026-03-05T10:10:23Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnk1NzIyMjMwMg==,openai/gym,https://github.com/openai/gym,37078,2016-04-27T14:59:16Z,2024-10-11T20:07:05Z,{'name': 'Python'}
@@ -747,7 +1043,11 @@ MDEwOlJlcG9zaXRvcnk3MTIyNTk0,directus/directus,https://github.com/directus/direc
 R_kgDOKkt57w,ashishps1/awesome-system-design-resources,https://github.com/ashishps1/awesome-system-design-resources,34390,2023-10-25T01:50:42Z,2026-02-16T18:32:29Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnk5NDM2NzY3Nw==,jaredpalmer/formik,https://github.com/jaredpalmer/formik,34385,2017-06-14T19:50:59Z,2025-11-10T17:02:06Z,{'name': 'TypeScript'}
 R_kgDOPJPepw,google/langextract,https://github.com/google/langextract,34376,2025-07-08T20:46:06Z,2026-02-25T16:32:42Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOHA7HmA,hyprwm/Hyprland,https://github.com/hyprwm/Hyprland,34363,2022-03-16T19:49:13Z,2026-03-06T20:47:48Z,{'name': 'C++'}
+=======
+R_kgDOHA7HmA,hyprwm/Hyprland,https://github.com/hyprwm/Hyprland,34362,2022-03-16T19:49:13Z,2026-03-06T20:47:48Z,{'name': 'C++'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk0NTUxMjk4OQ==,xitu/gold-miner,https://github.com/xitu/gold-miner,34345,2015-11-04T03:29:13Z,2024-04-17T09:44:37Z,
 MDEwOlJlcG9zaXRvcnkyMTE2NjY=,nodejs/node-v0.x-archive,https://github.com/nodejs/node-v0.x-archive,34341,2009-05-27T16:29:46Z,2024-08-15T20:32:32Z,
 MDEwOlJlcG9zaXRvcnk2MjAxMDky,mpv-player/mpv,https://github.com/mpv-player/mpv,34331,2012-10-13T08:08:44Z,2026-03-06T15:17:58Z,{'name': 'C'}
@@ -788,7 +1088,11 @@ R_kgDOI4SeyQ,lllyasviel/ControlNet,https://github.com/lllyasviel/ControlNet,3369
 MDEwOlJlcG9zaXRvcnkxODI4Nzk1,AFNetworking/AFNetworking,https://github.com/AFNetworking/AFNetworking,33689,2011-05-31T21:28:44Z,2023-01-17T19:30:05Z,{'name': 'Objective-C'}
 MDEwOlJlcG9zaXRvcnk0MjMzMjg2Mw==,filebrowser/filebrowser,https://github.com/filebrowser/filebrowser,33675,2015-09-11T21:21:58Z,2026-03-06T20:11:29Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxNzU4NTYzMjY=,ZuodaoTech/everyone-can-use-english,https://github.com/ZuodaoTech/everyone-can-use-english,33666,2019-03-15T16:33:53Z,2026-02-03T07:27:26Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNTk0NjM2ODU=,carbon-language/carbon-lang,https://github.com/carbon-language/carbon-lang,33635,2020-04-27T21:45:16Z,2026-03-06T20:49:02Z,{'name': 'C++'}
+=======
+MDEwOlJlcG9zaXRvcnkyNTk0NjM2ODU=,carbon-language/carbon-lang,https://github.com/carbon-language/carbon-lang,33635,2020-04-27T21:45:16Z,2026-03-06T19:48:37Z,{'name': 'C++'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk0MDg2NjE2,shadowsocks/shadowsocks,https://github.com/shadowsocks/shadowsocks,33628,2012-04-20T13:10:49Z,2024-04-01T09:07:32Z,{'name': 'Python'}
 R_kgDOJ5JQIQ,sxyazi/yazi,https://github.com/sxyazi/yazi,33533,2023-07-08T11:45:55Z,2026-03-06T15:25:47Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkyOTI5MDQ3Mw==,XX-net/XX-Net,https://github.com/XX-net/XX-Net,33449,2015-01-15T09:35:51Z,2026-02-20T23:47:46Z,{'name': 'Python'}
@@ -802,7 +1106,11 @@ MDEwOlJlcG9zaXRvcnk0NTA1NTY5Mw==,balena-io/etcher,https://github.com/balena-io/e
 MDEwOlJlcG9zaXRvcnkzOTY1Njk1Mzg=,khoj-ai/khoj,https://github.com/khoj-ai/khoj,33205,2021-08-16T01:48:44Z,2026-03-06T06:40:21Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk1NDA1NjU0,pcottle/learnGitBranching,https://github.com/pcottle/learnGitBranching,33195,2012-08-13T22:36:09Z,2026-03-06T15:04:32Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxMTEyNTU4OQ==,keycloak/keycloak,https://github.com/keycloak/keycloak,33175,2013-07-02T13:38:51Z,2026-03-06T15:54:34Z,{'name': 'Java'}
+<<<<<<< HEAD
 R_kgDOPng1Jw,thedotmack/claude-mem,https://github.com/thedotmack/claude-mem,33174,2025-08-31T20:50:03Z,2026-03-06T02:55:20Z,{'name': 'TypeScript'}
+=======
+R_kgDOPng1Jw,thedotmack/claude-mem,https://github.com/thedotmack/claude-mem,33172,2025-08-31T20:50:03Z,2026-03-06T02:55:20Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkzNzk4NjUzMjU=,drizzle-team/drizzle-orm,https://github.com/drizzle-team/drizzle-orm,33146,2021-06-24T09:03:05Z,2026-03-06T17:47:46Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxODEwNDIwNjI=,utmapp/UTM,https://github.com/utmapp/UTM,33128,2019-04-12T16:09:24Z,2026-02-27T22:56:05Z,{'name': 'Swift'}
 MDEwOlJlcG9zaXRvcnkxMDQ0Njg5MA==,bilibili/ijkplayer,https://github.com/bilibili/ijkplayer,33127,2013-06-03T04:12:04Z,2024-08-13T00:53:33Z,{'name': 'C'}
@@ -810,7 +1118,11 @@ MDEwOlJlcG9zaXRvcnkyODM4NzQwNg==,awesome-foss/awesome-sysadmin,https://github.co
 MDEwOlJlcG9zaXRvcnkyOTM1NzM1,adobe/brackets,https://github.com/adobe/brackets,33106,2011-12-07T21:14:40Z,2022-06-12T08:19:24Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkyMTQxMzE5OA==,immutable-js/immutable-js,https://github.com/immutable-js/immutable-js,33097,2014-07-02T06:02:29Z,2026-03-06T10:48:41Z,{'name': 'TypeScript'}
 R_kgDOJIQnXA,mckaywrigley/chatbot-ui,https://github.com/mckaywrigley/chatbot-ui,33080,2023-03-11T14:53:14Z,2024-08-03T00:38:07Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxNjE5NTEyMTk=,wailsapp/wails,https://github.com/wailsapp/wails,33038,2018-12-15T23:14:06Z,2026-03-06T00:14:06Z,{'name': 'Go'}
+=======
+MDEwOlJlcG9zaXRvcnkxNjE5NTEyMTk=,wailsapp/wails,https://github.com/wailsapp/wails,33036,2018-12-15T23:14:06Z,2026-03-06T00:14:06Z,{'name': 'Go'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMTE2NzczOA==,gulpjs/gulp,https://github.com/gulpjs/gulp,33008,2013-07-04T05:26:06Z,2026-02-09T06:30:13Z,{'name': 'JavaScript'}
 R_kgDOJKSO2A,TabbyML/tabby,https://github.com/TabbyML/tabby,32990,2023-03-16T09:18:01Z,2026-03-02T20:08:28Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxODA2ODc2MjQ=,aquasecurity/trivy,https://github.com/aquasecurity/trivy,32988,2019-04-11T01:01:07Z,2026-03-06T06:42:06Z,{'name': 'Go'}
@@ -838,7 +1150,11 @@ MDEwOlJlcG9zaXRvcnkzMDI2MDMwMDE=,qier222/YesPlayMusic,https://github.com/qier222
 MDEwOlJlcG9zaXRvcnk0OTEyMjc0Mg==,binarywang/WxJava,https://github.com/binarywang/WxJava,32604,2016-01-06T08:24:05Z,2026-03-06T04:32:58Z,{'name': 'Java'}
 MDEwOlJlcG9zaXRvcnkxMDM3ODQxNDI=,MonitorControl/MonitorControl,https://github.com/MonitorControl/MonitorControl,32595,2017-09-16T21:13:40Z,2026-02-09T09:32:16Z,{'name': 'Swift'}
 R_kgDOIv2ufA,stanfordnlp/dspy,https://github.com/stanfordnlp/dspy,32586,2023-01-09T21:01:51Z,2026-03-06T18:54:07Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOMneZ9w,block/goose,https://github.com/block/goose,32543,2024-08-23T19:03:36Z,2026-03-06T20:48:54Z,{'name': 'Rust'}
+=======
+R_kgDOMneZ9w,block/goose,https://github.com/block/goose,32542,2024-08-23T19:03:36Z,2026-03-06T20:36:27Z,{'name': 'Rust'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMTk4NTM5,lutzroeder/netron,https://github.com/lutzroeder/netron,32531,2010-12-26T12:53:43Z,2026-03-06T20:47:00Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxOTIwNTg5Ng==,restic/restic,https://github.com/restic/restic,32531,2014-04-27T14:07:58Z,2026-03-01T01:43:21Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkzMDc0ODkyODQ=,remix-run/remix,https://github.com/remix-run/remix,32475,2020-10-26T19:57:28Z,2026-03-06T20:40:28Z,{'name': 'TypeScript'}
@@ -850,9 +1166,15 @@ MDEwOlJlcG9zaXRvcnkxNDcwNTY5MQ==,ziadoz/awesome-php,https://github.com/ziadoz/aw
 R_kgDOJIZL3g,cursor/cursor,https://github.com/cursor/cursor,32386,2023-03-12T00:19:42Z,2026-01-31T04:04:26Z,
 R_kgDOL0IZ0w,glanceapp/glance,https://github.com/glanceapp/glance,32382,2024-04-27T18:55:38Z,2025-12-10T09:44:11Z,{'name': 'Go'}
 MDEwOlJlcG9zaXRvcnkxMzU1MTYyNzA=,k3s-io/k3s,https://github.com/k3s-io/k3s,32363,2018-05-31T01:37:46Z,2026-03-06T20:38:19Z,{'name': 'Go'}
+<<<<<<< HEAD
 R_kgDOQ2MNCA,koala73/worldmonitor,https://github.com/koala73/worldmonitor,32349,2026-01-08T17:26:06Z,2026-03-06T19:57:12Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkyMTgxMTUzMDM=,vercel/swr,https://github.com/vercel/swr,32329,2019-10-28T18:16:01Z,2026-02-27T16:41:51Z,{'name': 'TypeScript'}
 R_kgDOP3uEcg,KeygraphHQ/shannon,https://github.com/KeygraphHQ/shannon,32300,2025-09-27T01:51:47Z,2026-03-06T19:38:54Z,{'name': 'TypeScript'}
+=======
+R_kgDOQ2MNCA,koala73/worldmonitor,https://github.com/koala73/worldmonitor,32347,2026-01-08T17:26:06Z,2026-03-06T19:57:12Z,{'name': 'TypeScript'}
+MDEwOlJlcG9zaXRvcnkyMTgxMTUzMDM=,vercel/swr,https://github.com/vercel/swr,32329,2019-10-28T18:16:01Z,2026-02-27T16:41:51Z,{'name': 'TypeScript'}
+R_kgDOP3uEcg,KeygraphHQ/shannon,https://github.com/KeygraphHQ/shannon,32297,2025-09-27T01:51:47Z,2026-03-06T19:38:54Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkyMzQ3Mzk5NzY=,medusajs/medusa,https://github.com/medusajs/medusa,32246,2020-01-18T13:39:04Z,2026-03-06T00:02:23Z,{'name': 'TypeScript'}
 R_kgDOK1hlBw,lizongying/my-tv,https://github.com/lizongying/my-tv,32246,2023-12-04T12:18:39Z,2024-06-20T06:21:11Z,{'name': 'C'}
 R_kgDOKnH2Ag,datalab-to/marker,https://github.com/datalab-to/marker,32217,2023-10-30T20:14:08Z,2026-03-04T20:12:05Z,{'name': 'Python'}
@@ -868,13 +1190,21 @@ MDEwOlJlcG9zaXRvcnkyMjExMjQz,apache/kafka,https://github.com/apache/kafka,32122,
 MDEwOlJlcG9zaXRvcnkxODY0MjMz,frappe/erpnext,https://github.com/frappe/erpnext,32098,2011-06-08T08:20:56Z,2026-03-06T17:38:42Z,{'name': 'Python'}
 R_kgDOMtqknw,PDFMathTranslate/PDFMathTranslate,https://github.com/PDFMathTranslate/PDFMathTranslate,32073,2024-09-06T06:56:03Z,2025-11-25T11:49:48Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkzMjYxNzQ3NDE=,ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,32062,2021-01-02T12:08:37Z,2025-08-01T11:54:09Z,
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkxNjU2MzU4Nw==,cockroachdb/cockroach,https://github.com/cockroachdb/cockroach,31995,2014-02-06T00:18:47Z,2026-03-06T20:54:00Z,{'name': 'Go'}
+=======
+MDEwOlJlcG9zaXRvcnkxNjU2MzU4Nw==,cockroachdb/cockroach,https://github.com/cockroachdb/cockroach,31995,2014-02-06T00:18:47Z,2026-03-06T20:35:40Z,{'name': 'Go'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMTQ5Mzg5NDM=,NginxProxyManager/nginx-proxy-manager,https://github.com/NginxProxyManager/nginx-proxy-manager,31986,2017-12-20T23:01:16Z,2026-03-06T14:15:08Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkxMjIyNjc4Ng==,lovell/sharp,https://github.com/lovell/sharp,31984,2013-08-19T20:24:24Z,2026-03-04T08:35:42Z,{'name': 'JavaScript'}
 R_kgDOKsEXCg,linexjlin/GPTs,https://github.com/linexjlin/GPTs,31980,2023-11-11T03:24:16Z,2024-09-27T03:31:47Z,
 MDEwOlJlcG9zaXRvcnkyOTA5NDI5,nicolargo/glances,https://github.com/nicolargo/glances,31959,2011-12-04T08:49:15Z,2026-03-05T10:57:05Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxMzc3MjQ0ODA=,hasura/graphql-engine,https://github.com/hasura/graphql-engine,31914,2018-06-18T07:57:36Z,2026-03-06T12:33:36Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyMzU5MDE4MTM=,PostHog/posthog,https://github.com/PostHog/posthog,31910,2020-01-23T22:46:58Z,2026-03-06T20:52:40Z,{'name': 'Python'}
+=======
+MDEwOlJlcG9zaXRvcnkyMzU5MDE4MTM=,PostHog/posthog,https://github.com/PostHog/posthog,31910,2020-01-23T22:46:58Z,2026-03-06T20:47:21Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxMDU2NzE5Nw==,dokku/dokku,https://github.com/dokku/dokku,31893,2013-06-08T10:26:57Z,2026-03-06T13:52:54Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnk2MTM0OTcyMw==,casey/just,https://github.com/casey/just,31873,2016-06-17T06:08:08Z,2026-02-16T03:02:21Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxNTY1MzI3Ng==,Trinea/android-open-project,https://github.com/Trinea/android-open-project,31840,2014-01-05T15:20:15Z,2025-08-02T15:31:51Z,
@@ -888,7 +1218,11 @@ MDEwOlJlcG9zaXRvcnk3MTA1Njc3NQ==,kovidgoyal/kitty,https://github.com/kovidgoyal/
 MDEwOlJlcG9zaXRvcnkyNzg3NzI3MTk=,vbenjs/vue-vben-admin,https://github.com/vbenjs/vue-vben-admin,31675,2020-07-11T02:29:21Z,2026-03-06T19:27:16Z,{'name': 'Vue'}
 R_kgDOJm0kOQ,continuedev/continue,https://github.com/continuedev/continue,31675,2023-05-24T03:39:39Z,2026-03-06T18:40:25Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzMjI0Nzg0Nw==,ReactiveX/rxjs,https://github.com/ReactiveX/rxjs,31652,2015-03-15T06:17:10Z,2025-02-23T20:54:32Z,{'name': 'TypeScript'}
+<<<<<<< HEAD
 R_kgDOLr2o1g,ItzCrazyKns/Perplexica,https://github.com/ItzCrazyKns/Perplexica,31618,2024-04-09T10:51:32Z,2026-02-13T07:14:28Z,{'name': 'TypeScript'}
+=======
+R_kgDOLr2o1g,ItzCrazyKns/Perplexica,https://github.com/ItzCrazyKns/Perplexica,31617,2024-04-09T10:51:32Z,2026-02-13T07:14:28Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk2OTM0Mzk1,facebook/rocksdb,https://github.com/facebook/rocksdb,31600,2012-11-30T06:16:18Z,2026-03-06T19:40:25Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnk0NzAzOTI1NQ==,codex-team/editor.js,https://github.com/codex-team/editor.js,31592,2015-11-28T20:56:35Z,2026-03-05T21:09:08Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnk2MTQxMjAyMg==,ianstormtaylor/slate,https://github.com/ianstormtaylor/slate,31579,2016-06-18T01:52:42Z,2026-03-04T16:14:32Z,{'name': 'TypeScript'}
@@ -907,7 +1241,11 @@ R_kgDOLwTdQQ,Dokploy/dokploy,https://github.com/Dokploy/dokploy,31367,2024-04-19
 R_kgDOI789qA,MHSanaei/3x-ui,https://github.com/MHSanaei/3x-ui,31361,2023-02-09T19:16:57Z,2026-03-04T17:26:53Z,{'name': 'HTML'}
 MDEwOlJlcG9zaXRvcnkxMzEyNDgwMg==,influxdata/influxdb,https://github.com/influxdata/influxdb,31354,2013-09-26T14:31:10Z,2026-03-05T21:13:29Z,{'name': 'Rust'}
 MDEwOlJlcG9zaXRvcnkxMDI1NzgzNDU=,coolsnowwolf/lede,https://github.com/coolsnowwolf/lede,31336,2017-09-06T07:39:03Z,2026-03-05T10:25:09Z,{'name': 'C'}
+<<<<<<< HEAD
 R_kgDONDewpg,patchy631/ai-engineering-hub,https://github.com/patchy631/ai-engineering-hub,31324,2024-10-21T10:43:24Z,2026-02-26T19:58:08Z,{'name': 'Jupyter Notebook'}
+=======
+R_kgDONDewpg,patchy631/ai-engineering-hub,https://github.com/patchy631/ai-engineering-hub,31323,2024-10-21T10:43:24Z,2026-02-26T19:58:08Z,{'name': 'Jupyter Notebook'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnk1NTYyNjkzNQ==,microsoft/WSL,https://github.com/microsoft/WSL,31286,2016-04-06T17:32:56Z,2026-03-06T20:39:54Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnkyMjQ2NjM2OTY=,alpinejs/alpine,https://github.com/alpinejs/alpine,31279,2019-11-28T13:51:55Z,2026-02-28T14:07:46Z,{'name': 'HTML'}
 R_kgDOLmXsJQ,microsoft/graphrag,https://github.com/microsoft/graphrag,31272,2024-03-27T17:57:52Z,2026-03-06T20:04:18Z,{'name': 'Python'}
@@ -934,7 +1272,11 @@ MDEwOlJlcG9zaXRvcnkxNjgwMDg3OTc=,microsoft/calculator,https://github.com/microso
 MDEwOlJlcG9zaXRvcnk5NTE4OTEzOA==,alibaba/p3c,https://github.com/alibaba/p3c,30832,2017-06-23T06:15:51Z,2024-08-06T08:22:02Z,{'name': 'Kotlin'}
 MDEwOlJlcG9zaXRvcnkxMzU4NDI2Mg==,webtorrent/webtorrent,https://github.com/webtorrent/webtorrent,30818,2013-10-15T08:16:40Z,2026-03-04T17:32:20Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxMTI5MDEw,blueimp/jQuery-File-Upload,https://github.com/blueimp/jQuery-File-Upload,30808,2010-12-01T15:35:32Z,2023-05-25T09:11:07Z,{'name': 'PHP'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyMTgyNzE0Ng==,seaweedfs/seaweedfs,https://github.com/seaweedfs/seaweedfs,30780,2014-07-14T16:41:37Z,2026-03-06T20:53:23Z,{'name': 'Go'}
+=======
+MDEwOlJlcG9zaXRvcnkyMTgyNzE0Ng==,seaweedfs/seaweedfs,https://github.com/seaweedfs/seaweedfs,30780,2014-07-14T16:41:37Z,2026-03-06T20:35:10Z,{'name': 'Go'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkzMDY5Nzc2MzM=,AMAI-GmbH/AI-Expert-Roadmap,https://github.com/AMAI-GmbH/AI-Expert-Roadmap,30777,2020-10-24T21:49:40Z,2025-09-12T14:59:30Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzMjc2Mjg2ODI=,mantinedev/mantine,https://github.com/mantinedev/mantine,30749,2021-01-07T14:02:19Z,2026-03-05T17:03:41Z,{'name': 'TypeScript'}
 MDEwOlJlcG9zaXRvcnkzNjUwMDUzNzc=,aristocratos/btop,https://github.com/aristocratos/btop,30737,2021-05-06T18:40:21Z,2026-03-04T10:16:21Z,{'name': 'C++'}
@@ -947,7 +1289,11 @@ MDEwOlJlcG9zaXRvcnkzMjE2NTkwNjI=,iperov/DeepFaceLive,https://github.com/iperov/D
 R_kgDOJoiDfg,s0md3v/roop,https://github.com/s0md3v/roop,30547,2023-05-28T14:37:54Z,2024-08-19T12:57:17Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnk0MjkyMDQ3Nw==,layui/layui,https://github.com/layui/layui,30539,2015-09-22T08:12:03Z,2026-03-06T09:54:57Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzMzM0ODMxMTY=,dgtlmoon/changedetection.io,https://github.com/dgtlmoon/changedetection.io,30457,2021-01-27T16:03:30Z,2026-03-06T08:31:19Z,{'name': 'Python'}
+<<<<<<< HEAD
 R_kgDOPSVUiA,wshobson/agents,https://github.com/wshobson/agents,30415,2025-07-24T23:28:14Z,2026-02-21T12:47:56Z,{'name': 'Python'}
+=======
+R_kgDOPSVUiA,wshobson/agents,https://github.com/wshobson/agents,30414,2025-07-24T23:28:14Z,2026-02-21T12:47:56Z,{'name': 'Python'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 MDEwOlJlcG9zaXRvcnkxNDQ1OTA5Mzk=,VSCodium/vscodium,https://github.com/VSCodium/vscodium,30378,2018-08-13T14:26:58Z,2026-03-06T11:59:01Z,{'name': 'Shell'}
 MDEwOlJlcG9zaXRvcnkyMzczNjQ0OQ==,VincentGarreau/particles.js,https://github.com/VincentGarreau/particles.js,30352,2014-09-06T14:29:47Z,2024-03-28T03:21:07Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk3OTAzNTk=,sequelize/sequelize,https://github.com/sequelize/sequelize,30350,2010-07-22T07:11:11Z,2026-03-05T22:55:00Z,{'name': 'TypeScript'}
@@ -967,7 +1313,11 @@ MDEwOlJlcG9zaXRvcnkxNDk2NDQ3NQ==,AvaloniaUI/Avalonia,https://github.com/Avalonia
 MDEwOlJlcG9zaXRvcnkzMDcyMTMxNzM=,openai/openai-python,https://github.com/openai/openai-python,30167,2020-10-25T23:23:54Z,2026-03-05T23:16:58Z,{'name': 'Python'}
 R_kgDOJaAslA,songquanpeng/one-api,https://github.com/songquanpeng/one-api,30164,2023-04-22T12:39:24Z,2026-01-09T03:26:43Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkxODM2OTM3Mw==,spf13/viper,https://github.com/spf13/viper,30162,2014-04-02T14:33:33Z,2026-01-12T21:42:47Z,{'name': 'Go'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkyNTQxMjg0,cheeriojs/cheerio,https://github.com/cheeriojs/cheerio,30147,2011-10-09T04:23:20Z,2026-03-06T03:14:50Z,{'name': 'TypeScript'}
+=======
+MDEwOlJlcG9zaXRvcnkyNTQxMjg0,cheeriojs/cheerio,https://github.com/cheeriojs/cheerio,30146,2011-10-09T04:23:20Z,2026-03-06T03:14:50Z,{'name': 'TypeScript'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDOGg_XLQ,dragonflydb/dragonfly,https://github.com/dragonflydb/dragonfly,30115,2021-12-11T10:00:42Z,2026-03-06T20:31:35Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnkxOTM3NDgxMg==,telegramdesktop/tdesktop,https://github.com/telegramdesktop/tdesktop,30095,2014-05-02T12:36:31Z,2026-03-06T19:16:40Z,{'name': 'C++'}
 MDEwOlJlcG9zaXRvcnk1NDQwMDY4Nw==,grafana/k6,https://github.com/grafana/k6,30056,2016-03-21T15:30:24Z,2026-03-06T19:08:16Z,{'name': 'Go'}
@@ -996,6 +1346,10 @@ MDEwOlJlcG9zaXRvcnkyNDgzNzI0NDE=,filamentphp/filament,https://github.com/filamen
 MDEwOlJlcG9zaXRvcnk0ODYyNjMzNQ==,vuejs/vue-cli,https://github.com/vuejs/vue-cli,29637,2015-12-26T23:11:20Z,2025-08-21T10:56:30Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnkzMDc5NDg2OA==,sampotts/plyr,https://github.com/sampotts/plyr,29629,2015-02-14T11:33:07Z,2026-01-03T16:10:02Z,{'name': 'JavaScript'}
 MDEwOlJlcG9zaXRvcnk3NTg3MDM4,alibaba/canal,https://github.com/alibaba/canal,29619,2013-01-13T10:59:52Z,2026-02-12T09:43:09Z,{'name': 'Java'}
+<<<<<<< HEAD
 MDEwOlJlcG9zaXRvcnkzNzkxMjM5OA==,nginx/nginx,https://github.com/nginx/nginx,29618,2015-06-23T10:26:27Z,2026-03-04T08:08:09Z,{'name': 'C'}
+=======
+MDEwOlJlcG9zaXRvcnkzNzkxMjM5OA==,nginx/nginx,https://github.com/nginx/nginx,29616,2015-06-23T10:26:27Z,2026-03-04T08:08:09Z,{'name': 'C'}
+>>>>>>> 76c9b4045d68a04df39b61babc4658a49b94646c
 R_kgDORF9GhA,HKUDS/nanobot,https://github.com/HKUDS/nanobot,29594,2026-02-01T07:16:15Z,2026-03-06T16:19:22Z,{'name': 'Python'}
 MDEwOlJlcG9zaXRvcnkxNDA5ODEyMQ==,aosabook/500lines,https://github.com/aosabook/500lines,29594,2013-11-04T02:02:53Z,2023-08-19T11:18:34Z,{'name': 'JavaScript'}
