@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=",
+    "nameWithOwner": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "stargazerCount": 472556,
+    "createdAt": "2018-05-09T12:03:18Z",
+    "pushedAt": "2026-02-21T09:34:54Z",
+    "primaryLanguage": {
+      "name": "Markdown"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMTczNzQ2NQ==",
+    "nameWithOwner": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "stargazerCount": 442891,
+    "createdAt": "2014-07-11T13:42:37Z",
+    "pushedAt": "2026-03-04T16:56:28Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+    "nameWithOwner": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "stargazerCount": 437810,
+    "createdAt": "2014-12-24T17:49:19Z",
+    "pushedAt": "2026-03-05T22:09:57Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk1NDM0Njc5OQ==",
+    "nameWithOwner": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "stargazerCount": 404545,
+    "createdAt": "2016-03-20T23:49:42Z",
+    "pushedAt": "2026-02-19T15:14:35Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==",
+    "nameWithOwner": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "stargazerCount": 383638,
+    "createdAt": "2013-10-11T06:50:37Z",
+    "pushedAt": "2026-02-28T11:02:16Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+    "nameWithOwner": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "stargazerCount": 350252,
+    "createdAt": "2017-03-15T13:45:52Z",
+    "pushedAt": "2026-03-05T11:14:17Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2MDQ5MzEwMQ==",
+    "nameWithOwner": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "stargazerCount": 337615,
+    "createdAt": "2016-06-06T02:34:12Z",
+    "pushedAt": "2025-08-28T14:42:47Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
+    "nameWithOwner": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "stargazerCount": 337396,
+    "createdAt": "2017-02-26T16:15:28Z",
+    "pushedAt": "2025-11-03T12:06:22Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==",
+    "nameWithOwner": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "stargazerCount": 285763,
+    "createdAt": "2014-06-27T21:00:06Z",
+    "pushedAt": "2026-03-04T17:17:10Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkzNjYzMzM3MA==",
+    "nameWithOwner": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "stargazerCount": 277585,
+    "createdAt": "2015-06-01T02:33:17Z",
+    "pushedAt": "2026-02-27T19:02:23Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNzc3MzY1MzM=",
+    "nameWithOwner": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "stargazerCount": 275651,
+    "createdAt": "2019-03-26T07:31:14Z",
+    "pushedAt": "2025-08-22T06:01:29Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "R_kgDOQb6kRw",
+    "nameWithOwner": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "stargazerCount": 265504,
+    "createdAt": "2025-11-24T10:16:47Z",
+    "pushedAt": "2026-03-06T01:04:39Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk4ODAxMTkwOA==",
+    "nameWithOwner": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "stargazerCount": 260289,
+    "createdAt": "2017-04-12T05:07:46Z",
+    "pushedAt": "2024-08-15T05:33:54Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+    "nameWithOwner": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "stargazerCount": 243640,
+    "createdAt": "2013-05-24T16:15:54Z",
+    "pushedAt": "2026-03-05T15:52:24Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMzI1Mjk4",
+    "nameWithOwner": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "stargazerCount": 221054,
+    "createdAt": "2011-09-04T22:48:12Z",
+    "pushedAt": "2026-03-05T19:54:53Z",
+    "primaryLanguage": {
+      "name": "C"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2MzQ3NjMzNw==",
+    "nameWithOwner": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "stargazerCount": 218369,
+    "createdAt": "2016-07-16T09:44:01Z",
+    "pushedAt": "2026-03-02T18:33:49Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMTczMDM0Mg==",
+    "nameWithOwner": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "stargazerCount": 209956,
+    "createdAt": "2013-07-29T03:24:51Z",
+    "pushedAt": "2024-10-10T07:24:15Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMzgzOTMxMzk=",
+    "nameWithOwner": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "stargazerCount": 208823,
+    "createdAt": "2018-06-23T10:43:14Z",
+    "pushedAt": "2024-11-19T14:00:38Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxOTQxNTA2NA==",
+    "nameWithOwner": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "stargazerCount": 202147,
+    "createdAt": "2014-05-04T00:18:39Z",
+    "pushedAt": "2026-03-04T01:29:26Z",
+    "primaryLanguage": {
+      "name": "HTML"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMjY1NzcyNjA=",
+    "nameWithOwner": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "stargazerCount": 195733,
+    "createdAt": "2018-03-24T07:47:04Z",
+    "pushedAt": "2026-02-18T09:20:06Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==",
+    "nameWithOwner": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "stargazerCount": 194007,
+    "createdAt": "2015-11-07T01:19:20Z",
+    "pushedAt": "2026-03-06T01:06:10Z",
+    "primaryLanguage": {
+      "name": "C++"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyOTExMzc=",
+    "nameWithOwner": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "stargazerCount": 185130,
+    "createdAt": "2009-08-28T18:15:37Z",
+    "pushedAt": "2026-03-04T08:28:48Z",
+    "primaryLanguage": {
+      "name": "Shell"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNDQ0MDI3MA==",
+    "nameWithOwner": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "stargazerCount": 184462,
+    "createdAt": "2013-11-16T02:37:24Z",
+    "pushedAt": "2026-02-15T04:36:44Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMjEzOTU1MTA=",
+    "nameWithOwner": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "stargazerCount": 183818,
+    "createdAt": "2018-02-13T14:56:24Z",
+    "pushedAt": "2024-08-21T09:40:10Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+    "nameWithOwner": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "stargazerCount": 182325,
+    "createdAt": "2015-09-03T20:23:38Z",
+    "pushedAt": "2026-03-06T01:06:55Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "R_kgDOJKSTjA",
+    "nameWithOwner": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "stargazerCount": 182202,
+    "createdAt": "2023-03-16T09:21:07Z",
+    "pushedAt": "2026-03-06T00:42:09Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMjM0NTg1NTE=",
+    "nameWithOwner": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "stargazerCount": 179312,
+    "createdAt": "2018-03-01T16:05:52Z",
+    "pushedAt": "2026-02-25T03:39:28Z",
+    "primaryLanguage": {
+      "name": "Jupyter Notebook"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+    "nameWithOwner": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "stargazerCount": 177762,
+    "createdAt": "2019-06-22T09:24:21Z",
+    "pushedAt": "2026-03-06T00:47:11Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==",
+    "nameWithOwner": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "stargazerCount": 175437,
+    "createdAt": "2015-03-06T22:54:58Z",
+    "pushedAt": "2026-03-06T00:52:03Z",
+    "primaryLanguage": {
+      "name": "Dart"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMTI2MjQ0",
+    "nameWithOwner": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "stargazerCount": 174025,
+    "createdAt": "2011-07-29T21:19:00Z",
+    "pushedAt": "2026-03-05T23:12:45Z",
+    "primaryLanguage": {
+      "name": "MDX"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMDYyODk3",
+    "nameWithOwner": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "stargazerCount": 172835,
+    "createdAt": "2010-11-08T20:17:14Z",
+    "pushedAt": "2026-02-12T17:50:51Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMzM0NzIxOTk=",
+    "nameWithOwner": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "stargazerCount": 167804,
+    "createdAt": "2020-01-12T23:03:34Z",
+    "pushedAt": "2026-02-22T00:26:42Z",
+    "primaryLanguage": {
+      "name": "Batchfile"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMTU0MDc1OQ==",
+    "nameWithOwner": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "stargazerCount": 166648,
+    "createdAt": "2014-07-06T13:42:15Z",
+    "pushedAt": "2026-03-06T01:02:41Z",
+    "primaryLanguage": {
+      "name": "Go"
+    }
+  },
+  {
+    "id": "R_kgDOJ0Z1Pg",
+    "nameWithOwner": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "stargazerCount": 164202,
+    "createdAt": "2023-06-26T19:39:32Z",
+    "pushedAt": "2026-03-06T00:58:54Z",
+    "primaryLanguage": {
+      "name": "Go"
+    }
+  },
+  {
+    "id": "R_kgDOH3JoLw",
+    "nameWithOwner": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "stargazerCount": 161508,
+    "createdAt": "2022-08-22T14:05:26Z",
+    "pushedAt": "2026-03-02T07:00:53Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkzNTk1NTY2Ng==",
+    "nameWithOwner": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "stargazerCount": 160080,
+    "createdAt": "2015-05-20T15:11:03Z",
+    "pushedAt": "2024-06-25T18:13:44Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=",
+    "nameWithOwner": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "stargazerCount": 157451,
+    "createdAt": "2018-10-29T13:56:00Z",
+    "pushedAt": "2026-03-05T23:35:36Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=",
+    "nameWithOwner": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "stargazerCount": 154054,
+    "createdAt": "2018-05-07T13:27:00Z",
+    "pushedAt": "2026-03-04T12:27:07Z",
+    "primaryLanguage": {
+      "name": "Java"
+    }
+  },
+  {
+    "id": "R_kgDOMCtNDQ",
+    "nameWithOwner": "DigitalPlatDev/FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "stargazerCount": 150835,
+    "createdAt": "2024-05-30T13:23:00Z",
+    "pushedAt": "2026-03-02T19:54:24Z",
+    "primaryLanguage": {
+      "name": "HTML"
+    }
+  },
+  {
+    "id": "R_kgDOIj6G7A",
+    "nameWithOwner": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "stargazerCount": 150200,
+    "createdAt": "2022-12-05T13:54:13Z",
+    "pushedAt": "2026-03-05T03:50:14Z",
+    "primaryLanguage": {
+      "name": "HTML"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkzMDcyNjAyMDU=",
+    "nameWithOwner": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "stargazerCount": 149773,
+    "createdAt": "2020-10-26T04:22:55Z",
+    "pushedAt": "2026-03-03T16:54:37Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2NDk4NDky",
+    "nameWithOwner": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "stargazerCount": 148095,
+    "createdAt": "2012-11-01T23:13:50Z",
+    "pushedAt": "2026-02-24T14:05:16Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "R_kgDOI7jmAw",
+    "nameWithOwner": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "stargazerCount": 145284,
+    "createdAt": "2023-02-08T22:28:03Z",
+    "pushedAt": "2026-03-06T00:42:43Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk1ODAyODAzOA==",
+    "nameWithOwner": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "stargazerCount": 144899,
+    "createdAt": "2016-05-04T06:24:11Z",
+    "pushedAt": "2026-02-28T00:44:03Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMDM5NTIw",
+    "nameWithOwner": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "stargazerCount": 139800,
+    "createdAt": "2010-10-31T14:35:07Z",
+    "pushedAt": "2026-02-19T16:45:25Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==",
+    "nameWithOwner": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "stargazerCount": 138167,
+    "createdAt": "2016-10-05T23:32:51Z",
+    "pushedAt": "2026-03-06T00:53:22Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2MjYwNzIyNw==",
+    "nameWithOwner": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "stargazerCount": 138003,
+    "createdAt": "2016-07-05T05:00:48Z",
+    "pushedAt": "2026-01-26T00:36:45Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMTE1ODM1OTM=",
+    "nameWithOwner": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "stargazerCount": 136537,
+    "createdAt": "2017-11-21T18:00:27Z",
+    "pushedAt": "2026-02-25T23:25:37Z",
+    "primaryLanguage": {
+      "name": "C"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyNDE1NzYyNzA=",
+    "nameWithOwner": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "stargazerCount": 132922,
+    "createdAt": "2020-02-19T09:01:23Z",
+    "pushedAt": "2026-02-28T10:07:31Z",
+    "primaryLanguage": {
+      "name": "Markdown"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==",
+    "nameWithOwner": "golang/go",
+    "url": "https://github.com/golang/go",
+    "stargazerCount": 132899,
+    "createdAt": "2014-08-19T04:33:40Z",
+    "pushedAt": "2026-03-06T01:05:37Z",
+    "primaryLanguage": {
+      "name": "Go"
+    }
+  },
+  {
+    "id": "R_kgDOJVxJug",
+    "nameWithOwner": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "stargazerCount": 131345,
+    "createdAt": "2023-04-12T07:40:24Z",
+    "pushedAt": "2026-03-05T23:42:54Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxODQ0NTYyNTE=",
+    "nameWithOwner": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "stargazerCount": 130247,
+    "createdAt": "2019-05-01T17:44:02Z",
+    "pushedAt": "2026-03-05T20:34:53Z",
+    "primaryLanguage": {
+      "name": "C#"
+    }
+  },
+  {
+    "id": "R_kgDOODsgVw",
+    "nameWithOwner": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "stargazerCount": 128410,
+    "createdAt": "2025-03-05T16:38:29Z",
+    "pushedAt": "2026-03-05T15:28:06Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "R_kgDOIPDwlg",
+    "nameWithOwner": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "stargazerCount": 128374,
+    "createdAt": "2022-10-17T02:58:36Z",
+    "pushedAt": "2026-03-05T22:09:42Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMTI1MDcwODY=",
+    "nameWithOwner": "Chalarangelo/30-seconds-of-code",
+    "url": "https://github.com/Chalarangelo/30-seconds-of-code",
+    "stargazerCount": 126955,
+    "createdAt": "2017-11-29T17:35:03Z",
+    "pushedAt": "2026-03-04T23:12:29Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "R_kgDOKdDCcw",
+    "nameWithOwner": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "stargazerCount": 125881,
+    "createdAt": "2023-10-06T22:08:27Z",
+    "pushedAt": "2026-03-06T00:40:34Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==",
+    "nameWithOwner": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "stargazerCount": 125503,
+    "createdAt": "2015-01-09T18:10:16Z",
+    "pushedAt": "2026-03-05T23:39:37Z",
+    "primaryLanguage": {
+      "name": "C++"
+    }
+  },
+  {
+    "id": "R_kgDOIXtSqw",
+    "nameWithOwner": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "stargazerCount": 122684,
+    "createdAt": "2022-11-04T11:08:34Z",
+    "pushedAt": "2026-01-23T10:40:44Z",
+    "primaryLanguage": {
+      "name": "Java"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==",
+    "nameWithOwner": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "stargazerCount": 120946,
+    "createdAt": "2014-06-06T22:56:04Z",
+    "pushedAt": "2026-03-06T00:22:25Z",
+    "primaryLanguage": {
+      "name": "Go"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk5Mzg0MjY3",
+    "nameWithOwner": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "stargazerCount": 120318,
+    "createdAt": "2013-04-12T01:47:36Z",
+    "pushedAt": "2026-03-06T00:59:07Z",
+    "primaryLanguage": {
+      "name": "C++"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==",
+    "nameWithOwner": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "stargazerCount": 118670,
+    "createdAt": "2015-03-18T21:06:26Z",
+    "pushedAt": "2026-03-04T10:34:00Z",
+    "primaryLanguage": {
+      "name": "HTML"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMzEyODM0NTI=",
+    "nameWithOwner": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "stargazerCount": 118098,
+    "createdAt": "2020-01-02T01:04:43Z",
+    "pushedAt": "2026-03-05T20:05:20Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "R_kgDOOiiGLw",
+    "nameWithOwner": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "stargazerCount": 116633,
+    "createdAt": "2025-04-30T20:08:00Z",
+    "pushedAt": "2026-03-06T00:55:43Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNDA5ODA2OQ==",
+    "nameWithOwner": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "stargazerCount": 116406,
+    "createdAt": "2013-11-04T01:59:19Z",
+    "pushedAt": "2024-07-15T08:55:20Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==",
+    "nameWithOwner": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "stargazerCount": 116090,
+    "createdAt": "2014-11-26T19:57:11Z",
+    "pushedAt": "2026-03-05T19:32:54Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk5NDMxNDk=",
+    "nameWithOwner": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "stargazerCount": 112468,
+    "createdAt": "2010-09-27T17:22:42Z",
+    "pushedAt": "2025-12-02T17:48:19Z",
+    "primaryLanguage": {
+      "name": "Shell"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=",
+    "nameWithOwner": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "stargazerCount": 112437,
+    "createdAt": "2018-11-14T22:00:57Z",
+    "pushedAt": "2026-03-06T00:21:54Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk1NzYyMDE=",
+    "nameWithOwner": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "stargazerCount": 111195,
+    "createdAt": "2010-03-23T18:58:01Z",
+    "pushedAt": "2026-03-05T13:30:40Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+    "nameWithOwner": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "stargazerCount": 110928,
+    "createdAt": "2010-06-16T20:39:03Z",
+    "pushedAt": "2026-03-05T23:04:14Z",
+    "primaryLanguage": {
+      "name": "Rust"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyOTkzNTQyMDc=",
+    "nameWithOwner": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "stargazerCount": 108713,
+    "createdAt": "2020-09-28T15:36:08Z",
+    "pushedAt": "2026-03-05T15:10:40Z",
+    "primaryLanguage": {
+      "name": "Rust"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+    "nameWithOwner": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "stargazerCount": 108584,
+    "createdAt": "2014-08-18T22:30:27Z",
+    "pushedAt": "2026-03-05T04:28:36Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+    "nameWithOwner": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "stargazerCount": 108027,
+    "createdAt": "2014-06-17T15:28:39Z",
+    "pushedAt": "2026-03-03T03:11:28Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk1NTA3NjA2Mw==",
+    "nameWithOwner": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "stargazerCount": 107797,
+    "createdAt": "2016-03-30T15:47:10Z",
+    "pushedAt": "2025-01-18T01:48:02Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "R_kgDOIuCgEw",
+    "nameWithOwner": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "stargazerCount": 107773,
+    "createdAt": "2023-01-04T12:43:27Z",
+    "pushedAt": "2026-03-03T13:16:11Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "R_kgDOJxbR3A",
+    "nameWithOwner": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "stargazerCount": 107561,
+    "createdAt": "2023-06-19T16:28:59Z",
+    "pushedAt": "2026-03-05T08:30:37Z",
+    "primaryLanguage": {
+      "name": "Jupyter Notebook"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNTYzNDk4MQ==",
+    "nameWithOwner": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "stargazerCount": 107399,
+    "createdAt": "2014-01-04T16:05:36Z",
+    "pushedAt": "2026-03-05T21:30:34Z",
+    "primaryLanguage": {
+      "name": "C++"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMDY0NjI3NzY=",
+    "nameWithOwner": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "stargazerCount": 106592,
+    "createdAt": "2019-09-05T03:01:56Z",
+    "pushedAt": "2024-10-12T06:51:36Z",
+    "primaryLanguage": {
+      "name": "Java"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMzM0NDIzODQ=",
+    "nameWithOwner": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "stargazerCount": 106312,
+    "createdAt": "2018-05-15T01:34:26Z",
+    "pushedAt": "2026-03-05T19:03:36Z",
+    "primaryLanguage": {
+      "name": "Rust"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMDM2MzM5ODQ=",
+    "nameWithOwner": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "stargazerCount": 105147,
+    "createdAt": "2017-09-15T08:33:19Z",
+    "pushedAt": "2025-04-15T21:52:42Z",
+    "primaryLanguage": {
+      "name": "Dockerfile"
+    }
+  },
+  {
+    "id": "R_kgDOIygeJg",
+    "nameWithOwner": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "stargazerCount": 104957,
+    "createdAt": "2023-01-17T03:15:56Z",
+    "pushedAt": "2026-03-05T22:26:22Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk0ODM3ODk0Nw==",
+    "nameWithOwner": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "stargazerCount": 104905,
+    "createdAt": "2015-12-21T15:24:59Z",
+    "pushedAt": "2026-03-05T18:25:47Z",
+    "primaryLanguage": {
+      "name": "Go"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNTIwNDg2MA==",
+    "nameWithOwner": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "stargazerCount": 103827,
+    "createdAt": "2013-12-15T14:31:41Z",
+    "pushedAt": "2026-02-22T13:38:07Z",
+    "primaryLanguage": {
+      "name": "Shell"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2MzUzNzI0OQ==",
+    "nameWithOwner": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "stargazerCount": 103825,
+    "createdAt": "2016-07-17T14:55:11Z",
+    "pushedAt": "2025-02-15T01:32:11Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=",
+    "nameWithOwner": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "stargazerCount": 103672,
+    "createdAt": "2019-07-13T09:09:37Z",
+    "pushedAt": "2026-03-05T07:19:51Z",
+    "primaryLanguage": {
+      "name": "Rust"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMDAwNjA5MTI=",
+    "nameWithOwner": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "stargazerCount": 102027,
+    "createdAt": "2017-08-11T18:38:22Z",
+    "pushedAt": "2026-03-05T22:44:41Z",
+    "primaryLanguage": {
+      "name": "C++"
+    }
+  },
+  {
+    "id": "R_kgDONicYKA",
+    "nameWithOwner": "deepseek-ai/DeepSeek-V3",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "stargazerCount": 101897,
+    "createdAt": "2024-12-26T09:52:40Z",
+    "pushedAt": "2025-08-28T03:24:37Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "R_kgDOKwVKzA",
+    "nameWithOwner": "clash-verge-rev/clash-verge-rev",
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "stargazerCount": 100618,
+    "createdAt": "2023-11-21T18:24:03Z",
+    "pushedAt": "2026-03-05T19:49:58Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==",
+    "nameWithOwner": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "stargazerCount": 100071,
+    "createdAt": "2014-09-18T16:12:01Z",
+    "pushedAt": "2026-03-05T23:02:28Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "R_kgDOL0nxgA",
+    "nameWithOwner": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "stargazerCount": 99839,
+    "createdAt": "2024-04-29T05:30:25Z",
+    "pushedAt": "2026-03-02T07:16:17Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2MzUzOTA1NQ==",
+    "nameWithOwner": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "stargazerCount": 99559,
+    "createdAt": "2016-07-17T15:33:47Z",
+    "pushedAt": "2026-03-04T19:59:59Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=",
+    "nameWithOwner": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "stargazerCount": 98580,
+    "createdAt": "2019-10-12T05:56:49Z",
+    "pushedAt": "2026-03-06T01:07:13Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyNDM5NTA0MDg=",
+    "nameWithOwner": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "stargazerCount": 98536,
+    "createdAt": "2020-02-29T10:43:49Z",
+    "pushedAt": "2026-03-03T17:40:28Z",
+    "primaryLanguage": {
+      "name": "Dockerfile"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxMDEyOTY4ODE=",
+    "nameWithOwner": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "stargazerCount": 98183,
+    "createdAt": "2017-08-24T13:18:26Z",
+    "pushedAt": "2025-12-29T19:37:02Z",
+    "primaryLanguage": null
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkyMzA4MzE1Ng==",
+    "nameWithOwner": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "stargazerCount": 98005,
+    "createdAt": "2014-08-18T19:11:54Z",
+    "pushedAt": "2026-03-05T18:06:14Z",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
+    "nameWithOwner": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "stargazerCount": 97986,
+    "createdAt": "2016-08-13T05:26:41Z",
+    "pushedAt": "2026-03-06T01:03:45Z",
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxOTk1NzAwNzE=",
+    "nameWithOwner": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "stargazerCount": 97974,
+    "createdAt": "2019-07-30T03:47:24Z",
+    "pushedAt": "2026-03-05T18:44:40Z",
+    "primaryLanguage": {
+      "name": "C#"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==",
+    "nameWithOwner": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "stargazerCount": 97669,
+    "createdAt": "2015-04-24T15:37:24Z",
+    "pushedAt": "2026-03-05T21:23:46Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  },
+  {
+    "id": "MDEwOlJlcG9zaXRvcnkxNjQwODk5Mg==",
+    "nameWithOwner": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "stargazerCount": 96967,
+    "createdAt": "2014-01-31T13:39:22Z",
+    "pushedAt": "2026-03-06T00:49:09Z",
+    "primaryLanguage": {
+      "name": "Vim Script"
+    }
+  },
+  {
+    "id": "R_kgDOJH_K4A",
+    "nameWithOwner": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "stargazerCount": 96812,
+    "createdAt": "2023-03-10T18:58:00Z",
+    "pushedAt": "2026-03-05T21:01:13Z",
+    "primaryLanguage": {
+      "name": "C++"
+    }
+  },
+  {
+    "id": "R_kgDOObWEYA",
+    "nameWithOwner": "google-gemini/gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "stargazerCount": 96581,
+    "createdAt": "2025-04-17T17:04:31Z",
+    "pushedAt": "2026-03-06T01:06:09Z",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    }
+  }
+]
