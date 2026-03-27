@@ -1,0 +1,115 @@
+# Laboratório 02 - Análise de Qualidade de Repositórios Java
+
+## 📚 Descrição
+
+Este repositório contém o código e os resultados da Sprint 01 do Laboratório 02 da disciplina de Laboratório de Experimentação de Software.
+
+O objetivo desta etapa foi automatizar o processo de coleta de repositórios Java, clonagem e extração de métricas de qualidade, utilizando a ferramenta CK.
+
+---
+
+## 👥 Integrantes
+
+* Ana Luiza Santos Gomes
+* Bruna Barbosa Portilho Bernardes Campidelli
+* Walter Roberto Rodrigues Louback
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+lab_02
+ ├─ ck/
+ ├─ codigo
+ │   ├─ clonar_repositorio.py
+ │   ├─ coletar_repositorios.py
+ │   ├─ rodar_ck.py
+ ├─ dados
+ │   ├─ repos_java_top1000.csv
+ ├─ repositorio/
+ ├─ resultados/
+ │   ├─ arquivos_csv
+ │      ├─ Snailclimb_JavaGuideclass.csv
+ │      ├─ Snailclimb_JavaGuidemethod.csv
+```
+
+---
+## Metodologia (Sprint 01)
+
+### Seleção de Repositórios
+
+Foi realizada a coleta dos 1000 repositórios Java mais populares do GitHub, utilizando a API oficial da plataforma.
+
+Durante a coleta, foi implementado tratamento de limitações de requisição (rate limit), com pausas automáticas e salvamento incremental dos dados.
+
+---
+
+### Coleta de Dados
+
+Foi desenvolvido um script em Python responsável por:
+- consultar a API do GitHub
+- coletar informações dos repositórios
+- armazenar os dados em um arquivo CSV
+
+Arquivo gerado:
+- dados/repos_java_top1000.csv
+
+
+---
+
+### Clonagem de Repositório
+Foi implementado um script para realizar o clone automático de um repositório da lista coletada, como prova de conceito do processo.
+
+---
+
+### Extração de Métricas
+Foi utilizada a ferramenta CK (Java) para extrair métricas de qualidade do repositório clonado.
+
+As principais métricas analisadas incluem:
+- CBO (Coupling Between Objects)
+- DIT (Depth of Inheritance Tree)
+- LCOM (Lack of Cohesion of Methods)
+
+Os resultados foram gerados em arquivos CSV na pasta:
+- resultados/
+
+---
+
+## Sprints e Entregas
+
+### Lab02S01 (Sprint 01)
+- Coleta dos 1000 repositórios Java
+- Script de automação para coleta e clonagem
+- Extração de métricas de 1 repositório com CK
+- Geração de arquivos CSV com os resultados
+
+---
+
+## Instruções de Uso
+
+### 1. Coleta dos Repositórios
+Executar o script:
+- python coletar_repositorios.py
+
+
+---
+
+### 2. Clonagem do Repositório
+Executar o script:
+- python clonar_repositorio.py
+
+---
+
+### 3. Extração de Métricas
+Executar o script:
+- python rodar_ck.py
+
+---
+
+## Observações
+
+- O processo foi automatizado utilizando Python para integração com a API do GitHub e execução de comandos.
+- A ferramenta CK foi utilizada para análise estática de código Java.
+- O tratamento de rate limit garantiu a coleta completa dos 1000 repositórios.
+
