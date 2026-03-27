@@ -1,7 +1,30 @@
-.env
-venv/
-.venv/
+# Repositórios clonados (muito pesado)
+repositorio/
+
+# Arquivo do CK (opcional)
+ck/*.jar
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
 *.pycenv
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual (se usar)
+venv/
+.venv/
+.env/
 .env
-.env
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
