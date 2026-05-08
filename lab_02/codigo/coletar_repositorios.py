@@ -1,75 +1,168 @@
 import requests
-import pandas as pd
+import csv
 import time
 import os
+from pathlib import Path
+from dotenv import load_dotenv
+from datetime import datetime, timezone
 
-TOKEN = os.getenv("GITHUB_TOKEN")
+load_dotenv()
+
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 HEADERS = {
-    "Authorization": f"token {TOKEN}"
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
+    "Accept": "application/vnd.github+json"
 }
 
-OUTPUT_PATH = "../dados/repos_java_top1000.csv"
+BASE_URL = "https://api.github.com/search/repositories"
 
-repos = []
-page = 1
 
-# Se já existir arquivo, continua de onde parou
-if os.path.exists(OUTPUT_PATH):
-    df_existente = pd.read_csv(OUTPUT_PATH)
-    repos = df_existente.to_dict("records")
-    page = len(repos) // 100 + 1
-    print(f"Retomando da página {page}, já temos {len(repos)} repos.")
+def calculate_time_diff(from_date):
+    if not from_date:
+        return "N/A"
+    
+    created_date = datetime.fromisoformat(from_date.replace('Z', '+00:00'))
+    now = datetime.now(timezone.utc)
 
-os.makedirs("../dados", exist_ok=True)
+    diff = now - created_date    
+    years = diff.days // 365
+    months = (diff.days % 365) // 30
+    days = (diff.days % 365) % 30
+    
+    if years > 0:
+        return f"{years} anos, {months} meses"
+    elif months > 0:
+        return f"{months} meses, {days} dias"
+    else:
+        return f"{days} dias"
 
-while len(repos) < 1000:
-    url = (
-        "https://api.github.com/search/repositories"
-        f"?q=language:java&sort=stars&order=desc&page={page}&per_page=100"
-    )
 
-    print(f"\nBuscando página {page}...")
+def format_disk_size(kb_size):
+    if not kb_size:
+        return "N/A"
+    
+    if kb_size >= 1024 * 1024:
+        return f"{kb_size / (1024 * 1024):.1f} GB"
+    elif kb_size >= 1024:
+        return f"{kb_size / 1024:.1f} MB"
+    else:
+        return f"{kb_size} KB"
 
-    response = requests.get(url, headers=HEADERS)
 
-    # 🔥 TRATAMENTO DE RATE LIMIT
-    if response.status_code == 403:
-        print("⚠️ Rate limit atingido. Aguardando 60 segundos...")
-        time.sleep(60)
-        continue
+def fetch_github_repos():
+    all_repos = []
+    page = 1
+    per_page = 100  # máximo permitido
+    
+    while len(all_repos) < 1000:
+        params = {
+            "q": "language:Java maven in:description,readme",
+            "sort": "stars",
+            "order": "desc",
+            "per_page": per_page,
+            "page": page
+        }
 
-    if response.status_code != 200:
-        print("Erro:", response.status_code)
-        print(response.text)
-        break
+        try:
+            response = requests.get(BASE_URL, headers=HEADERS, params=params, timeout=30)
 
-    data = response.json()
-    items = data.get("items", [])
+            if response.status_code == 200:
+                data = response.json()
 
-    if not items:
-        print("Sem mais resultados.")
-        break
+                items = data.get("items", [])
+                if not items:
+                    break
 
-    for item in items:
-        repos.append({
-            "full_name": item["full_name"],
-            "clone_url": item["clone_url"],
-            "stars": item["stargazers_count"],
-            "html_url": item["html_url"],
-            "created_at": item["created_at"],
-            "updated_at": item["updated_at"]
-        })
+                for repo in items:
+                    all_repos.append({
+                        "name_with_owner": repo["full_name"],
+                        "url": repo["html_url"],
+                        "stargazer_count": repo["stargazers_count"],
+                        "primary_language": repo["language"],
+                        "created_at": repo["created_at"],
+                        "age": calculate_time_diff(repo["created_at"]),
+                        "last_push": repo["pushed_at"],
+                        "time_since_last_push": calculate_time_diff(repo["pushed_at"]),
+                        "disk_usage_kb": repo["size"],
+                        "size_formatted": format_disk_size(repo["size"]),
+                        "name": repo["name"],
+                        "releases_count": "N/A"  # REST não traz direto
+                    })
 
-        if len(repos) >= 1000:
-            break
+                print(f"Página {page}: {len(all_repos)} repositórios coletados")
 
-    print(f"Total coletado: {len(repos)}")
+                page += 1
+                time.sleep(2)
 
-    # salva parcial sempre (muito importante)
-    pd.DataFrame(repos).to_csv(OUTPUT_PATH, index=False, encoding="utf-8-sig")
+            elif response.status_code == 403:
+                print("Rate limit atingido. Aguardando...")
+                time.sleep(60)
 
-    page += 1
-    time.sleep(2)  # pequena pausa para evitar bloqueio
+            else:
+                print(f"Erro: {response.status_code}")
+                print(response.text)
+                break
 
-print("\n✅ Coleta finalizada!")
+        except requests.exceptions.RequestException as e:
+            print(f"Erro de conexão: {e}")
+            time.sleep(5)
+
+    return all_repos[:1000]
+
+
+def save_to_csv(repos):
+    if not repos:
+        print("Nenhum repositório para salvar.")
+        return
+    
+    script_dir = Path(__file__).parent
+    csv_dir = script_dir / 'dados'
+    
+    csv_dir.mkdir(parents=True, exist_ok=True)
+    
+    filename = csv_dir / 'repos_java_top1000.csv'
+
+    if filename.exists():
+        os.remove(filename)
+    
+    fieldnames = [
+        'name_with_owner', 
+        'url', 
+        'stargazer_count', 
+        'primary_language',
+        'created_at',
+        'age',
+        'last_push',
+        'time_since_last_push',
+        'disk_usage_kb',
+        'size_formatted',
+        'name',
+        'releases_count'
+    ]
+    
+    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        
+        for repo in repos:
+            writer.writerow(repo)
+    
+    print(f"Arquivo salvo em: {filename}")
+    print(f"Total: {len(repos)} repositórios")
+
+
+def main():
+    print("Buscando repositórios Java Maven (REST API)...")
+    
+    repos = fetch_github_repos()
+    
+    if repos:
+        save_to_csv(repos)
+        print(f"\nTotal coletado: {len(repos)}")
+    else:
+        print("Nenhum repositório encontrado.")
+
+
+if __name__ == "__main__":
+    main()
