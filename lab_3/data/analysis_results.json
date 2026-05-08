@@ -1,0 +1,240 @@
+{
+  "n_prs": 94768,
+  "n_repos": 199,
+  "n_merged": 74467,
+  "n_closed": 20301,
+  "summary": {
+    "Arq. Alterados": {
+      "median": 2.0,
+      "mean": 14.606523299003884,
+      "std": 344.7350306454518,
+      "n": 94768
+    },
+    "Adicoes": {
+      "median": 13.0,
+      "mean": 1286.9889097585683,
+      "std": 73065.61259676126,
+      "n": 94768
+    },
+    "Remocoes": {
+      "median": 2.0,
+      "mean": 390.6698463616411,
+      "std": 10872.22170192064,
+      "n": 94768
+    },
+    "Tempo Rev. (h)": {
+      "median": 45.208349999999996,
+      "mean": 799.5588745283218,
+      "std": 3591.546089487239,
+      "n": 94768
+    },
+    "Tam. Descricao": {
+      "median": 662.0,
+      "mean": 1066.567554448759,
+      "std": 1796.71753065307,
+      "n": 94768
+    },
+    "Participantes": {
+      "median": 2.0,
+      "mean": 2.712877764646294,
+      "std": 2.528658555220739,
+      "n": 94768
+    },
+    "Comentarios": {
+      "median": 1.0,
+      "mean": 2.4283302380550396,
+      "std": 4.447506992814279,
+      "n": 94768
+    },
+    "Revisoes": {
+      "median": 2.0,
+      "mean": 3.2911531318588554,
+      "std": 8.09910368938135,
+      "n": 94768
+    }
+  },
+  "rqs": {
+    "RQ01": {
+      "Arq. Alterados": {
+        "spearman_r": 0.14609927727966088,
+        "spearman_p": 0.0,
+        "pearson_r": -0.02568401936216432,
+        "pearson_p": 2.6182086603630368e-15,
+        "n": 94768.0
+      },
+      "Adicoes": {
+        "spearman_r": 0.0928329902395693,
+        "spearman_p": 2.161850790996599e-180,
+        "pearson_r": -0.022410343992430824,
+        "pearson_p": 5.2124224280147065e-12,
+        "n": 94768.0
+      },
+      "Remocoes": {
+        "spearman_r": 0.17216940646666487,
+        "spearman_p": 0.0,
+        "pearson_r": -0.028876988621790382,
+        "pearson_p": 6.0372072346510585e-19,
+        "n": 94768.0
+      }
+    },
+    "RQ02": {
+      "Tempo Rev.": {
+        "spearman_r": -0.23779056767953408,
+        "spearman_p": 0.0,
+        "pearson_r": -0.24529528680449778,
+        "pearson_p": 0.0,
+        "n": 94768.0
+      }
+    },
+    "RQ03": {
+      "Tam. Descricao": {
+        "spearman_r": -0.0735410439398674,
+        "spearman_p": 8.944641979811679e-114,
+        "pearson_r": -0.04173410628556989,
+        "pearson_p": 8.270705322297498e-38,
+        "n": 94768.0
+      }
+    },
+    "RQ04": {
+      "Participantes": {
+        "spearman_r": 0.07325559611322026,
+        "spearman_p": 6.609958862442958e-113,
+        "pearson_r": -0.0019922037904897827,
+        "pearson_p": 0.5396907296381381,
+        "n": 94768.0
+      },
+      "Comentarios": {
+        "spearman_r": -0.012237305951068544,
+        "spearman_p": 0.00016503983635267168,
+        "pearson_r": -0.01255151271738231,
+        "pearson_p": 0.00011154039260161661,
+        "n": 94768.0
+      }
+    },
+    "RQ05": {
+      "Arq. Alterados": {
+        "spearman_r": 0.21111713115374556,
+        "spearman_p": 0.0,
+        "pearson_r": 0.009304763406653637,
+        "pearson_p": 0.0041774611574941,
+        "n": 94768.0
+      },
+      "Adicoes": {
+        "spearman_r": 0.25228932146323557,
+        "spearman_p": 0.0,
+        "pearson_r": 0.011420285122775983,
+        "pearson_p": 0.00043853706408181436,
+        "n": 94768.0
+      },
+      "Remocoes": {
+        "spearman_r": 0.16243658471926023,
+        "spearman_p": 0.0,
+        "pearson_r": 0.005220444121024964,
+        "pearson_p": 0.10803840813423109,
+        "n": 94768.0
+      }
+    },
+    "RQ06": {
+      "Tempo Rev.": {
+        "spearman_r": 0.18037146542905974,
+        "spearman_p": 0.0,
+        "pearson_r": -0.00024180733937899937,
+        "pearson_p": 0.9406618842096315,
+        "n": 94768.0
+      }
+    },
+    "RQ07": {
+      "Tam. Descricao": {
+        "spearman_r": 0.15559356220192008,
+        "spearman_p": 0.0,
+        "pearson_r": 0.08143506068867354,
+        "pearson_p": 3.8014769723821205e-139,
+        "n": 94768.0
+      }
+    },
+    "RQ08": {
+      "Participantes": {
+        "spearman_r": 0.33665107032324815,
+        "spearman_p": 0.0,
+        "pearson_r": 0.14699709807122394,
+        "pearson_p": 0.0,
+        "n": 94768.0
+      },
+      "Comentarios": {
+        "spearman_r": 0.2492121225426406,
+        "spearman_p": 0.0,
+        "pearson_r": 0.3188460233118175,
+        "pearson_p": 0.0,
+        "n": 94768.0
+      }
+    }
+  },
+  "median_comp": {
+    "Arq. Alterados": {
+      "merged_median": 2.0,
+      "closed_median": 1.0
+    },
+    "Adicoes": {
+      "merged_median": 15.0,
+      "closed_median": 6.0
+    },
+    "Remocoes": {
+      "merged_median": 3.0,
+      "closed_median": 0.0
+    },
+    "Tempo Rev. (h)": {
+      "merged_median": 33.2042,
+      "closed_median": 170.1306
+    },
+    "Tam. Descricao": {
+      "merged_median": 619.0,
+      "closed_median": 839.0
+    },
+    "Participantes": {
+      "merged_median": 2.0,
+      "closed_median": 2.0
+    },
+    "Comentarios": {
+      "merged_median": 1.0,
+      "closed_median": 1.0
+    },
+    "Revisoes": {
+      "merged_median": 2.0,
+      "closed_median": 1.0
+    }
+  },
+  "mann_whitney": {
+    "Arq. Alterados": {
+      "u": 908439255.0,
+      "p": 0.0
+    },
+    "Adicoes": {
+      "u": 854164049.0,
+      "p": 1.2633764305393195e-179
+    },
+    "Remocoes": {
+      "u": 935500816.0,
+      "p": 0.0
+    },
+    "Tempo Rev. (h)": {
+      "u": 502943779.5,
+      "p": 0.0
+    },
+    "Tam. Descricao": {
+      "u": 677662091.5,
+      "p": 1.788236579620034e-113
+    },
+    "Participantes": {
+      "u": 831321293.0,
+      "p": 1.3073724894009847e-112
+    },
+    "Comentarios": {
+      "u": 743332774.5,
+      "p": 0.00016511345931117274
+    },
+    "Revisoes": {
+      "u": 837160493.0,
+      "p": 6.1410478959675524e-139
+    }
+  }
+}
