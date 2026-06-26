@@ -1,0 +1,13 @@
+complexidade,metrica,api,n,media,mediana,desvio_padrao,minimo,maximo,q1,q3
+simples,tempo,REST,100,2.665,2.56,0.478,1.917,4.265,2.276,3.0
+simples,tempo,GraphQL,100,5.149,5.032,0.906,3.573,8.448,4.601,5.564
+simples,tamanho,REST,100,167.0,167.0,0.0,167.0,167.0,167.0,167.0
+simples,tamanho,GraphQL,100,122.0,122.0,0.0,122.0,122.0,122.0,122.0
+media,tempo,REST,100,3.054,2.92,0.522,2.216,4.547,2.7,3.426
+media,tempo,GraphQL,100,6.054,5.48,5.304,4.132,57.869,5.006,5.898
+media,tamanho,REST,100,1729.0,1729.0,0.0,1729.0,1729.0,1729.0,1729.0
+media,tamanho,GraphQL,100,1341.0,1341.0,0.0,1341.0,1341.0,1341.0,1341.0
+complexa,tempo,REST,100,3.815,3.768,0.446,2.864,4.994,3.443,4.135
+complexa,tempo,GraphQL,100,8.18,7.811,2.259,6.616,26.224,7.428,8.189
+complexa,tamanho,REST,100,6290.0,6290.0,0.0,6290.0,6290.0,6290.0,6290.0
+complexa,tamanho,GraphQL,100,5386.0,5386.0,0.0,5386.0,5386.0,5386.0,5386.0

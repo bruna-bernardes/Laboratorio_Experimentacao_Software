@@ -1,0 +1,601 @@
+timestamp,query_name,label,api,complexity,repetition,response_time_ms,response_size_bytes,status_code
+2026-06-26T11:02:54.135940,simples_rest,Simples - Buscar pais por ID,REST,simples,1,3.189,167,200
+2026-06-26T11:02:54.138576,simples_rest,Simples - Buscar pais por ID,REST,simples,2,2.447,167,200
+2026-06-26T11:02:54.141227,simples_rest,Simples - Buscar pais por ID,REST,simples,3,2.561,167,200
+2026-06-26T11:02:54.143605,simples_rest,Simples - Buscar pais por ID,REST,simples,4,2.287,167,200
+2026-06-26T11:02:54.145937,simples_rest,Simples - Buscar pais por ID,REST,simples,5,2.239,167,200
+2026-06-26T11:02:54.148348,simples_rest,Simples - Buscar pais por ID,REST,simples,6,2.322,167,200
+2026-06-26T11:02:54.151389,simples_rest,Simples - Buscar pais por ID,REST,simples,7,2.938,167,200
+2026-06-26T11:02:54.153692,simples_rest,Simples - Buscar pais por ID,REST,simples,8,2.202,167,200
+2026-06-26T11:02:54.156271,simples_rest,Simples - Buscar pais por ID,REST,simples,9,2.485,167,200
+2026-06-26T11:02:54.158668,simples_rest,Simples - Buscar pais por ID,REST,simples,10,2.294,167,200
+2026-06-26T11:02:54.162025,simples_rest,Simples - Buscar pais por ID,REST,simples,11,3.252,167,200
+2026-06-26T11:02:54.165395,simples_rest,Simples - Buscar pais por ID,REST,simples,12,3.247,167,200
+2026-06-26T11:02:54.168799,simples_rest,Simples - Buscar pais por ID,REST,simples,13,3.286,167,200
+2026-06-26T11:02:54.172181,simples_rest,Simples - Buscar pais por ID,REST,simples,14,3.246,167,200
+2026-06-26T11:02:54.175156,simples_rest,Simples - Buscar pais por ID,REST,simples,15,2.865,167,200
+2026-06-26T11:02:54.177479,simples_rest,Simples - Buscar pais por ID,REST,simples,16,2.231,167,200
+2026-06-26T11:02:54.179869,simples_rest,Simples - Buscar pais por ID,REST,simples,17,2.295,167,200
+2026-06-26T11:02:54.182497,simples_rest,Simples - Buscar pais por ID,REST,simples,18,2.516,167,200
+2026-06-26T11:02:54.186523,simples_rest,Simples - Buscar pais por ID,REST,simples,19,3.33,167,200
+2026-06-26T11:02:54.189600,simples_rest,Simples - Buscar pais por ID,REST,simples,20,2.94,167,200
+2026-06-26T11:02:54.192762,simples_rest,Simples - Buscar pais por ID,REST,simples,21,3.016,167,200
+2026-06-26T11:02:54.195212,simples_rest,Simples - Buscar pais por ID,REST,simples,22,2.33,167,200
+2026-06-26T11:02:54.197894,simples_rest,Simples - Buscar pais por ID,REST,simples,23,2.583,167,200
+2026-06-26T11:02:54.201415,simples_rest,Simples - Buscar pais por ID,REST,simples,24,3.359,167,200
+2026-06-26T11:02:54.205842,simples_rest,Simples - Buscar pais por ID,REST,simples,25,4.265,167,200
+2026-06-26T11:02:54.209281,simples_rest,Simples - Buscar pais por ID,REST,simples,26,3.282,167,200
+2026-06-26T11:02:54.212252,simples_rest,Simples - Buscar pais por ID,REST,simples,27,2.857,167,200
+2026-06-26T11:02:54.215062,simples_rest,Simples - Buscar pais por ID,REST,simples,28,2.705,167,200
+2026-06-26T11:02:54.218969,simples_rest,Simples - Buscar pais por ID,REST,simples,29,3.759,167,200
+2026-06-26T11:02:54.222077,simples_rest,Simples - Buscar pais por ID,REST,simples,30,2.987,167,200
+2026-06-26T11:02:54.224749,simples_rest,Simples - Buscar pais por ID,REST,simples,31,2.559,167,200
+2026-06-26T11:02:54.227111,simples_rest,Simples - Buscar pais por ID,REST,simples,32,2.266,167,200
+2026-06-26T11:02:54.229257,simples_rest,Simples - Buscar pais por ID,REST,simples,33,2.051,167,200
+2026-06-26T11:02:54.232459,simples_rest,Simples - Buscar pais por ID,REST,simples,34,3.076,167,200
+2026-06-26T11:02:54.235950,simples_rest,Simples - Buscar pais por ID,REST,simples,35,3.365,167,200
+2026-06-26T11:02:54.238494,simples_rest,Simples - Buscar pais por ID,REST,simples,36,2.447,167,200
+2026-06-26T11:02:54.241108,simples_rest,Simples - Buscar pais por ID,REST,simples,37,2.482,167,200
+2026-06-26T11:02:54.243393,simples_rest,Simples - Buscar pais por ID,REST,simples,38,2.195,167,200
+2026-06-26T11:02:54.245483,simples_rest,Simples - Buscar pais por ID,REST,simples,39,2.005,167,200
+2026-06-26T11:02:54.247508,simples_rest,Simples - Buscar pais por ID,REST,simples,40,1.941,167,200
+2026-06-26T11:02:54.249842,simples_rest,Simples - Buscar pais por ID,REST,simples,41,2.239,167,200
+2026-06-26T11:02:54.252174,simples_rest,Simples - Buscar pais por ID,REST,simples,42,2.242,167,200
+2026-06-26T11:02:54.254261,simples_rest,Simples - Buscar pais por ID,REST,simples,43,2.002,167,200
+2026-06-26T11:02:54.256421,simples_rest,Simples - Buscar pais por ID,REST,simples,44,2.072,167,200
+2026-06-26T11:02:54.258547,simples_rest,Simples - Buscar pais por ID,REST,simples,45,2.026,167,200
+2026-06-26T11:02:54.260881,simples_rest,Simples - Buscar pais por ID,REST,simples,46,2.235,167,200
+2026-06-26T11:02:54.263913,simples_rest,Simples - Buscar pais por ID,REST,simples,47,2.907,167,200
+2026-06-26T11:02:54.267210,simples_rest,Simples - Buscar pais por ID,REST,simples,48,3.182,167,200
+2026-06-26T11:02:54.270138,simples_rest,Simples - Buscar pais por ID,REST,simples,49,2.794,167,200
+2026-06-26T11:02:54.272738,simples_rest,Simples - Buscar pais por ID,REST,simples,50,2.503,167,200
+2026-06-26T11:02:54.274968,simples_rest,Simples - Buscar pais por ID,REST,simples,51,2.14,167,200
+2026-06-26T11:02:54.277433,simples_rest,Simples - Buscar pais por ID,REST,simples,52,2.355,167,200
+2026-06-26T11:02:54.281232,simples_rest,Simples - Buscar pais por ID,REST,simples,53,3.645,167,200
+2026-06-26T11:02:54.284193,simples_rest,Simples - Buscar pais por ID,REST,simples,54,2.822,167,200
+2026-06-26T11:02:54.286952,simples_rest,Simples - Buscar pais por ID,REST,simples,55,2.657,167,200
+2026-06-26T11:02:54.289051,simples_rest,Simples - Buscar pais por ID,REST,simples,56,2.007,167,200
+2026-06-26T11:02:54.291607,simples_rest,Simples - Buscar pais por ID,REST,simples,57,2.463,167,200
+2026-06-26T11:02:54.294491,simples_rest,Simples - Buscar pais por ID,REST,simples,58,2.755,167,200
+2026-06-26T11:02:54.298265,simples_rest,Simples - Buscar pais por ID,REST,simples,59,3.639,167,200
+2026-06-26T11:02:54.301814,simples_rest,Simples - Buscar pais por ID,REST,simples,60,3.443,167,200
+2026-06-26T11:02:54.304129,simples_rest,Simples - Buscar pais por ID,REST,simples,61,2.217,167,200
+2026-06-26T11:02:54.306136,simples_rest,Simples - Buscar pais por ID,REST,simples,62,1.917,167,200
+2026-06-26T11:02:54.308443,simples_rest,Simples - Buscar pais por ID,REST,simples,63,2.211,167,200
+2026-06-26T11:02:54.311788,simples_rest,Simples - Buscar pais por ID,REST,simples,64,3.242,167,200
+2026-06-26T11:02:54.314793,simples_rest,Simples - Buscar pais por ID,REST,simples,65,2.867,167,200
+2026-06-26T11:02:54.317586,simples_rest,Simples - Buscar pais por ID,REST,simples,66,2.679,167,200
+2026-06-26T11:02:54.320474,simples_rest,Simples - Buscar pais por ID,REST,simples,67,2.763,167,200
+2026-06-26T11:02:54.323229,simples_rest,Simples - Buscar pais por ID,REST,simples,68,2.651,167,200
+2026-06-26T11:02:54.325579,simples_rest,Simples - Buscar pais por ID,REST,simples,69,2.241,167,200
+2026-06-26T11:02:54.328378,simples_rest,Simples - Buscar pais por ID,REST,simples,70,2.696,167,200
+2026-06-26T11:02:54.331282,simples_rest,Simples - Buscar pais por ID,REST,simples,71,2.799,167,200
+2026-06-26T11:02:54.333780,simples_rest,Simples - Buscar pais por ID,REST,simples,72,2.401,167,200
+2026-06-26T11:02:54.336070,simples_rest,Simples - Buscar pais por ID,REST,simples,73,2.2,167,200
+2026-06-26T11:02:54.338084,simples_rest,Simples - Buscar pais por ID,REST,simples,74,1.931,167,200
+2026-06-26T11:02:54.340445,simples_rest,Simples - Buscar pais por ID,REST,simples,75,2.269,167,200
+2026-06-26T11:02:54.342959,simples_rest,Simples - Buscar pais por ID,REST,simples,76,2.42,167,200
+2026-06-26T11:02:54.345214,simples_rest,Simples - Buscar pais por ID,REST,simples,77,2.167,167,200
+2026-06-26T11:02:54.347420,simples_rest,Simples - Buscar pais por ID,REST,simples,78,2.116,167,200
+2026-06-26T11:02:54.350562,simples_rest,Simples - Buscar pais por ID,REST,simples,79,2.994,167,200
+2026-06-26T11:02:54.353769,simples_rest,Simples - Buscar pais por ID,REST,simples,80,3.076,167,200
+2026-06-26T11:02:54.357149,simples_rest,Simples - Buscar pais por ID,REST,simples,81,3.229,167,200
+2026-06-26T11:02:54.360358,simples_rest,Simples - Buscar pais por ID,REST,simples,82,3.069,167,200
+2026-06-26T11:02:54.363247,simples_rest,Simples - Buscar pais por ID,REST,simples,83,2.772,167,200
+2026-06-26T11:02:54.365939,simples_rest,Simples - Buscar pais por ID,REST,simples,84,2.574,167,200
+2026-06-26T11:02:54.368476,simples_rest,Simples - Buscar pais por ID,REST,simples,85,2.435,167,200
+2026-06-26T11:02:54.372067,simples_rest,Simples - Buscar pais por ID,REST,simples,86,3.47,167,200
+2026-06-26T11:02:54.375419,simples_rest,Simples - Buscar pais por ID,REST,simples,87,3.234,167,200
+2026-06-26T11:02:54.378068,simples_rest,Simples - Buscar pais por ID,REST,simples,88,2.552,167,200
+2026-06-26T11:02:54.380494,simples_rest,Simples - Buscar pais por ID,REST,simples,89,2.336,167,200
+2026-06-26T11:02:54.382989,simples_rest,Simples - Buscar pais por ID,REST,simples,90,2.402,167,200
+2026-06-26T11:02:54.385377,simples_rest,Simples - Buscar pais por ID,REST,simples,91,2.278,167,200
+2026-06-26T11:02:54.388161,simples_rest,Simples - Buscar pais por ID,REST,simples,92,2.679,167,200
+2026-06-26T11:02:54.391419,simples_rest,Simples - Buscar pais por ID,REST,simples,93,3.156,167,200
+2026-06-26T11:02:54.394071,simples_rest,Simples - Buscar pais por ID,REST,simples,94,2.553,167,200
+2026-06-26T11:02:54.396575,simples_rest,Simples - Buscar pais por ID,REST,simples,95,2.399,167,200
+2026-06-26T11:02:54.399468,simples_rest,Simples - Buscar pais por ID,REST,simples,96,2.765,167,200
+2026-06-26T11:02:54.402592,simples_rest,Simples - Buscar pais por ID,REST,simples,97,2.965,167,200
+2026-06-26T11:02:54.405867,simples_rest,Simples - Buscar pais por ID,REST,simples,98,3.161,167,200
+2026-06-26T11:02:54.408411,simples_rest,Simples - Buscar pais por ID,REST,simples,99,2.444,167,200
+2026-06-26T11:02:54.410903,simples_rest,Simples - Buscar pais por ID,REST,simples,100,2.384,167,200
+2026-06-26T11:02:54.415126,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,1,4.114,122,200
+2026-06-26T11:02:54.418807,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,2,3.59,122,200
+2026-06-26T11:02:54.423221,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,3,4.313,122,200
+2026-06-26T11:02:54.427607,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,4,4.283,122,200
+2026-06-26T11:02:54.431795,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,5,4.091,122,200
+2026-06-26T11:02:54.436087,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,6,4.181,122,200
+2026-06-26T11:02:54.441071,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,7,4.869,122,200
+2026-06-26T11:02:54.446239,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,8,5.056,122,200
+2026-06-26T11:02:54.450964,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,9,4.609,122,200
+2026-06-26T11:02:54.455188,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,10,4.121,122,200
+2026-06-26T11:02:54.458856,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,11,3.573,122,200
+2026-06-26T11:02:54.463150,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,12,4.168,122,200
+2026-06-26T11:02:54.469333,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,13,5.987,122,200
+2026-06-26T11:02:54.474192,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,14,4.729,122,200
+2026-06-26T11:02:54.478583,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,15,4.246,122,200
+2026-06-26T11:02:54.483336,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,16,4.65,122,200
+2026-06-26T11:02:54.487351,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,17,3.917,122,200
+2026-06-26T11:02:54.491423,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,18,3.975,122,200
+2026-06-26T11:02:54.496782,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,19,5.164,122,200
+2026-06-26T11:02:54.501750,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,20,4.842,122,200
+2026-06-26T11:02:54.505905,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,21,4.049,122,200
+2026-06-26T11:02:54.510798,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,22,4.757,122,200
+2026-06-26T11:02:54.516755,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,23,5.81,122,200
+2026-06-26T11:02:54.521623,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,24,4.753,122,200
+2026-06-26T11:02:54.527311,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,25,5.55,122,200
+2026-06-26T11:02:54.533337,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,26,5.879,122,200
+2026-06-26T11:02:54.538578,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,27,5.085,122,200
+2026-06-26T11:02:54.544189,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,28,5.494,122,200
+2026-06-26T11:02:54.548432,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,29,4.139,122,200
+2026-06-26T11:02:54.553544,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,30,5.008,122,200
+2026-06-26T11:02:54.558661,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,31,4.989,122,200
+2026-06-26T11:02:54.565387,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,32,6.58,122,200
+2026-06-26T11:02:54.570699,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,33,5.064,122,200
+2026-06-26T11:02:54.576002,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,34,5.19,122,200
+2026-06-26T11:02:54.580242,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,35,4.137,122,200
+2026-06-26T11:02:54.584172,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,36,3.833,122,200
+2026-06-26T11:02:54.589180,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,37,4.833,122,200
+2026-06-26T11:02:54.597819,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,38,8.448,122,200
+2026-06-26T11:02:54.606312,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,39,8.328,122,200
+2026-06-26T11:02:54.612405,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,40,5.96,122,200
+2026-06-26T11:02:54.617740,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,41,5.189,122,200
+2026-06-26T11:02:54.623049,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,42,5.19,122,200
+2026-06-26T11:02:54.630259,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,43,6.946,122,200
+2026-06-26T11:02:54.635645,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,44,5.244,122,200
+2026-06-26T11:02:54.641048,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,45,5.262,122,200
+2026-06-26T11:02:54.647018,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,46,5.839,122,200
+2026-06-26T11:02:54.652567,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,47,5.404,122,200
+2026-06-26T11:02:54.657741,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,48,5.063,122,200
+2026-06-26T11:02:54.662396,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,49,4.55,122,200
+2026-06-26T11:02:54.666912,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,50,4.396,122,200
+2026-06-26T11:02:54.672004,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,51,4.954,122,200
+2026-06-26T11:02:54.678103,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,52,5.959,122,200
+2026-06-26T11:02:54.684332,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,53,6.085,122,200
+2026-06-26T11:02:54.689252,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,54,4.792,122,200
+2026-06-26T11:02:54.694101,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,55,4.711,122,200
+2026-06-26T11:02:54.698310,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,56,4.102,122,200
+2026-06-26T11:02:54.702825,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,57,4.407,122,200
+2026-06-26T11:02:54.708436,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,58,5.487,122,200
+2026-06-26T11:02:54.715383,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,59,6.825,122,200
+2026-06-26T11:02:54.720858,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,60,5.357,122,200
+2026-06-26T11:02:54.726398,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,61,5.385,122,200
+2026-06-26T11:02:54.732675,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,62,5.606,122,200
+2026-06-26T11:02:54.738774,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,63,5.927,122,200
+2026-06-26T11:02:54.743820,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,64,4.904,122,200
+2026-06-26T11:02:54.749829,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,65,5.82,122,200
+2026-06-26T11:02:54.756077,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,66,6.102,122,200
+2026-06-26T11:02:54.761155,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,67,4.929,122,200
+2026-06-26T11:02:54.767522,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,68,6.197,122,200
+2026-06-26T11:02:54.773408,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,69,5.759,122,200
+2026-06-26T11:02:54.778903,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,70,5.344,122,200
+2026-06-26T11:02:54.785766,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,71,6.695,122,200
+2026-06-26T11:02:54.790556,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,72,4.634,122,200
+2026-06-26T11:02:54.795368,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,73,4.684,122,200
+2026-06-26T11:02:54.802556,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,74,7.015,122,200
+2026-06-26T11:02:54.807638,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,75,4.968,122,200
+2026-06-26T11:02:54.812229,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,76,4.46,122,200
+2026-06-26T11:02:54.817106,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,77,4.753,122,200
+2026-06-26T11:02:54.822471,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,78,5.237,122,200
+2026-06-26T11:02:54.827290,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,79,4.701,122,200
+2026-06-26T11:02:54.833436,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,80,5.931,122,200
+2026-06-26T11:02:54.838664,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,81,5.11,122,200
+2026-06-26T11:02:54.843226,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,82,4.459,122,200
+2026-06-26T11:02:54.847971,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,83,4.638,122,200
+2026-06-26T11:02:54.853428,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,84,5.339,122,200
+2026-06-26T11:02:54.858212,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,85,4.668,122,200
+2026-06-26T11:02:54.863987,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,86,5.66,122,200
+2026-06-26T11:02:54.869314,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,87,5.185,122,200
+2026-06-26T11:02:54.874014,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,88,4.577,122,200
+2026-06-26T11:02:54.878982,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,89,4.843,122,200
+2026-06-26T11:02:54.884372,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,90,5.237,122,200
+2026-06-26T11:02:54.888481,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,91,4.003,122,200
+2026-06-26T11:02:54.893438,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,92,4.836,122,200
+2026-06-26T11:02:54.899053,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,93,5.469,122,200
+2026-06-26T11:02:54.904516,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,94,5.283,122,200
+2026-06-26T11:02:54.909296,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,95,4.638,122,200
+2026-06-26T11:02:54.915709,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,96,6.214,122,200
+2026-06-26T11:02:54.923064,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,97,7.215,122,200
+2026-06-26T11:02:54.928443,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,98,5.246,122,200
+2026-06-26T11:02:54.935068,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,99,6.512,122,200
+2026-06-26T11:02:54.939771,simples_graphql,Simples - Buscar pais por ID,GraphQL,simples,100,4.556,122,200
+2026-06-26T11:02:54.942753,media_rest,Media - Buscar paises por regiao,REST,media,1,2.87,1729,200
+2026-06-26T11:02:54.945363,media_rest,Media - Buscar paises por regiao,REST,media,2,2.508,1729,200
+2026-06-26T11:02:54.948018,media_rest,Media - Buscar paises por regiao,REST,media,3,2.546,1729,200
+2026-06-26T11:02:54.951152,media_rest,Media - Buscar paises por regiao,REST,media,4,3.036,1729,200
+2026-06-26T11:02:54.953611,media_rest,Media - Buscar paises por regiao,REST,media,5,2.372,1729,200
+2026-06-26T11:02:54.956203,media_rest,Media - Buscar paises por regiao,REST,media,6,2.5,1729,200
+2026-06-26T11:02:54.958892,media_rest,Media - Buscar paises por regiao,REST,media,7,2.574,1729,200
+2026-06-26T11:02:54.961912,media_rest,Media - Buscar paises por regiao,REST,media,8,2.915,1729,200
+2026-06-26T11:02:54.964711,media_rest,Media - Buscar paises por regiao,REST,media,9,2.7,1729,200
+2026-06-26T11:02:54.967531,media_rest,Media - Buscar paises por regiao,REST,media,10,2.723,1729,200
+2026-06-26T11:02:54.971328,media_rest,Media - Buscar paises por regiao,REST,media,11,3.693,1729,200
+2026-06-26T11:02:54.974339,media_rest,Media - Buscar paises por regiao,REST,media,12,2.906,1729,200
+2026-06-26T11:02:54.978235,media_rest,Media - Buscar paises por regiao,REST,media,13,3.775,1729,200
+2026-06-26T11:02:54.982092,media_rest,Media - Buscar paises por regiao,REST,media,14,3.723,1729,200
+2026-06-26T11:02:54.986221,media_rest,Media - Buscar paises por regiao,REST,media,15,4.022,1729,200
+2026-06-26T11:02:54.988915,media_rest,Media - Buscar paises por regiao,REST,media,16,2.594,1729,200
+2026-06-26T11:02:54.991728,media_rest,Media - Buscar paises por regiao,REST,media,17,2.72,1729,200
+2026-06-26T11:02:54.995642,media_rest,Media - Buscar paises por regiao,REST,media,18,3.769,1729,200
+2026-06-26T11:02:54.999705,media_rest,Media - Buscar paises por regiao,REST,media,19,3.898,1729,200
+2026-06-26T11:02:55.003221,media_rest,Media - Buscar paises por regiao,REST,media,20,3.394,1729,200
+2026-06-26T11:02:55.006022,media_rest,Media - Buscar paises por regiao,REST,media,21,2.694,1729,200
+2026-06-26T11:02:55.008616,media_rest,Media - Buscar paises por regiao,REST,media,22,2.482,1729,200
+2026-06-26T11:02:55.012406,media_rest,Media - Buscar paises por regiao,REST,media,23,3.671,1729,200
+2026-06-26T11:02:55.016147,media_rest,Media - Buscar paises por regiao,REST,media,24,3.624,1729,200
+2026-06-26T11:02:55.018993,media_rest,Media - Buscar paises por regiao,REST,media,25,2.74,1729,200
+2026-06-26T11:02:55.021457,media_rest,Media - Buscar paises por regiao,REST,media,26,2.371,1729,200
+2026-06-26T11:02:55.024038,media_rest,Media - Buscar paises por regiao,REST,media,27,2.48,1729,200
+2026-06-26T11:02:55.026991,media_rest,Media - Buscar paises por regiao,REST,media,28,2.855,1729,200
+2026-06-26T11:02:55.030046,media_rest,Media - Buscar paises por regiao,REST,media,29,2.898,1729,200
+2026-06-26T11:02:55.033122,media_rest,Media - Buscar paises por regiao,REST,media,30,2.962,1729,200
+2026-06-26T11:02:55.035899,media_rest,Media - Buscar paises por regiao,REST,media,31,2.677,1729,200
+2026-06-26T11:02:55.038757,media_rest,Media - Buscar paises por regiao,REST,media,32,2.747,1729,200
+2026-06-26T11:02:55.042142,media_rest,Media - Buscar paises por regiao,REST,media,33,3.277,1729,200
+2026-06-26T11:02:55.045384,media_rest,Media - Buscar paises por regiao,REST,media,34,3.132,1729,200
+2026-06-26T11:02:55.048501,media_rest,Media - Buscar paises por regiao,REST,media,35,2.987,1729,200
+2026-06-26T11:02:55.051491,media_rest,Media - Buscar paises por regiao,REST,media,36,2.889,1729,200
+2026-06-26T11:02:55.054158,media_rest,Media - Buscar paises por regiao,REST,media,37,2.564,1729,200
+2026-06-26T11:02:55.056785,media_rest,Media - Buscar paises por regiao,REST,media,38,2.533,1729,200
+2026-06-26T11:02:55.059316,media_rest,Media - Buscar paises por regiao,REST,media,39,2.403,1729,200
+2026-06-26T11:02:55.061979,media_rest,Media - Buscar paises por regiao,REST,media,40,2.571,1729,200
+2026-06-26T11:02:55.064948,media_rest,Media - Buscar paises por regiao,REST,media,41,2.841,1729,200
+2026-06-26T11:02:55.068212,media_rest,Media - Buscar paises por regiao,REST,media,42,3.15,1729,200
+2026-06-26T11:02:55.072093,media_rest,Media - Buscar paises por regiao,REST,media,43,3.729,1729,200
+2026-06-26T11:02:55.075821,media_rest,Media - Buscar paises por regiao,REST,media,44,3.603,1729,200
+2026-06-26T11:02:55.078987,media_rest,Media - Buscar paises por regiao,REST,media,45,3.047,1729,200
+2026-06-26T11:02:55.082577,media_rest,Media - Buscar paises por regiao,REST,media,46,3.413,1729,200
+2026-06-26T11:02:55.085772,media_rest,Media - Buscar paises por regiao,REST,media,47,3.07,1729,200
+2026-06-26T11:02:55.088703,media_rest,Media - Buscar paises por regiao,REST,media,48,2.803,1729,200
+2026-06-26T11:02:55.092463,media_rest,Media - Buscar paises por regiao,REST,media,49,3.612,1729,200
+2026-06-26T11:02:55.095609,media_rest,Media - Buscar paises por regiao,REST,media,50,3.032,1729,200
+2026-06-26T11:02:55.098414,media_rest,Media - Buscar paises por regiao,REST,media,51,2.7,1729,200
+2026-06-26T11:02:55.101478,media_rest,Media - Buscar paises por regiao,REST,media,52,2.931,1729,200
+2026-06-26T11:02:55.104460,media_rest,Media - Buscar paises por regiao,REST,media,53,2.878,1729,200
+2026-06-26T11:02:55.107399,media_rest,Media - Buscar paises por regiao,REST,media,54,2.828,1729,200
+2026-06-26T11:02:55.110241,media_rest,Media - Buscar paises por regiao,REST,media,55,2.734,1729,200
+2026-06-26T11:02:55.113059,media_rest,Media - Buscar paises por regiao,REST,media,56,2.724,1729,200
+2026-06-26T11:02:55.116476,media_rest,Media - Buscar paises por regiao,REST,media,57,3.301,1729,200
+2026-06-26T11:02:55.119712,media_rest,Media - Buscar paises por regiao,REST,media,58,3.063,1729,200
+2026-06-26T11:02:55.123346,media_rest,Media - Buscar paises por regiao,REST,media,59,3.51,1729,200
+2026-06-26T11:02:55.126552,media_rest,Media - Buscar paises por regiao,REST,media,60,3.056,1729,200
+2026-06-26T11:02:55.129230,media_rest,Media - Buscar paises por regiao,REST,media,61,2.575,1729,200
+2026-06-26T11:02:55.132138,media_rest,Media - Buscar paises por regiao,REST,media,62,2.81,1729,200
+2026-06-26T11:02:55.135171,media_rest,Media - Buscar paises por regiao,REST,media,63,2.92,1729,200
+2026-06-26T11:02:55.137794,media_rest,Media - Buscar paises por regiao,REST,media,64,2.527,1729,200
+2026-06-26T11:02:55.140200,media_rest,Media - Buscar paises por regiao,REST,media,65,2.316,1729,200
+2026-06-26T11:02:55.142541,media_rest,Media - Buscar paises por regiao,REST,media,66,2.223,1729,200
+2026-06-26T11:02:55.144846,media_rest,Media - Buscar paises por regiao,REST,media,67,2.216,1729,200
+2026-06-26T11:02:55.147392,media_rest,Media - Buscar paises por regiao,REST,media,68,2.443,1729,200
+2026-06-26T11:02:55.150087,media_rest,Media - Buscar paises por regiao,REST,media,69,2.601,1729,200
+2026-06-26T11:02:55.152432,media_rest,Media - Buscar paises por regiao,REST,media,70,2.257,1729,200
+2026-06-26T11:02:55.155336,media_rest,Media - Buscar paises por regiao,REST,media,71,2.781,1729,200
+2026-06-26T11:02:55.158377,media_rest,Media - Buscar paises por regiao,REST,media,72,2.935,1729,200
+2026-06-26T11:02:55.161682,media_rest,Media - Buscar paises por regiao,REST,media,73,3.193,1729,200
+2026-06-26T11:02:55.165416,media_rest,Media - Buscar paises por regiao,REST,media,74,3.529,1729,200
+2026-06-26T11:02:55.168479,media_rest,Media - Buscar paises por regiao,REST,media,75,2.935,1729,200
+2026-06-26T11:02:55.171368,media_rest,Media - Buscar paises por regiao,REST,media,76,2.764,1729,200
+2026-06-26T11:02:55.174430,media_rest,Media - Buscar paises por regiao,REST,media,77,2.95,1729,200
+2026-06-26T11:02:55.177106,media_rest,Media - Buscar paises por regiao,REST,media,78,2.573,1729,200
+2026-06-26T11:02:55.181156,media_rest,Media - Buscar paises por regiao,REST,media,79,3.798,1729,200
+2026-06-26T11:02:55.185837,media_rest,Media - Buscar paises por regiao,REST,media,80,4.547,1729,200
+2026-06-26T11:02:55.189328,media_rest,Media - Buscar paises por regiao,REST,media,81,3.346,1729,200
+2026-06-26T11:02:55.193123,media_rest,Media - Buscar paises por regiao,REST,media,82,3.658,1729,200
+2026-06-26T11:02:55.197601,media_rest,Media - Buscar paises por regiao,REST,media,83,4.288,1729,200
+2026-06-26T11:02:55.202246,media_rest,Media - Buscar paises por regiao,REST,media,84,4.462,1729,200
+2026-06-26T11:02:55.206399,media_rest,Media - Buscar paises por regiao,REST,media,85,4.006,1729,200
+2026-06-26T11:02:55.210256,media_rest,Media - Buscar paises por regiao,REST,media,86,3.467,1729,200
+2026-06-26T11:02:55.213877,media_rest,Media - Buscar paises por regiao,REST,media,87,3.466,1729,200
+2026-06-26T11:02:55.218214,media_rest,Media - Buscar paises por regiao,REST,media,88,4.211,1729,200
+2026-06-26T11:02:55.221847,media_rest,Media - Buscar paises por regiao,REST,media,89,3.506,1729,200
+2026-06-26T11:02:55.224669,media_rest,Media - Buscar paises por regiao,REST,media,90,2.708,1729,200
+2026-06-26T11:02:55.227701,media_rest,Media - Buscar paises por regiao,REST,media,91,2.92,1729,200
+2026-06-26T11:02:55.231697,media_rest,Media - Buscar paises por regiao,REST,media,92,3.873,1729,200
+2026-06-26T11:02:55.235517,media_rest,Media - Buscar paises por regiao,REST,media,93,3.702,1729,200
+2026-06-26T11:02:55.238408,media_rest,Media - Buscar paises por regiao,REST,media,94,2.787,1729,200
+2026-06-26T11:02:55.241459,media_rest,Media - Buscar paises por regiao,REST,media,95,2.934,1729,200
+2026-06-26T11:02:55.244665,media_rest,Media - Buscar paises por regiao,REST,media,96,3.084,1729,200
+2026-06-26T11:02:55.247574,media_rest,Media - Buscar paises por regiao,REST,media,97,2.791,1729,200
+2026-06-26T11:02:55.250975,media_rest,Media - Buscar paises por regiao,REST,media,98,3.293,1729,200
+2026-06-26T11:02:55.254004,media_rest,Media - Buscar paises por regiao,REST,media,99,2.899,1729,200
+2026-06-26T11:02:55.257399,media_rest,Media - Buscar paises por regiao,REST,media,100,3.28,1729,200
+2026-06-26T11:02:55.263668,media_graphql,Media - Buscar paises por regiao,GraphQL,media,1,6.122,1341,200
+2026-06-26T11:02:55.269879,media_graphql,Media - Buscar paises por regiao,GraphQL,media,2,6.047,1341,200
+2026-06-26T11:02:55.275085,media_graphql,Media - Buscar paises por regiao,GraphQL,media,3,5.085,1341,200
+2026-06-26T11:02:55.281905,media_graphql,Media - Buscar paises por regiao,GraphQL,media,4,6.705,1341,200
+2026-06-26T11:02:55.287856,media_graphql,Media - Buscar paises por regiao,GraphQL,media,5,5.833,1341,200
+2026-06-26T11:02:55.293607,media_graphql,Media - Buscar paises por regiao,GraphQL,media,6,5.594,1341,200
+2026-06-26T11:02:55.300558,media_graphql,Media - Buscar paises por regiao,GraphQL,media,7,6.745,1341,200
+2026-06-26T11:02:55.306664,media_graphql,Media - Buscar paises por regiao,GraphQL,media,8,5.907,1341,200
+2026-06-26T11:02:55.312684,media_graphql,Media - Buscar paises por regiao,GraphQL,media,9,5.895,1341,200
+2026-06-26T11:02:55.318710,media_graphql,Media - Buscar paises por regiao,GraphQL,media,10,5.916,1341,200
+2026-06-26T11:02:55.324366,media_graphql,Media - Buscar paises por regiao,GraphQL,media,11,5.495,1341,200
+2026-06-26T11:02:55.330398,media_graphql,Media - Buscar paises por regiao,GraphQL,media,12,5.85,1341,200
+2026-06-26T11:02:55.335979,media_graphql,Media - Buscar paises por regiao,GraphQL,media,13,5.458,1341,200
+2026-06-26T11:02:55.341304,media_graphql,Media - Buscar paises por regiao,GraphQL,media,14,5.211,1341,200
+2026-06-26T11:02:55.346944,media_graphql,Media - Buscar paises por regiao,GraphQL,media,15,5.482,1341,200
+2026-06-26T11:02:55.352713,media_graphql,Media - Buscar paises por regiao,GraphQL,media,16,5.597,1341,200
+2026-06-26T11:02:55.410709,media_graphql,Media - Buscar paises por regiao,GraphQL,media,17,57.869,1341,200
+2026-06-26T11:02:55.416500,media_graphql,Media - Buscar paises por regiao,GraphQL,media,18,5.652,1341,200
+2026-06-26T11:02:55.422306,media_graphql,Media - Buscar paises por regiao,GraphQL,media,19,5.661,1341,200
+2026-06-26T11:02:55.428083,media_graphql,Media - Buscar paises por regiao,GraphQL,media,20,5.663,1341,200
+2026-06-26T11:02:55.434106,media_graphql,Media - Buscar paises por regiao,GraphQL,media,21,5.88,1341,200
+2026-06-26T11:02:55.440264,media_graphql,Media - Buscar paises por regiao,GraphQL,media,22,5.986,1341,200
+2026-06-26T11:02:55.446676,media_graphql,Media - Buscar paises por regiao,GraphQL,media,23,6.262,1341,200
+2026-06-26T11:02:55.452525,media_graphql,Media - Buscar paises por regiao,GraphQL,media,24,5.741,1341,200
+2026-06-26T11:02:55.457457,media_graphql,Media - Buscar paises por regiao,GraphQL,media,25,4.823,1341,200
+2026-06-26T11:02:55.462198,media_graphql,Media - Buscar paises por regiao,GraphQL,media,26,4.637,1341,200
+2026-06-26T11:02:55.468091,media_graphql,Media - Buscar paises por regiao,GraphQL,media,27,5.761,1341,200
+2026-06-26T11:02:55.473463,media_graphql,Media - Buscar paises por regiao,GraphQL,media,28,5.244,1341,200
+2026-06-26T11:02:55.478580,media_graphql,Media - Buscar paises por regiao,GraphQL,media,29,5.007,1341,200
+2026-06-26T11:02:55.484242,media_graphql,Media - Buscar paises por regiao,GraphQL,media,30,5.544,1341,200
+2026-06-26T11:02:55.489235,media_graphql,Media - Buscar paises por regiao,GraphQL,media,31,4.879,1341,200
+2026-06-26T11:02:55.495255,media_graphql,Media - Buscar paises por regiao,GraphQL,media,32,5.884,1341,200
+2026-06-26T11:02:55.501910,media_graphql,Media - Buscar paises por regiao,GraphQL,media,33,6.514,1341,200
+2026-06-26T11:02:55.506886,media_graphql,Media - Buscar paises por regiao,GraphQL,media,34,4.831,1341,200
+2026-06-26T11:02:55.512818,media_graphql,Media - Buscar paises por regiao,GraphQL,media,35,5.788,1341,200
+2026-06-26T11:02:55.518856,media_graphql,Media - Buscar paises por regiao,GraphQL,media,36,5.91,1341,200
+2026-06-26T11:02:55.524884,media_graphql,Media - Buscar paises por regiao,GraphQL,media,37,5.889,1341,200
+2026-06-26T11:02:55.530464,media_graphql,Media - Buscar paises por regiao,GraphQL,media,38,5.429,1341,200
+2026-06-26T11:02:55.537306,media_graphql,Media - Buscar paises por regiao,GraphQL,media,39,6.674,1341,200
+2026-06-26T11:02:55.542934,media_graphql,Media - Buscar paises por regiao,GraphQL,media,40,5.503,1341,200
+2026-06-26T11:02:55.549447,media_graphql,Media - Buscar paises por regiao,GraphQL,media,41,6.311,1341,200
+2026-06-26T11:02:55.556296,media_graphql,Media - Buscar paises por regiao,GraphQL,media,42,6.696,1341,200
+2026-06-26T11:02:55.561889,media_graphql,Media - Buscar paises por regiao,GraphQL,media,43,5.464,1341,200
+2026-06-26T11:02:55.568388,media_graphql,Media - Buscar paises por regiao,GraphQL,media,44,6.359,1341,200
+2026-06-26T11:02:55.574347,media_graphql,Media - Buscar paises por regiao,GraphQL,media,45,5.793,1341,200
+2026-06-26T11:02:55.579294,media_graphql,Media - Buscar paises por regiao,GraphQL,media,46,4.823,1341,200
+2026-06-26T11:02:55.586004,media_graphql,Media - Buscar paises por regiao,GraphQL,media,47,6.527,1341,200
+2026-06-26T11:02:55.596648,media_graphql,Media - Buscar paises por regiao,GraphQL,media,48,10.456,1341,200
+2026-06-26T11:02:55.604184,media_graphql,Media - Buscar paises por regiao,GraphQL,media,49,7.383,1341,200
+2026-06-26T11:02:55.609540,media_graphql,Media - Buscar paises por regiao,GraphQL,media,50,5.226,1341,200
+2026-06-26T11:02:55.617484,media_graphql,Media - Buscar paises por regiao,GraphQL,media,51,7.787,1341,200
+2026-06-26T11:02:55.622653,media_graphql,Media - Buscar paises por regiao,GraphQL,media,52,5.055,1341,200
+2026-06-26T11:02:55.627282,media_graphql,Media - Buscar paises por regiao,GraphQL,media,53,4.532,1341,200
+2026-06-26T11:02:55.632762,media_graphql,Media - Buscar paises por regiao,GraphQL,media,54,5.368,1341,200
+2026-06-26T11:02:55.637950,media_graphql,Media - Buscar paises por regiao,GraphQL,media,55,5.074,1341,200
+2026-06-26T11:02:55.642859,media_graphql,Media - Buscar paises por regiao,GraphQL,media,56,4.784,1341,200
+2026-06-26T11:02:55.648870,media_graphql,Media - Buscar paises por regiao,GraphQL,media,57,5.883,1341,200
+2026-06-26T11:02:55.654279,media_graphql,Media - Buscar paises por regiao,GraphQL,media,58,5.279,1341,200
+2026-06-26T11:02:55.658831,media_graphql,Media - Buscar paises por regiao,GraphQL,media,59,4.442,1341,200
+2026-06-26T11:02:55.664162,media_graphql,Media - Buscar paises por regiao,GraphQL,media,60,5.19,1341,200
+2026-06-26T11:02:55.669605,media_graphql,Media - Buscar paises por regiao,GraphQL,media,61,5.308,1341,200
+2026-06-26T11:02:55.674497,media_graphql,Media - Buscar paises por regiao,GraphQL,media,62,4.781,1341,200
+2026-06-26T11:02:55.679746,media_graphql,Media - Buscar paises por regiao,GraphQL,media,63,5.098,1341,200
+2026-06-26T11:02:55.685187,media_graphql,Media - Buscar paises por regiao,GraphQL,media,64,5.313,1341,200
+2026-06-26T11:02:55.691251,media_graphql,Media - Buscar paises por regiao,GraphQL,media,65,5.952,1341,200
+2026-06-26T11:02:55.696827,media_graphql,Media - Buscar paises por regiao,GraphQL,media,66,5.453,1341,200
+2026-06-26T11:02:55.701492,media_graphql,Media - Buscar paises por regiao,GraphQL,media,67,4.554,1341,200
+2026-06-26T11:02:55.706282,media_graphql,Media - Buscar paises por regiao,GraphQL,media,68,4.687,1341,200
+2026-06-26T11:02:55.711988,media_graphql,Media - Buscar paises por regiao,GraphQL,media,69,5.597,1341,200
+2026-06-26T11:02:55.717451,media_graphql,Media - Buscar paises por regiao,GraphQL,media,70,5.351,1341,200
+2026-06-26T11:02:55.722939,media_graphql,Media - Buscar paises por regiao,GraphQL,media,71,5.355,1341,200
+2026-06-26T11:02:55.728789,media_graphql,Media - Buscar paises por regiao,GraphQL,media,72,5.737,1341,200
+2026-06-26T11:02:55.734205,media_graphql,Media - Buscar paises por regiao,GraphQL,media,73,5.296,1341,200
+2026-06-26T11:02:55.740483,media_graphql,Media - Buscar paises por regiao,GraphQL,media,74,6.157,1341,200
+2026-06-26T11:02:55.745248,media_graphql,Media - Buscar paises por regiao,GraphQL,media,75,4.658,1341,200
+2026-06-26T11:02:55.749655,media_graphql,Media - Buscar paises por regiao,GraphQL,media,76,4.274,1341,200
+2026-06-26T11:02:55.754303,media_graphql,Media - Buscar paises por regiao,GraphQL,media,77,4.539,1341,200
+2026-06-26T11:02:55.759410,media_graphql,Media - Buscar paises por regiao,GraphQL,media,78,5.004,1341,200
+2026-06-26T11:02:55.764012,media_graphql,Media - Buscar paises por regiao,GraphQL,media,79,4.5,1341,200
+2026-06-26T11:02:55.768475,media_graphql,Media - Buscar paises por regiao,GraphQL,media,80,4.368,1341,200
+2026-06-26T11:02:55.773870,media_graphql,Media - Buscar paises por regiao,GraphQL,media,81,5.221,1341,200
+2026-06-26T11:02:55.779519,media_graphql,Media - Buscar paises por regiao,GraphQL,media,82,5.51,1341,200
+2026-06-26T11:02:55.785308,media_graphql,Media - Buscar paises por regiao,GraphQL,media,83,5.642,1341,200
+2026-06-26T11:02:55.791597,media_graphql,Media - Buscar paises por regiao,GraphQL,media,84,6.173,1341,200
+2026-06-26T11:02:55.796730,media_graphql,Media - Buscar paises por regiao,GraphQL,media,85,4.991,1341,200
+2026-06-26T11:02:55.803798,media_graphql,Media - Buscar paises por regiao,GraphQL,media,86,6.945,1341,200
+2026-06-26T11:02:55.808665,media_graphql,Media - Buscar paises por regiao,GraphQL,media,87,4.752,1341,200
+2026-06-26T11:02:55.813630,media_graphql,Media - Buscar paises por regiao,GraphQL,media,88,4.828,1341,200
+2026-06-26T11:02:55.819424,media_graphql,Media - Buscar paises por regiao,GraphQL,media,89,5.656,1341,200
+2026-06-26T11:02:55.824222,media_graphql,Media - Buscar paises por regiao,GraphQL,media,90,4.688,1341,200
+2026-06-26T11:02:55.828584,media_graphql,Media - Buscar paises por regiao,GraphQL,media,91,4.261,1341,200
+2026-06-26T11:02:55.835328,media_graphql,Media - Buscar paises por regiao,GraphQL,media,92,6.607,1341,200
+2026-06-26T11:02:55.840650,media_graphql,Media - Buscar paises por regiao,GraphQL,media,93,5.207,1341,200
+2026-06-26T11:02:55.844877,media_graphql,Media - Buscar paises por regiao,GraphQL,media,94,4.132,1341,200
+2026-06-26T11:02:55.850949,media_graphql,Media - Buscar paises por regiao,GraphQL,media,95,5.939,1341,200
+2026-06-26T11:02:55.856546,media_graphql,Media - Buscar paises por regiao,GraphQL,media,96,5.479,1341,200
+2026-06-26T11:02:55.861229,media_graphql,Media - Buscar paises por regiao,GraphQL,media,97,4.577,1341,200
+2026-06-26T11:02:55.865609,media_graphql,Media - Buscar paises por regiao,GraphQL,media,98,4.281,1341,200
+2026-06-26T11:02:55.870798,media_graphql,Media - Buscar paises por regiao,GraphQL,media,99,5.061,1341,200
+2026-06-26T11:02:55.875932,media_graphql,Media - Buscar paises por regiao,GraphQL,media,100,5.015,1341,200
+2026-06-26T11:02:55.880680,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,1,4.555,6290,200
+2026-06-26T11:02:55.885131,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,2,4.332,6290,200
+2026-06-26T11:02:55.888631,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,3,3.398,6290,200
+2026-06-26T11:02:55.891899,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,4,3.171,6290,200
+2026-06-26T11:02:55.896532,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,5,4.5,6290,200
+2026-06-26T11:02:55.900722,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,6,4.043,6290,200
+2026-06-26T11:02:55.904532,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,7,3.676,6290,200
+2026-06-26T11:02:55.908178,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,8,3.535,6290,200
+2026-06-26T11:02:55.912373,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,9,4.066,6290,200
+2026-06-26T11:02:55.916432,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,10,3.946,6290,200
+2026-06-26T11:02:55.920574,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,11,4.024,6290,200
+2026-06-26T11:02:55.924625,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,12,3.938,6290,200
+2026-06-26T11:02:55.928901,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,13,4.133,6290,200
+2026-06-26T11:02:55.933246,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,14,4.199,6290,200
+2026-06-26T11:02:55.937245,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,15,3.881,6290,200
+2026-06-26T11:02:55.940748,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,16,3.405,6290,200
+2026-06-26T11:02:55.943990,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,17,3.145,6290,200
+2026-06-26T11:02:55.947603,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,18,3.516,6290,200
+2026-06-26T11:02:55.951040,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,19,3.341,6290,200
+2026-06-26T11:02:55.954367,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,20,3.195,6290,200
+2026-06-26T11:02:55.957891,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,21,3.41,6290,200
+2026-06-26T11:02:55.961607,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,22,3.617,6290,200
+2026-06-26T11:02:55.966105,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,23,4.323,6290,200
+2026-06-26T11:02:55.970711,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,24,4.435,6290,200
+2026-06-26T11:02:55.975240,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,25,4.36,6290,200
+2026-06-26T11:02:55.979043,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,26,3.673,6290,200
+2026-06-26T11:02:55.983968,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,27,4.773,6290,200
+2026-06-26T11:02:55.988295,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,28,4.208,6290,200
+2026-06-26T11:02:55.992541,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,29,4.142,6290,200
+2026-06-26T11:02:55.996249,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,30,3.601,6290,200
+2026-06-26T11:02:56.001216,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,31,4.824,6290,200
+2026-06-26T11:02:56.005412,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,32,4.076,6290,200
+2026-06-26T11:02:56.008835,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,33,3.324,6290,200
+2026-06-26T11:02:56.012289,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,34,3.355,6290,200
+2026-06-26T11:02:56.016803,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,35,4.385,6290,200
+2026-06-26T11:02:56.021075,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,36,4.119,6290,200
+2026-06-26T11:02:56.024559,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,37,3.384,6290,200
+2026-06-26T11:02:56.027511,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,38,2.864,6290,200
+2026-06-26T11:02:56.031576,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,39,3.965,6290,200
+2026-06-26T11:02:56.035609,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,40,3.9,6290,200
+2026-06-26T11:02:56.039343,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,41,3.609,6290,200
+2026-06-26T11:02:56.043038,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,42,3.594,6290,200
+2026-06-26T11:02:56.045993,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,43,2.865,6290,200
+2026-06-26T11:02:56.049314,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,44,3.215,6290,200
+2026-06-26T11:02:56.053331,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,45,3.895,6290,200
+2026-06-26T11:02:56.057099,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,46,3.654,6290,200
+2026-06-26T11:02:56.061294,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,47,4.072,6290,200
+2026-06-26T11:02:56.065141,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,48,3.745,6290,200
+2026-06-26T11:02:56.069429,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,49,4.164,6290,200
+2026-06-26T11:02:56.072967,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,50,3.43,6290,200
+2026-06-26T11:02:56.076921,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,51,3.848,6290,200
+2026-06-26T11:02:56.081134,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,52,4.092,6290,200
+2026-06-26T11:02:56.085384,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,53,4.127,6290,200
+2026-06-26T11:02:56.089139,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,54,3.636,6290,200
+2026-06-26T11:02:56.092962,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,55,3.707,6290,200
+2026-06-26T11:02:56.097407,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,56,4.303,6290,200
+2026-06-26T11:02:56.101894,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,57,4.356,6290,200
+2026-06-26T11:02:56.105538,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,58,3.541,6290,200
+2026-06-26T11:02:56.109432,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,59,3.768,6290,200
+2026-06-26T11:02:56.113490,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,60,3.93,6290,200
+2026-06-26T11:02:56.117603,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,61,3.995,6290,200
+2026-06-26T11:02:56.121696,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,62,3.982,6290,200
+2026-06-26T11:02:56.125620,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,63,3.82,6290,200
+2026-06-26T11:02:56.129962,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,64,4.204,6290,200
+2026-06-26T11:02:56.133762,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,65,3.691,6290,200
+2026-06-26T11:02:56.137217,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,66,3.332,6290,200
+2026-06-26T11:02:56.140389,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,67,3.08,6290,200
+2026-06-26T11:02:56.143592,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,68,3.109,6290,200
+2026-06-26T11:02:56.146971,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,69,3.284,6290,200
+2026-06-26T11:02:56.150809,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,70,3.735,6290,200
+2026-06-26T11:02:56.155398,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,71,4.467,6290,200
+2026-06-26T11:02:56.159705,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,72,4.12,6290,200
+2026-06-26T11:02:56.163877,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,73,4.036,6290,200
+2026-06-26T11:02:56.167473,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,74,3.492,6290,200
+2026-06-26T11:02:56.172164,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,75,4.566,6290,200
+2026-06-26T11:02:56.176381,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,76,4.073,6290,200
+2026-06-26T11:02:56.180018,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,77,3.526,6290,200
+2026-06-26T11:02:56.183337,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,78,3.215,6290,200
+2026-06-26T11:02:56.186920,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,79,3.461,6290,200
+2026-06-26T11:02:56.191244,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,80,4.153,6290,200
+2026-06-26T11:02:56.194951,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,81,3.583,6290,200
+2026-06-26T11:02:56.198276,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,82,3.213,6290,200
+2026-06-26T11:02:56.203388,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,83,4.994,6290,200
+2026-06-26T11:02:56.207771,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,84,4.263,6290,200
+2026-06-26T11:02:56.211593,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,85,3.711,6290,200
+2026-06-26T11:02:56.215168,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,86,3.447,6290,200
+2026-06-26T11:02:56.218685,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,87,3.397,6290,200
+2026-06-26T11:02:56.222596,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,88,3.759,6290,200
+2026-06-26T11:02:56.226103,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,89,3.409,6290,200
+2026-06-26T11:02:56.229617,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,90,3.37,6290,200
+2026-06-26T11:02:56.233357,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,91,3.633,6290,200
+2026-06-26T11:02:56.236816,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,92,3.358,6290,200
+2026-06-26T11:02:56.241099,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,93,4.147,6290,200
+2026-06-26T11:02:56.245187,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,94,3.97,6290,200
+2026-06-26T11:02:56.249652,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,95,4.325,6290,200
+2026-06-26T11:02:56.253563,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,96,3.768,6290,200
+2026-06-26T11:02:56.257323,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,97,3.664,6290,200
+2026-06-26T11:02:56.260658,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,98,3.24,6290,200
+2026-06-26T11:02:56.265091,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,99,4.274,6290,200
+2026-06-26T11:02:56.269570,complexa_rest,"Complexa - Pais com cidades, linguas e universidades",REST,complexa,100,4.333,6290,200
+2026-06-26T11:02:56.277231,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,1,7.525,5386,200
+2026-06-26T11:02:56.286463,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,2,9.113,5386,200
+2026-06-26T11:02:56.312849,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,3,26.224,5386,200
+2026-06-26T11:02:56.322064,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,4,9.101,5386,200
+2026-06-26T11:02:56.328943,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,5,6.776,5386,200
+2026-06-26T11:02:56.337388,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,6,8.318,5386,200
+2026-06-26T11:02:56.344924,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,7,7.427,5386,200
+2026-06-26T11:02:56.352113,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,8,7.081,5386,200
+2026-06-26T11:02:56.360024,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,9,7.747,5386,200
+2026-06-26T11:02:56.368199,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,10,8.04,5386,200
+2026-06-26T11:02:56.375661,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,11,7.351,5386,200
+2026-06-26T11:02:56.383253,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,12,7.483,5386,200
+2026-06-26T11:02:56.391459,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,13,8.093,5386,200
+2026-06-26T11:02:56.399016,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,14,7.429,5386,200
+2026-06-26T11:02:56.406637,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,15,7.497,5386,200
+2026-06-26T11:02:56.414104,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,16,7.314,5386,200
+2026-06-26T11:02:56.421770,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,17,7.544,5386,200
+2026-06-26T11:02:56.429977,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,18,8.041,5386,200
+2026-06-26T11:02:56.438085,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,19,7.979,5386,200
+2026-06-26T11:02:56.446088,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,20,7.893,5386,200
+2026-06-26T11:02:56.454424,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,21,8.187,5386,200
+2026-06-26T11:02:56.462379,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,22,7.836,5386,200
+2026-06-26T11:02:56.469893,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,23,7.335,5386,200
+2026-06-26T11:02:56.477827,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,24,7.819,5386,200
+2026-06-26T11:02:56.486670,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,25,8.712,5386,200
+2026-06-26T11:02:56.494680,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,26,7.896,5386,200
+2026-06-26T11:02:56.501731,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,27,6.924,5386,200
+2026-06-26T11:02:56.509594,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,28,7.71,5386,200
+2026-06-26T11:02:56.517742,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,29,8.013,5386,200
+2026-06-26T11:02:56.526722,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,30,8.873,5386,200
+2026-06-26T11:02:56.535036,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,31,8.199,5386,200
+2026-06-26T11:02:56.541827,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,32,6.689,5386,200
+2026-06-26T11:02:56.550972,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,33,9.025,5386,200
+2026-06-26T11:02:56.558190,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,34,7.105,5386,200
+2026-06-26T11:02:56.566752,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,35,8.425,5386,200
+2026-06-26T11:02:56.574036,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,36,7.169,5386,200
+2026-06-26T11:02:56.581769,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,37,7.622,5386,200
+2026-06-26T11:02:56.588482,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,38,6.616,5386,200
+2026-06-26T11:02:56.596477,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,39,7.88,5386,200
+2026-06-26T11:02:56.604665,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,40,8.037,5386,200
+2026-06-26T11:02:56.612011,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,41,7.21,5386,200
+2026-06-26T11:02:56.619882,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,42,7.747,5386,200
+2026-06-26T11:02:56.627623,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,43,7.638,5386,200
+2026-06-26T11:02:56.635631,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,44,7.892,5386,200
+2026-06-26T11:02:56.643589,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,45,7.842,5386,200
+2026-06-26T11:02:56.650974,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,46,7.279,5386,200
+2026-06-26T11:02:56.658783,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,47,7.677,5386,200
+2026-06-26T11:02:56.666717,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,48,7.803,5386,200
+2026-06-26T11:02:56.675094,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,49,8.224,5386,200
+2026-06-26T11:02:56.682324,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,50,7.12,5386,200
+2026-06-26T11:02:56.699963,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,51,17.534,5386,200
+2026-06-26T11:02:56.707257,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,52,7.182,5386,200
+2026-06-26T11:02:56.715834,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,53,8.449,5386,200
+2026-06-26T11:02:56.724080,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,54,8.127,5386,200
+2026-06-26T11:02:56.732674,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,55,8.427,5386,200
+2026-06-26T11:02:56.740300,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,56,7.504,5386,200
+2026-06-26T11:02:56.747845,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,57,7.421,5386,200
+2026-06-26T11:02:56.756512,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,58,8.558,5386,200
+2026-06-26T11:02:56.764780,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,59,8.127,5386,200
+2026-06-26T11:02:56.773014,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,60,8.12,5386,200
+2026-06-26T11:02:56.780652,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,61,7.492,5386,200
+2026-06-26T11:02:56.787949,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,62,7.186,5386,200
+2026-06-26T11:02:56.795141,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,63,7.089,5386,200
+2026-06-26T11:02:56.802853,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,64,7.602,5386,200
+2026-06-26T11:02:56.810698,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,65,7.685,5386,200
+2026-06-26T11:02:56.818520,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,66,7.696,5386,200
+2026-06-26T11:02:56.826185,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,67,7.559,5386,200
+2026-06-26T11:02:56.833400,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,68,7.11,5386,200
+2026-06-26T11:02:56.841024,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,69,7.516,5386,200
+2026-06-26T11:02:56.848554,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,70,7.417,5386,200
+2026-06-26T11:02:56.856691,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,71,8.029,5386,200
+2026-06-26T11:02:56.864135,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,72,7.335,5386,200
+2026-06-26T11:02:56.872440,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,73,8.195,5386,200
+2026-06-26T11:02:56.880461,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,74,7.901,5386,200
+2026-06-26T11:02:56.888505,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,75,7.934,5386,200
+2026-06-26T11:02:56.895990,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,76,7.371,5386,200
+2026-06-26T11:02:56.904941,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,77,8.829,5386,200
+2026-06-26T11:02:56.912453,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,78,7.396,5386,200
+2026-06-26T11:02:56.921714,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,79,9.123,5386,200
+2026-06-26T11:02:56.929691,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,80,7.851,5386,200
+2026-06-26T11:02:56.944971,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,81,15.126,5386,200
+2026-06-26T11:02:56.953713,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,82,8.623,5386,200
+2026-06-26T11:02:56.962206,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,83,8.378,5386,200
+2026-06-26T11:02:56.969938,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,84,7.618,5386,200
+2026-06-26T11:02:56.977478,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,85,7.43,5386,200
+2026-06-26T11:02:56.985435,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,86,7.821,5386,200
+2026-06-26T11:02:56.994478,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,87,8.902,5386,200
+2026-06-26T11:02:57.002826,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,88,8.175,5386,200
+2026-06-26T11:02:57.010684,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,89,7.632,5386,200
+2026-06-26T11:02:57.017975,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,90,7.174,5386,200
+2026-06-26T11:02:57.026323,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,91,8.237,5386,200
+2026-06-26T11:02:57.034091,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,92,7.652,5386,200
+2026-06-26T11:02:57.042821,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,93,8.619,5386,200
+2026-06-26T11:02:57.050090,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,94,7.138,5386,200
+2026-06-26T11:02:57.058241,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,95,8.032,5386,200
+2026-06-26T11:02:57.066001,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,96,7.655,5386,200
+2026-06-26T11:02:57.073573,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,97,7.463,5386,200
+2026-06-26T11:02:57.082950,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,98,9.265,5386,200
+2026-06-26T11:02:57.091199,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,99,8.143,5386,200
+2026-06-26T11:02:57.100047,complexa_graphql,"Complexa - Pais com cidades, linguas e universidades",GraphQL,complexa,100,8.644,5386,200
