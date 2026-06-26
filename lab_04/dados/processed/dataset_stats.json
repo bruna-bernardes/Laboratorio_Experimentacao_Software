@@ -1,0 +1,15 @@
+{
+  "total_prs": 1332221,
+  "abandoned": 37641,
+  "not_abandoned": 1294580,
+  "abandonment_rate": 2.8,
+  "repos": 384,
+  "bots_removed": 228092,
+  "total_removed": 427519,
+  "removed_pct": 24.3,
+  "states": {
+    "Merged": 1030583,
+    "Closed": 262985,
+    "Open": 38653
+  }
+}
